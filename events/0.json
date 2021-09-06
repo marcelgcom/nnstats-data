@@ -1,7 +1,7 @@
 {
 	"id": 278,
 	"name": "For Charity",
-	"image": "events_ge_forcharity_event.png",
+	"image": "ge_forcharity_motd.png",
 	"fleets": [
 		{
 			"fid": 789814651191296,
