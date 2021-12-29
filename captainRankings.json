@@ -67,21 +67,7 @@
   "avatar": "crew_portraits_cm_picard_numberone_sm.webp",
   "fleet": "Rise of the Phoenix",
   "change": 0,
-  "last": "0001-01-01T00:00:00Z"
- },
- {
-  "id": 207378,
-  "name": "km • stones",
-  "ranks": [
-   5,
-   9,
-   33,
-   12
-  ],
-  "avatar": "crew_portraits_cm_gary_seven_sm.webp",
-  "fleet": "KLINGON MARAUDERS",
-  "change": 0,
-  "last": "2020-12-21T00:00:00Z"
+  "last": "2021-09-13T00:00:00Z"
  },
  {
   "id": 3897545,
@@ -98,12 +84,26 @@
   "last": "2021-12-06T00:00:00Z"
  },
  {
+  "id": 207378,
+  "name": "km • stones",
+  "ranks": [
+   4,
+   9,
+   33,
+   12
+  ],
+  "avatar": "crew_portraits_cm_gary_seven_sm.webp",
+  "fleet": "KLINGON MARAUDERS",
+  "change": 0,
+  "last": "2020-12-21T00:00:00Z"
+ },
+ {
   "id": 2703700,
   "name": "L'homme D'étain",
   "ranks": [
    4,
    8,
-   19,
+   18,
    14
   ],
   "avatar": "crew_portraits_cm_proton_avatar_sm.webp",
@@ -173,7 +173,7 @@
   "ranks": [
    3,
    5,
-   31,
+   30,
    14
   ],
   "avatar": "crew_portraits_avatar_grudge_sm.webp",
@@ -313,7 +313,7 @@
   "ranks": [
    2,
    6,
-   34,
+   33,
    63
   ],
   "avatar": "crew_portraits_cm_scottystandard_sm.webp",
@@ -403,7 +403,7 @@
   "avatar": "crew_portraits_cm_sisko_desert_sm.webp",
   "fleet": "DEUTSCH KLINGONISCHE ALLIANZ",
   "change": 0,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-07-19T00:00:00Z"
  },
  {
   "id": 3463840,
@@ -417,7 +417,7 @@
   "avatar": "crew_portraits_cm_spockmirror_sm.webp",
   "fleet": "WATCHMEN",
   "change": 0,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-07-05T00:00:00Z"
  },
  {
   "id": 2934549,
@@ -543,7 +543,7 @@
   "avatar": "crew_portraits_cm_riker_zhenghe_sm.webp",
   "fleet": "STARSHIP TRISTA",
   "change": 0,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-08-23T00:00:00Z"
  },
  {
   "id": 2868782,
@@ -551,13 +551,13 @@
   "ranks": [
    2,
    1,
-   44,
+   43,
    26
   ],
   "avatar": "crew_portraits_cm_livingston_sm.webp",
   "fleet": "ST FLEET UNIVERSITY",
   "change": 0,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-09-13T00:00:00Z"
  },
  {
   "id": 868391,
@@ -756,20 +756,6 @@
   "last": "2017-06-26T00:00:00Z"
  },
  {
-  "id": 183056,
-  "name": "MM8610",
-  "ranks": [
-   2,
-   0,
-   6,
-   0
-  ],
-  "avatar": "crew_portraits_cm_worfdefiant_sm.webp",
-  "fleet": "",
-  "change": 0,
-  "last": "2017-02-13T00:00:00Z"
- },
- {
   "id": 5086935,
   "name": "AutoAlt1 {AF}",
   "ranks": [
@@ -784,6 +770,20 @@
   "last": "2019-10-28T00:00:00Z"
  },
  {
+  "id": 183056,
+  "name": "MM8610",
+  "ranks": [
+   2,
+   0,
+   5,
+   0
+  ],
+  "avatar": "crew_portraits_cm_worfdefiant_sm.webp",
+  "fleet": "",
+  "change": 0,
+  "last": "2017-02-13T00:00:00Z"
+ },
+ {
   "id": 2908157,
   "name": "[VIP0] Stellar Ice",
   "ranks": [
@@ -795,7 +795,7 @@
   "avatar": "crew_portraits_cm_jadziatongo_sm.webp",
   "fleet": "VIP 0 HEROES",
   "change": 0,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-08-16T00:00:00Z"
  },
  {
   "id": 1515080,
@@ -823,7 +823,7 @@
   "avatar": "crew_portraits_cm_data_prospero_sm.webp",
   "fleet": "",
   "change": 0,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-09-20T00:00:00Z"
  },
  {
   "id": 141584,
@@ -836,7 +836,7 @@
   ],
   "avatar": "crew_portraits_cm_sarek_mirror_sm.webp",
   "fleet": "STARS COMMAND  (GER)",
-  "change": 13,
+  "change": 12,
   "last": "2021-12-27T00:00:00Z"
  },
  {
@@ -882,20 +882,6 @@
   "last": "2021-04-26T00:00:00Z"
  },
  {
-  "id": 197191,
-  "name": "ADM. K’Ehleyr Scarborough (KM)",
-  "ranks": [
-   1,
-   3,
-   12,
-   26
-  ],
-  "avatar": "crew_portraits_cm_q_miss_sm.webp",
-  "fleet": "KLINGON MARAUDERS",
-  "change": -1,
-  "last": "0001-01-01T00:00:00Z"
- },
- {
   "id": 1898835,
   "name": "Yossarian",
   "ranks": [
@@ -921,7 +907,7 @@
   "avatar": "crew_portraits_cm_majel_numberone_sm.webp",
   "fleet": "Inner Planets Alliance",
   "change": -1,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-09-20T00:00:00Z"
  },
  {
   "id": 48450,
@@ -1032,7 +1018,7 @@
   ],
   "avatar": "crew_portraits_cm_riker_mintakan_sm.webp",
   "fleet": "10 FORWARD LOUNGERS",
-  "change": 2,
+  "change": 3,
   "last": "2021-12-27T00:00:00Z"
  },
  {
@@ -1042,7 +1028,7 @@
    1,
    2,
    13,
-   18
+   17
   ],
   "avatar": "crew_portraits_cm_picard_fencing_sm.webp",
   "fleet": "Tiny Little Lifeforms",
@@ -1062,6 +1048,20 @@
   "fleet": "",
   "change": -1,
   "last": "2018-09-10T00:00:00Z"
+ },
+ {
+  "id": 197191,
+  "name": "ADM. K’Ehleyr Scarborough (KM)",
+  "ranks": [
+   1,
+   2,
+   12,
+   26
+  ],
+  "avatar": "crew_portraits_cm_q_miss_sm.webp",
+  "fleet": "KLINGON MARAUDERS",
+  "change": -1,
+  "last": "2021-09-13T00:00:00Z"
  },
  {
   "id": 1177602,
@@ -1299,7 +1299,7 @@
   "avatar": "crew_portraits_cm_vicfontaine_sm.webp",
   "fleet": "10 FORWARD LOUNGERS",
   "change": 0,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-08-02T00:00:00Z"
  },
  {
   "id": 7487837,
@@ -1565,7 +1565,7 @@
   "avatar": "crew_portraits_cm_shran_ransom_sm.webp",
   "fleet": "VIP 0 HEROES",
   "change": 0,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-09-13T00:00:00Z"
  },
  {
   "id": 6612826,
@@ -1579,7 +1579,7 @@
   "avatar": "crew_portraits_cm_tribble_captain_sm.webp",
   "fleet": "",
   "change": 0,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-09-13T00:00:00Z"
  },
  {
   "id": 1980552,
@@ -1649,7 +1649,7 @@
   "avatar": "crew_portraits_cm_wesleylieutenant_sm.webp",
   "fleet": "Nimitz the Space Flattop",
   "change": 0,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-07-19T00:00:00Z"
  },
  {
   "id": 2219348,
@@ -1691,7 +1691,7 @@
   "avatar": "crew_portraits_cm_proton_avatar_sm.webp",
   "fleet": "STRONGHOLD OF SAVAGES",
   "change": 0,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-09-20T00:00:00Z"
  },
  {
   "id": 1750348,
@@ -1775,7 +1775,7 @@
   "avatar": "crew_portraits_cm_one_sm.webp",
   "fleet": "Battleship Yamato",
   "change": 0,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-08-16T00:00:00Z"
  },
  {
   "id": 2736970,
@@ -1985,7 +1985,7 @@
   "avatar": "crew_portraits_cm_hawk_assimilated_sm.webp",
   "fleet": "VIP 0 CHAMPIONS",
   "change": 0,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-06-07T00:00:00Z"
  },
  {
   "id": 6551701,
@@ -2030,20 +2030,6 @@
   "last": "2021-10-25T00:00:00Z"
  },
  {
-  "id": 633169,
-  "name": "RACH *SG66*",
-  "ranks": [
-   1,
-   0,
-   3,
-   8
-  ],
-  "avatar": "crew_portraits_cm_spock_captain_sm.webp",
-  "fleet": "",
-  "change": 0,
-  "last": "2018-09-03T00:00:00Z"
- },
- {
   "id": 3839265,
   "name": "Webberoni [SST]",
   "ranks": [
@@ -2055,7 +2041,7 @@
   "avatar": "crew_portraits_cm_thot_gor_sm.webp",
   "fleet": "STARSHIP TRISTA",
   "change": 0,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-07-05T00:00:00Z"
  },
  {
   "id": 352554,
@@ -2064,7 +2050,7 @@
    1,
    0,
    3,
-   3
+   2
   ],
   "avatar": "crew_portraits_cm_crell_sm.webp",
   "fleet": "",
@@ -2084,6 +2070,20 @@
   "fleet": "",
   "change": 0,
   "last": "2019-10-14T00:00:00Z"
+ },
+ {
+  "id": 633169,
+  "name": "RACH *SG66*",
+  "ranks": [
+   1,
+   0,
+   2,
+   8
+  ],
+  "avatar": "crew_portraits_cm_spock_captain_sm.webp",
+  "fleet": "",
+  "change": 0,
+  "last": "2018-09-03T00:00:00Z"
  },
  {
   "id": 5004297,
@@ -2167,7 +2167,7 @@
   "avatar": "crew_portraits_cm_commanderkruge_sm.webp",
   "fleet": "Klingon - Hirogen Alliance",
   "change": 0,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-08-09T00:00:00Z"
  },
  {
   "id": 5133291,
@@ -2209,7 +2209,7 @@
   "avatar": "crew_portraits_cm_janeway_viceadmiral_sm.webp",
   "fleet": "Subspace Eddies",
   "change": 0,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-08-23T00:00:00Z"
  },
  {
   "id": 4530907,
@@ -2296,20 +2296,6 @@
   "last": "2019-09-16T00:00:00Z"
  },
  {
-  "id": 409623,
-  "name": "Captain Me [O]",
-  "ranks": [
-   1,
-   0,
-   1,
-   1
-  ],
-  "avatar": "crew_portraits_cm_jadzia_honey_bare_sm.webp",
-  "fleet": "ORCAS",
-  "change": 0,
-  "last": "2018-09-17T00:00:00Z"
- },
- {
   "id": 948967,
   "name": "[STFL A.D.] Mirror Mac K.",
   "ranks": [
@@ -2336,6 +2322,20 @@
   "fleet": "",
   "change": 0,
   "last": "2019-01-28T00:00:00Z"
+ },
+ {
+  "id": 409623,
+  "name": "Captain Me [O]",
+  "ranks": [
+   1,
+   0,
+   1,
+   0
+  ],
+  "avatar": "crew_portraits_cm_jadzia_honey_bare_sm.webp",
+  "fleet": "ORCAS",
+  "change": 0,
+  "last": "2018-09-17T00:00:00Z"
  },
  {
   "id": 4055520,
@@ -2573,7 +2573,7 @@
   "avatar": "crew_portraits_cm_picardcaptain_sm.webp",
   "fleet": "Tiny Little Lifeforms",
   "change": 0,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-09-13T00:00:00Z"
  },
  {
   "id": 2585880,
@@ -2755,7 +2755,7 @@
   "avatar": "crew_portraits_cm_yartng_sm.webp",
   "fleet": "Battleship Musashi",
   "change": 0,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-07-05T00:00:00Z"
  },
  {
   "id": 2140571,
@@ -2820,7 +2820,7 @@
    0,
    2,
    22,
-   26
+   25
   ],
   "avatar": "crew_portraits_cm_tuckermirror_sm.webp",
   "fleet": "",
@@ -2853,7 +2853,7 @@
   "avatar": "crew_portraits_cm_garak_saboteur_sm.webp",
   "fleet": "BLOOD LEGION",
   "change": 0,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-07-05T00:00:00Z"
  },
  {
   "id": 4985682,
@@ -2923,7 +2923,7 @@
   "avatar": "crew_portraits_cm_worf_sm.webp",
   "fleet": "ORCAS",
   "change": 0,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-08-30T00:00:00Z"
  },
  {
   "id": 923665,
@@ -3072,7 +3072,7 @@
    0,
    2,
    1,
-   13
+   12
   ],
   "avatar": "crew_portraits_avatar_grudge_sm.webp",
   "fleet": "FURYON WAKE",
@@ -3119,7 +3119,7 @@
   "avatar": "crew_portraits_cm_kirkgenerations_sm.webp",
   "fleet": "=j= space junkies akademie",
   "change": 0,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-09-13T00:00:00Z"
  },
  {
   "id": 1266050,
@@ -3175,7 +3175,7 @@
   "avatar": "crew_portraits_cm_khan_sm.webp",
   "fleet": "",
   "change": 0,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-08-23T00:00:00Z"
  },
  {
   "id": 6253735,
@@ -3245,7 +3245,7 @@
   "avatar": "crew_portraits_cm_sevenwwii_sm.webp",
   "fleet": "BLOOD LEGION",
   "change": 0,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-08-09T00:00:00Z"
  },
  {
   "id": 4228862,
@@ -3287,7 +3287,7 @@
   "avatar": "crew_portraits_cm_archer_testpilot_sm.webp",
   "fleet": "FURYON WAKE",
   "change": 0,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-07-19T00:00:00Z"
  },
  {
   "id": 216552,
@@ -3357,7 +3357,7 @@
   "avatar": "crew_portraits_cm_riker_q_sm.webp",
   "fleet": "Subspace Eddies",
   "change": -1,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-07-19T00:00:00Z"
  },
  {
   "id": 240662,
@@ -3385,7 +3385,7 @@
   "avatar": "crew_portraits_cm_white_rabbit_sm.webp",
   "fleet": "\u003ci\u003e\u003cu\u003e\u003c#FF0000\u003eISS \u003c#000000\u003eVindicator",
   "change": -1,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-09-27T00:00:00Z"
  },
  {
   "id": 946816,
@@ -3427,7 +3427,7 @@
   "avatar": "crew_portraits_cm_changgeneral_sm.webp",
   "fleet": "D3VIL PUPZ {DD}",
   "change": 0,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-08-09T00:00:00Z"
  },
  {
   "id": 2014538,
@@ -3598,20 +3598,6 @@
   "last": "2017-03-13T00:00:00Z"
  },
  {
-  "id": 468978,
-  "name": "[BL] James T. Kirk",
-  "ranks": [
-   0,
-   1,
-   8,
-   11
-  ],
-  "avatar": "crew_portraits_cm_kirkgenerations_sm.webp",
-  "fleet": "",
-  "change": 0,
-  "last": "2019-01-07T00:00:00Z"
- },
- {
   "id": 5643514,
   "name": "[DKA] Resnec",
   "ranks": [
@@ -3682,6 +3668,20 @@
   "last": "2021-12-13T00:00:00Z"
  },
  {
+  "id": 468978,
+  "name": "[BL] James T. Kirk",
+  "ranks": [
+   0,
+   1,
+   7,
+   11
+  ],
+  "avatar": "crew_portraits_cm_kirkgenerations_sm.webp",
+  "fleet": "",
+  "change": 0,
+  "last": "2019-01-07T00:00:00Z"
+ },
+ {
   "id": 595154,
   "name": "(SST) Chuckles",
   "ranks": [
@@ -3735,7 +3735,7 @@
   "avatar": "crew_portraits_avatar_grudge_sm.webp",
   "fleet": "D3VIL PUPZ {DD}",
   "change": 0,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-06-28T00:00:00Z"
  },
  {
   "id": 3873822,
@@ -3791,7 +3791,7 @@
   "avatar": "crew_portraits_cm_pike_christopher_sm.webp",
   "fleet": "ISS Yamato",
   "change": 0,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-09-06T00:00:00Z"
  },
  {
   "id": 4375450,
@@ -3819,7 +3819,7 @@
   "avatar": "crew_portraits_cm_kirk_rura_penthe_sm.webp",
   "fleet": "FREEDOM FIGHTERS!",
   "change": 0,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-08-30T00:00:00Z"
  },
  {
   "id": 6929793,
@@ -3917,7 +3917,7 @@
   "avatar": "crew_portraits_cm_tuckercowboy_sm.webp",
   "fleet": "",
   "change": 0,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-08-02T00:00:00Z"
  },
  {
   "id": 3867537,
@@ -4099,7 +4099,7 @@
   "avatar": "crew_portraits_cm_spock_seeking_sm.webp",
   "fleet": "",
   "change": 0,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-08-09T00:00:00Z"
  },
  {
   "id": 3450108,
@@ -4114,20 +4114,6 @@
   "fleet": "",
   "change": 0,
   "last": "2020-02-17T00:00:00Z"
- },
- {
-  "id": 1791678,
-  "name": "RainBlast",
-  "ranks": [
-   0,
-   1,
-   4,
-   1
-  ],
-  "avatar": "crew_portraits_cm_janeway_evolved_sm.webp",
-  "fleet": "",
-  "change": 0,
-  "last": "2019-05-27T00:00:00Z"
  },
  {
   "id": 471308,
@@ -4156,20 +4142,6 @@
   "fleet": "",
   "change": 0,
   "last": "2018-07-02T00:00:00Z"
- },
- {
-  "id": 681658,
-  "name": "Worf 359",
-  "ranks": [
-   0,
-   1,
-   3,
-   14
-  ],
-  "avatar": "crew_portraits_cm_worfdefiant_sm.webp",
-  "fleet": "",
-  "change": 0,
-  "last": "2017-12-04T00:00:00Z"
  },
  {
   "id": 5882563,
@@ -4266,7 +4238,7 @@
   ],
   "avatar": "crew_portraits_cm_vash_profiteer_sm.webp",
   "fleet": "ALASKA QUADRANT",
-  "change": 19,
+  "change": 21,
   "last": "2021-12-27T00:00:00Z"
  },
  {
@@ -4466,6 +4438,20 @@
   "last": "2021-01-04T00:00:00Z"
  },
  {
+  "id": 1791678,
+  "name": "RainBlast",
+  "ranks": [
+   0,
+   1,
+   3,
+   1
+  ],
+  "avatar": "crew_portraits_cm_janeway_evolved_sm.webp",
+  "fleet": "",
+  "change": -1,
+  "last": "2019-05-27T00:00:00Z"
+ },
+ {
   "id": 5161685,
   "name": "(BRO)Princess of Hate and Lies",
   "ranks": [
@@ -4478,6 +4464,20 @@
   "fleet": "",
   "change": -1,
   "last": "2018-07-16T00:00:00Z"
+ },
+ {
+  "id": 681658,
+  "name": "Worf 359",
+  "ranks": [
+   0,
+   1,
+   2,
+   14
+  ],
+  "avatar": "crew_portraits_cm_worfdefiant_sm.webp",
+  "fleet": "",
+  "change": -1,
+  "last": "2017-12-04T00:00:00Z"
  },
  {
   "id": 4004638,
@@ -4533,7 +4533,7 @@
   "avatar": "crew_portraits_cm_obrienwwii_sm.webp",
   "fleet": "UNNATURAL SELECTIONS",
   "change": -1,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-08-23T00:00:00Z"
  },
  {
   "id": 2144589,
@@ -4547,7 +4547,7 @@
   "avatar": "crew_portraits_cm_parisproton_sm.webp",
   "fleet": "STARSHIP TRISTA",
   "change": -1,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-08-16T00:00:00Z"
  },
  {
   "id": 2713274,
@@ -4631,7 +4631,7 @@
   "avatar": "crew_portraits_cm_crushersail_sm.webp",
   "fleet": "",
   "change": 0,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-08-23T00:00:00Z"
  },
  {
   "id": 7371849,
@@ -4799,7 +4799,7 @@
   "avatar": "crew_portraits_avatar_grudge_sm.webp",
   "fleet": "COLONIAL FLEET OHIO",
   "change": 0,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-07-19T00:00:00Z"
  },
  {
   "id": 433457,
@@ -4844,20 +4844,6 @@
   "last": "2020-03-04T00:00:00Z"
  },
  {
-  "id": 418511,
-  "name": "[BL] The Doctor",
-  "ranks": [
-   0,
-   1,
-   1,
-   6
-  ],
-  "avatar": "crew_portraits_cm_emhmobile_sm.webp",
-  "fleet": "",
-  "change": -1,
-  "last": "2016-11-08T00:00:00Z"
- },
- {
   "id": 2732416,
   "name": "Captain Rosewater, Join us, eh",
   "ranks": [
@@ -4883,7 +4869,7 @@
   "avatar": "crew_portraits_cm_tribble_captain_sm.webp",
   "fleet": "ISS Yamato",
   "change": 0,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-09-20T00:00:00Z"
  },
  {
   "id": 1245790,
@@ -4897,7 +4883,7 @@
   "avatar": "crew_portraits_cm_vina_sm.webp",
   "fleet": "USMC DOWNTIME",
   "change": 0,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-08-09T00:00:00Z"
  },
  {
   "id": 3455267,
@@ -4911,7 +4897,7 @@
   "avatar": "crew_portraits_cm_picard_formal_sm.webp",
   "fleet": "SPOCKWORK ORANGE",
   "change": 0,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-06-28T00:00:00Z"
  },
  {
   "id": 1750125,
@@ -5012,20 +4998,6 @@
   "last": "2020-10-05T00:00:00Z"
  },
  {
-  "id": 115612,
-  "name": "[Retired] Terfin",
-  "ranks": [
-   0,
-   1,
-   1,
-   2
-  ],
-  "avatar": "crew_portraits_cm_garak_secretagent_sm.webp",
-  "fleet": "",
-  "change": 0,
-  "last": "2019-04-01T00:00:00Z"
- },
- {
   "id": 3128000,
   "name": ".|.  Zenya",
   "ranks": [
@@ -5036,7 +5008,7 @@
   ],
   "avatar": "crew_portraits_cm_satomirror_sm.webp",
   "fleet": "ISS Yamato",
-  "change": 1402,
+  "change": 1399,
   "last": "2021-12-27T00:00:00Z"
  },
  {
@@ -5051,7 +5023,7 @@
   "avatar": "crew_portraits_cm_martokgeneral_sm.webp",
   "fleet": "Shakespeare's Roughnecks",
   "change": 0,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-09-13T00:00:00Z"
  },
  {
   "id": 61340,
@@ -5066,6 +5038,20 @@
   "fleet": "THE EXPLORER'S ( NL )",
   "change": 0,
   "last": "2018-01-08T00:00:00Z"
+ },
+ {
+  "id": 115612,
+  "name": "[Retired] Terfin",
+  "ranks": [
+   0,
+   1,
+   1,
+   1
+  ],
+  "avatar": "crew_portraits_cm_garak_secretagent_sm.webp",
+  "fleet": "",
+  "change": 0,
+  "last": "2019-04-01T00:00:00Z"
  },
  {
   "id": 474624,
@@ -5163,7 +5149,7 @@
   "avatar": "crew_portraits_cm_niners_avatar_sm.webp",
   "fleet": "STEELER NATION",
   "change": -1,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-06-07T00:00:00Z"
  },
  {
   "id": 2049696,
@@ -5191,7 +5177,7 @@
   "avatar": "crew_portraits_cm_spock_seeking_sm.webp",
   "fleet": "=j= space junkies germany",
   "change": -1,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-07-05T00:00:00Z"
  },
  {
   "id": 2941687,
@@ -5331,7 +5317,7 @@
   "avatar": "crew_portraits_cm_aleek_om_sm.webp",
   "fleet": "",
   "change": -1,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-08-09T00:00:00Z"
  },
  {
   "id": 4122776,
@@ -5415,7 +5401,7 @@
   "avatar": "crew_portraits_cm_mress_sm.webp",
   "fleet": "OMEGA MOLECULES",
   "change": -1,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-09-13T00:00:00Z"
  },
  {
   "id": 3606925,
@@ -5457,7 +5443,7 @@
   "avatar": "crew_portraits_cm_seven_of_nine_ev_sm.webp",
   "fleet": "THE GUARDIANS OF TOMORROW",
   "change": -1,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-08-02T00:00:00Z"
  },
  {
   "id": 345840,
@@ -5485,7 +5471,7 @@
   "avatar": "crew_portraits_cm_anya_young_sm.webp",
   "fleet": "patterns of force",
   "change": -2,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-08-16T00:00:00Z"
  },
  {
   "id": 2955164,
@@ -5918,22 +5904,8 @@
   ],
   "avatar": "crew_portraits_cm_spock_seeking_sm.webp",
   "fleet": "THE GUARDIANS OF TOMORROW",
-  "change": 6,
+  "change": 4,
   "last": "2021-12-27T00:00:00Z"
- },
- {
-  "id": 2077532,
-  "name": "[LF] Chewy",
-  "ranks": [
-   0,
-   0,
-   11,
-   11
-  ],
-  "avatar": "crew_portraits_cm_antaakent_sm.webp",
-  "fleet": "",
-  "change": -2,
-  "last": "2017-08-28T00:00:00Z"
  },
  {
   "id": 3931623,
@@ -5950,6 +5922,20 @@
   "last": "2021-04-05T00:00:00Z"
  },
  {
+  "id": 2077532,
+  "name": "[LF] Chewy",
+  "ranks": [
+   0,
+   0,
+   11,
+   10
+  ],
+  "avatar": "crew_portraits_cm_antaakent_sm.webp",
+  "fleet": "",
+  "change": -2,
+  "last": "2017-08-28T00:00:00Z"
+ },
+ {
   "id": 24250,
   "name": "[TGE] DogeKoiní",
   "ranks": [
@@ -5964,20 +5950,6 @@
   "last": "2020-10-05T00:00:00Z"
  },
  {
-  "id": 1594969,
-  "name": "Belgarion",
-  "ranks": [
-   0,
-   0,
-   11,
-   4
-  ],
-  "avatar": "crew_portraits_cm_martia_sm.webp",
-  "fleet": "BELGARIAD",
-  "change": -2,
-  "last": "2017-02-27T00:00:00Z"
- },
- {
   "id": 178454,
   "name": "=GBP= Captain Q2",
   "ranks": [
@@ -5990,20 +5962,6 @@
   "fleet": "",
   "change": -2,
   "last": "2020-01-13T00:00:00Z"
- },
- {
-  "id": 436952,
-  "name": "[BL] Ron",
-  "ranks": [
-   0,
-   0,
-   10,
-   27
-  ],
-  "avatar": "crew_portraits_cm_kirkgreenwrap_sm.webp",
-  "fleet": "",
-  "change": -2,
-  "last": "2018-12-31T00:00:00Z"
  },
  {
   "id": 1036360,
@@ -6101,7 +6059,7 @@
   "avatar": "crew_portraits_cm_hugh_culber_sm.webp",
   "fleet": "-ALLIED COMMAND ELITE-",
   "change": -1,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-07-19T00:00:00Z"
  },
  {
   "id": 4588957,
@@ -6188,6 +6146,20 @@
   "last": "2021-11-15T00:00:00Z"
  },
  {
+  "id": 1594969,
+  "name": "Belgarion",
+  "ranks": [
+   0,
+   0,
+   10,
+   4
+  ],
+  "avatar": "crew_portraits_cm_martia_sm.webp",
+  "fleet": "BELGARIAD",
+  "change": -1,
+  "last": "2017-02-27T00:00:00Z"
+ },
+ {
   "id": 3314994,
   "name": "Captain Snoopy",
   "ranks": [
@@ -6216,6 +6188,20 @@
   "last": "2019-09-23T00:00:00Z"
  },
  {
+  "id": 436952,
+  "name": "[BL] Ron",
+  "ranks": [
+   0,
+   0,
+   9,
+   27
+  ],
+  "avatar": "crew_portraits_cm_kirkgreenwrap_sm.webp",
+  "fleet": "",
+  "change": -1,
+  "last": "2018-12-31T00:00:00Z"
+ },
+ {
   "id": 324152,
   "name": "(FF) Sockmo (ret)",
   "ranks": [
@@ -6241,7 +6227,7 @@
   "avatar": "crew_portraits_cm_garak_secretagent_sm.webp",
   "fleet": "(TLA) THE LIBERAL ALLIANCE",
   "change": -1,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-08-23T00:00:00Z"
  },
  {
   "id": 1302767,
@@ -6339,7 +6325,7 @@
   "avatar": "crew_portraits_cm_losira_sm.webp",
   "fleet": "The Impulse Engineers",
   "change": -1,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-09-06T00:00:00Z"
  },
  {
   "id": 323140,
@@ -6404,7 +6390,7 @@
    0,
    0,
    8,
-   21
+   20
   ],
   "avatar": "crew_portraits_cm_damarrevolution_sm.webp",
   "fleet": "KLINGON MARAUDERS",
@@ -6423,7 +6409,7 @@
   "avatar": "crew_portraits_cm_sudersabotuer_sm.webp",
   "fleet": "Inner Planets Alliance",
   "change": -1,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-09-20T00:00:00Z"
  },
  {
   "id": 4546344,
@@ -6451,7 +6437,7 @@
   "avatar": "crew_portraits_cm_proton_avatar_sm.webp",
   "fleet": "RUFFRIDERS",
   "change": -1,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-08-09T00:00:00Z"
  },
  {
   "id": 6391674,
@@ -6494,20 +6480,6 @@
   "fleet": "=j= space junkies germany",
   "change": -1,
   "last": "2021-12-27T00:00:00Z"
- },
- {
-  "id": 10950,
-  "name": "(TLA) MaraudingMaroon",
-  "ranks": [
-   0,
-   0,
-   8,
-   7
-  ],
-  "avatar": "crew_portraits_cm_picardcaptain_sm.webp",
-  "fleet": "",
-  "change": -1,
-  "last": "2019-04-01T00:00:00Z"
  },
  {
   "id": 9054,
@@ -6564,6 +6536,20 @@
   "fleet": "",
   "change": -1,
   "last": "2021-04-12T00:00:00Z"
+ },
+ {
+  "id": 10950,
+  "name": "(TLA) MaraudingMaroon",
+  "ranks": [
+   0,
+   0,
+   8,
+   6
+  ],
+  "avatar": "crew_portraits_cm_picardcaptain_sm.webp",
+  "fleet": "",
+  "change": -1,
+  "last": "2019-04-01T00:00:00Z"
  },
  {
   "id": 5148399,
@@ -6661,7 +6647,7 @@
   "avatar": "crew_portraits_cm_kirk_android_sm.webp",
   "fleet": "Subspace Eddies",
   "change": -1,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-08-23T00:00:00Z"
  },
  {
   "id": 1788380,
@@ -6689,7 +6675,7 @@
   "avatar": "crew_portraits_cm_kahless_sm.webp",
   "fleet": "Battleship Yamato",
   "change": -1,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-07-19T00:00:00Z"
  },
  {
   "id": 6557700,
@@ -6731,7 +6717,7 @@
   "avatar": "crew_portraits_cm_lorca_sm.webp",
   "fleet": "• Fair Haven •",
   "change": -1,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-08-30T00:00:00Z"
  },
  {
   "id": 3966526,
@@ -6760,20 +6746,6 @@
   "fleet": "ORCAS",
   "change": -1,
   "last": "2017-06-05T00:00:00Z"
- },
- {
-  "id": 868915,
-  "name": "krik rorrim",
-  "ranks": [
-   0,
-   0,
-   7,
-   15
-  ],
-  "avatar": "crew_portraits_cm_kirk_gangster_sm.webp",
-  "fleet": "",
-  "change": -1,
-  "last": "2019-07-08T00:00:00Z"
  },
  {
   "id": 239582,
@@ -6829,7 +6801,7 @@
   "avatar": "crew_portraits_cm_kolos_sm.webp",
   "fleet": "÷ Battleship Nagato",
   "change": -1,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-07-12T00:00:00Z"
  },
  {
   "id": 2031537,
@@ -6899,7 +6871,7 @@
   "avatar": "crew_portraits_cm_picard_sinister_sm.webp",
   "fleet": "DUTCH DELTA FLEET",
   "change": -1,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-07-12T00:00:00Z"
  },
  {
   "id": 364592,
@@ -6927,7 +6899,7 @@
   "avatar": "crew_portraits_cm_riker_caveman_sm.webp",
   "fleet": "Shadow Demon Coalition",
   "change": -1,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-07-12T00:00:00Z"
  },
  {
   "id": 600267,
@@ -7025,7 +6997,7 @@
   "avatar": "crew_portraits_cm_martokgeneral_sm.webp",
   "fleet": "FREEDOM  FIGHTERS!",
   "change": -1,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-08-16T00:00:00Z"
  },
  {
   "id": 3180836,
@@ -7053,7 +7025,7 @@
   "avatar": "crew_portraits_cm_janeway_evolved_sm.webp",
   "fleet": "9 INCH SPOCK",
   "change": -1,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-07-26T00:00:00Z"
  },
  {
   "id": 2188650,
@@ -7095,7 +7067,7 @@
   "avatar": "crew_portraits_cm_quark_wedding_day_sm.webp",
   "fleet": "10 FORWARD LOUNGERS",
   "change": -1,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-07-26T00:00:00Z"
  },
  {
   "id": 582158,
@@ -7123,7 +7095,7 @@
   "avatar": "crew_portraits_avatar_grudge_sm.webp",
   "fleet": "Inner Planets Alliance",
   "change": -1,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-07-19T00:00:00Z"
  },
  {
   "id": 230770,
@@ -7193,7 +7165,7 @@
   "avatar": "crew_portraits_cm_locutus_sm.webp",
   "fleet": "=j= space junkies",
   "change": -1,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-08-02T00:00:00Z"
  },
  {
   "id": 6942310,
@@ -7221,7 +7193,7 @@
   "avatar": "crew_portraits_cm_garak_saboteur_sm.webp",
   "fleet": "EVIL EMPIRE",
   "change": -1,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-08-23T00:00:00Z"
  },
  {
   "id": 4738915,
@@ -7249,7 +7221,7 @@
   "avatar": "crew_portraits_cm_reno_medic_sm.webp",
   "fleet": "10 FORWARD LOUNGERS",
   "change": -1,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-08-23T00:00:00Z"
  },
  {
   "id": 4184935,
@@ -7262,8 +7234,22 @@
   ],
   "avatar": "crew_portraits_cm_clancy_admiral_sm.webp",
   "fleet": "THE GUARDIANS OF TOMORROW",
-  "change": -1,
+  "change": 0,
   "last": "2021-12-27T00:00:00Z"
+ },
+ {
+  "id": 868915,
+  "name": "krik rorrim",
+  "ranks": [
+   0,
+   0,
+   6,
+   15
+  ],
+  "avatar": "crew_portraits_cm_kirk_gangster_sm.webp",
+  "fleet": "",
+  "change": -1,
+  "last": "2019-07-08T00:00:00Z"
  },
  {
   "id": 1842037,
@@ -7518,20 +7504,6 @@
   "last": "2021-12-06T00:00:00Z"
  },
  {
-  "id": 1289676,
-  "name": "Captain Marlin {ST}",
-  "ranks": [
-   0,
-   0,
-   6,
-   4
-  ],
-  "avatar": "crew_portraits_cm_kirktosyellow_sm.webp",
-  "fleet": "STAR TRUCKERZ",
-  "change": -1,
-  "last": "2017-09-18T00:00:00Z"
- },
- {
   "id": 419141,
   "name": "[SF] The Cue-Roque",
   "ranks": [
@@ -7655,7 +7627,7 @@
   "avatar": "crew_portraits_cm_soran_sm.webp",
   "fleet": "=j= space junkies germany",
   "change": -1,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-07-05T00:00:00Z"
  },
  {
   "id": 2030505,
@@ -8005,7 +7977,7 @@
   "avatar": "crew_portraits_cm_dsc_stamets_mirror_sm.webp",
   "fleet": "Four Twenty",
   "change": -1,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-07-12T00:00:00Z"
  },
  {
   "id": 4816185,
@@ -8033,7 +8005,7 @@
   "avatar": "crew_portraits_cm_white_rabbit_sm.webp",
   "fleet": "STAR TRUCKERZ",
   "change": -1,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-07-19T00:00:00Z"
  },
  {
   "id": 4255617,
@@ -8062,20 +8034,6 @@
   "fleet": "D3VIL CURS: The R \u0026 R Fleet",
   "change": -1,
   "last": "2018-03-05T00:00:00Z"
- },
- {
-  "id": 1232257,
-  "name": "[7TW] Captain Mustard",
-  "ranks": [
-   0,
-   0,
-   5,
-   8
-  ],
-  "avatar": "crew_portraits_cm_picard_formal_sm.webp",
-  "fleet": "7th Renegade Wing",
-  "change": -1,
-  "last": "2018-12-03T00:00:00Z"
  },
  {
   "id": 457324,
@@ -8131,7 +8089,7 @@
   "avatar": "crew_portraits_cm_leetadabo_sm.webp",
   "fleet": "Nimitz the Space Flattop",
   "change": -1,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-06-21T00:00:00Z"
  },
  {
   "id": 34922,
@@ -8174,6 +8132,20 @@
   "fleet": "",
   "change": -1,
   "last": "2016-09-12T00:00:00Z"
+ },
+ {
+  "id": 1232257,
+  "name": "[7TW] Captain Mustard",
+  "ranks": [
+   0,
+   0,
+   5,
+   7
+  ],
+  "avatar": "crew_portraits_cm_picard_formal_sm.webp",
+  "fleet": "7th Renegade Wing",
+  "change": -1,
+  "last": "2018-12-03T00:00:00Z"
  },
  {
   "id": 130028,
@@ -8358,6 +8330,20 @@
   "last": "2018-06-27T00:00:00Z"
  },
  {
+  "id": 1289676,
+  "name": "Captain Marlin {ST}",
+  "ranks": [
+   0,
+   0,
+   5,
+   4
+  ],
+  "avatar": "crew_portraits_cm_kirktosyellow_sm.webp",
+  "fleet": "STAR TRUCKERZ",
+  "change": -1,
+  "last": "2017-09-18T00:00:00Z"
+ },
+ {
   "id": 2326815,
   "name": "KingRocco [FoS]",
   "ranks": [
@@ -8496,20 +8482,6 @@
   "fleet": "",
   "change": -1,
   "last": "2020-04-13T00:00:00Z"
- },
- {
-  "id": 634892,
-  "name": "Capt. A. Baney",
-  "ranks": [
-   0,
-   0,
-   5,
-   1
-  ],
-  "avatar": "crew_portraits_cm_kirktosyellow_sm.webp",
-  "fleet": "***UFP ***",
-  "change": -1,
-  "last": "2017-01-17T00:00:00Z"
  },
  {
   "id": 5200954,
@@ -8677,7 +8649,7 @@
   "avatar": "crew_portraits_cm_doctorchaotica_sm.webp",
   "fleet": "STARSHIP TRISTA",
   "change": -1,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-08-30T00:00:00Z"
  },
  {
   "id": 4372014,
@@ -8719,7 +8691,7 @@
   "avatar": "crew_portraits_cm_spock_kirk_reunion_sm.webp",
   "fleet": "Ni'Var",
   "change": -1,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-09-06T00:00:00Z"
  },
  {
   "id": 4858456,
@@ -8803,7 +8775,7 @@
   "avatar": "crew_portraits_cm_adam_sm.webp",
   "fleet": "Rise of the Phoenix",
   "change": -1,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-08-23T00:00:00Z"
  },
  {
   "id": 5043430,
@@ -8859,7 +8831,7 @@
   "avatar": "crew_portraits_cm_tardigrade_sm.webp",
   "fleet": "Tesla's Lost Project",
   "change": -1,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-09-27T00:00:00Z"
  },
  {
   "id": 450645,
@@ -8873,7 +8845,7 @@
   "avatar": "crew_portraits_cm_tilly_wonderland_sm.webp",
   "fleet": "GODS OF TIME",
   "change": -1,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-09-06T00:00:00Z"
  },
  {
   "id": 1443280,
@@ -8901,7 +8873,7 @@
   "avatar": "crew_portraits_cm_spock_kirk_reunion_sm.webp",
   "fleet": "KLINGON MARAUDERS",
   "change": -1,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-08-23T00:00:00Z"
  },
  {
   "id": 528556,
@@ -9139,7 +9111,7 @@
   "avatar": "crew_portraits_cm_kirk_gangster_sm.webp",
   "fleet": "[Mirror] Tribbles",
   "change": -1,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-06-21T00:00:00Z"
  },
  {
   "id": 2505871,
@@ -9181,7 +9153,7 @@
   "avatar": "crew_portraits_cm_bateson_sm.webp",
   "fleet": "",
   "change": -1,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-06-07T00:00:00Z"
  },
  {
   "id": 913074,
@@ -9209,7 +9181,7 @@
   "avatar": "crew_portraits_cm_kes_fury_sm.webp",
   "fleet": "[GSA] GERMAN SPACE AGENCY",
   "change": -1,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-08-02T00:00:00Z"
  },
  {
   "id": 4718816,
@@ -9293,7 +9265,7 @@
   "avatar": "crew_portraits_cm_spock_captain_sm.webp",
   "fleet": "=j= space junkies",
   "change": -2,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-06-14T00:00:00Z"
  },
  {
   "id": 578962,
@@ -9478,20 +9450,6 @@
   "last": "2020-03-04T00:00:00Z"
  },
  {
-  "id": 2125272,
-  "name": "Han Sulu [SG-66]",
-  "ranks": [
-   0,
-   0,
-   4,
-   4
-  ],
-  "avatar": "crew_portraits_cm_sulucaptain_sm.webp",
-  "fleet": "",
-  "change": -1,
-  "last": "2017-06-26T00:00:00Z"
- },
- {
   "id": 929248,
   "name": "Myway",
   "ranks": [
@@ -9618,6 +9576,20 @@
   "last": "2020-02-17T00:00:00Z"
  },
  {
+  "id": 2125272,
+  "name": "Han Sulu [SG-66]",
+  "ranks": [
+   0,
+   0,
+   4,
+   3
+  ],
+  "avatar": "crew_portraits_cm_sulucaptain_sm.webp",
+  "fleet": "",
+  "change": -1,
+  "last": "2017-06-26T00:00:00Z"
+ },
+ {
   "id": 3512134,
   "name": "[FF] CYD",
   "ranks": [
@@ -9643,7 +9615,7 @@
   "avatar": "crew_portraits_cm_pike_captain_sm.webp",
   "fleet": "RAGNA{DD}OG5",
   "change": -1,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-07-12T00:00:00Z"
  },
  {
   "id": 6607631,
@@ -9657,21 +9629,7 @@
   "avatar": "crew_portraits_cm_clown_sm.webp",
   "fleet": "RUFFRIDERS",
   "change": -1,
-  "last": "0001-01-01T00:00:00Z"
- },
- {
-  "id": 2002772,
-  "name": "Airamid (INU)",
-  "ranks": [
-   0,
-   0,
-   4,
-   2
-  ],
-  "avatar": "crew_portraits_cm_tash_sm.webp",
-  "fleet": "(INU) Intergalactic Nomads Union",
-  "change": -1,
-  "last": "2021-01-11T00:00:00Z"
+  "last": "2021-09-13T00:00:00Z"
  },
  {
   "id": 2897339,
@@ -9828,6 +9786,34 @@
   "last": "2021-03-29T00:00:00Z"
  },
  {
+  "id": 2002772,
+  "name": "Airamid (INU)",
+  "ranks": [
+   0,
+   0,
+   4,
+   1
+  ],
+  "avatar": "crew_portraits_cm_tash_sm.webp",
+  "fleet": "(INU) Intergalactic Nomads Union",
+  "change": -1,
+  "last": "2021-01-11T00:00:00Z"
+ },
+ {
+  "id": 634892,
+  "name": "Capt. A. Baney",
+  "ranks": [
+   0,
+   0,
+   4,
+   1
+  ],
+  "avatar": "crew_portraits_cm_kirktosyellow_sm.webp",
+  "fleet": "***UFP ***",
+  "change": -1,
+  "last": "2017-01-17T00:00:00Z"
+ },
+ {
   "id": 1943859,
   "name": "Maverick",
   "ranks": [
@@ -9896,20 +9882,6 @@
   "fleet": "FLEET ABRAHAM ",
   "change": -1,
   "last": "2021-11-29T00:00:00Z"
- },
- {
-  "id": 914164,
-  "name": "(TLA) Centari",
-  "ranks": [
-   0,
-   0,
-   4,
-   0
-  ],
-  "avatar": "crew_portraits_cm_proton_avatar_sm.webp",
-  "fleet": "",
-  "change": -1,
-  "last": "2019-10-14T00:00:00Z"
  },
  {
   "id": 4465996,
@@ -10021,7 +9993,7 @@
   "avatar": "crew_portraits_cm_flint_sm.webp",
   "fleet": "SECOND STAR TO THE RIGHT",
   "change": -1,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-08-23T00:00:00Z"
  },
  {
   "id": 356400,
@@ -10063,7 +10035,7 @@
   "avatar": "crew_portraits_cm_niners_avatar_sm.webp",
   "fleet": "",
   "change": -1,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-09-06T00:00:00Z"
  },
  {
   "id": 1637398,
@@ -10076,7 +10048,7 @@
   ],
   "avatar": "crew_portraits_cm_spock_science_sm.webp",
   "fleet": "RUSSIAN FLEET",
-  "change": 167,
+  "change": 165,
   "last": "2021-12-27T00:00:00Z"
  },
  {
@@ -10147,7 +10119,7 @@
   "avatar": "crew_portraits_cm_booker_grudge_sm.webp",
   "fleet": "DCC",
   "change": -2,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-09-20T00:00:00Z"
  },
  {
   "id": 21480,
@@ -10175,7 +10147,7 @@
   "avatar": "crew_portraits_cm_picard_romulan_sm.webp",
   "fleet": "[STFL] Sternenflotte",
   "change": -2,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-09-20T00:00:00Z"
  },
  {
   "id": 2685421,
@@ -10217,7 +10189,7 @@
   "avatar": "crew_portraits_cm_jadzia_alternate_future_sm.webp",
   "fleet": "=j= space junkies",
   "change": -2,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-07-05T00:00:00Z"
  },
  {
   "id": 2179272,
@@ -10231,7 +10203,7 @@
   "avatar": "crew_portraits_cm_picard_admiral_sm.webp",
   "fleet": "STARSHIP TRISTA",
   "change": -2,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-07-19T00:00:00Z"
  },
  {
   "id": 6105131,
@@ -10245,7 +10217,7 @@
   "avatar": "crew_portraits_cm_jadzia_dax_bride_sm.webp",
   "fleet": "Obsidian Order of Garak",
   "change": -2,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-06-28T00:00:00Z"
  },
  {
   "id": 3305830,
@@ -10370,7 +10342,7 @@
   ],
   "avatar": "crew_portraits_cm_targ_sm.webp",
   "fleet": "=j= space junkies",
-  "change": 2,
+  "change": 1,
   "last": "2021-12-27T00:00:00Z"
  },
  {
@@ -10385,21 +10357,7 @@
   "avatar": "crew_portraits_cm_targ_sm.webp",
   "fleet": "=j= mirror space junkies",
   "change": -3,
-  "last": "0001-01-01T00:00:00Z"
- },
- {
-  "id": 444488,
-  "name": "JM 7124",
-  "ranks": [
-   0,
-   0,
-   3,
-   10
-  ],
-  "avatar": "crew_portraits_cm_laforgecaptain_sm.webp",
-  "fleet": "Colonial Fleet Ohio 2",
-  "change": -3,
-  "last": "2021-12-20T00:00:00Z"
+  "last": "2021-06-07T00:00:00Z"
  },
  {
   "id": 1188113,
@@ -10469,7 +10427,7 @@
   "avatar": "crew_portraits_cm_kirk_admiral_sm.webp",
   "fleet": "=j= mirror space junkies",
   "change": -3,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-09-06T00:00:00Z"
  },
  {
   "id": 3593688,
@@ -10609,7 +10567,7 @@
   "avatar": "crew_portraits_cm_balok_sm.webp",
   "fleet": "The Temporal Agents [TTA@DTI]",
   "change": -2,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-06-28T00:00:00Z"
  },
  {
   "id": 7919977,
@@ -10749,7 +10707,7 @@
   "avatar": "fleet_battle_scenarios_practice_space_bg.webp",
   "fleet": "\u003cb\u003e \u003c#008000\u003e Independent Rebels",
   "change": -2,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-06-07T00:00:00Z"
  },
  {
   "id": 5311948,
@@ -11214,20 +11172,6 @@
   "last": "2020-04-20T00:00:00Z"
  },
  {
-  "id": 148644,
-  "name": "(TD) Admiral Disco",
-  "ranks": [
-   0,
-   0,
-   3,
-   4
-  ],
-  "avatar": "crew_portraits_cm_sisko_tuxedo_sm.webp",
-  "fleet": "TREKKIS DEUTSCHLAND",
-  "change": -2,
-  "last": "2019-03-18T00:00:00Z"
- },
- {
   "id": 5664230,
   "name": ".|. Freezy888",
   "ranks": [
@@ -11238,7 +11182,7 @@
   ],
   "avatar": "crew_portraits_cm_mress_sm.webp",
   "fleet": "ISS Yamato",
-  "change": 12,
+  "change": 11,
   "last": "2021-12-27T00:00:00Z"
  },
  {
@@ -11309,7 +11253,7 @@
   "avatar": "crew_portraits_cm_sisko_enemy_lines_sm.webp",
   "fleet": "THE GUARDIANS OF TOMORROW",
   "change": -2,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-06-28T00:00:00Z"
  },
  {
   "id": 3711093,
@@ -11323,7 +11267,7 @@
   "avatar": "crew_portraits_cm_uhurared_sm.webp",
   "fleet": "TASK FORCE PACIFIC",
   "change": -2,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-08-30T00:00:00Z"
  },
  {
   "id": 4180768,
@@ -11379,7 +11323,7 @@
   "avatar": "crew_portraits_cm_tribble_captain_sm.webp",
   "fleet": "STARFLEET JAG",
   "change": -2,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-08-09T00:00:00Z"
  },
  {
   "id": 4222976,
@@ -11463,7 +11407,7 @@
   "avatar": "crew_portraits_cm_garakobsidian_sm.webp",
   "fleet": "Subspace",
   "change": -3,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-06-21T00:00:00Z"
  },
  {
   "id": 6991059,
@@ -11477,7 +11421,7 @@
   "avatar": "crew_portraits_cm_chakotay_shattered_sm.webp",
   "fleet": "=j= mirror space junkies",
   "change": -3,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-08-23T00:00:00Z"
  },
  {
   "id": 2709168,
@@ -11729,7 +11673,7 @@
   "avatar": "crew_portraits_cm_spock_platonian_sm.webp",
   "fleet": "SECTION 7 OF NINE HUNDRED",
   "change": -2,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-09-20T00:00:00Z"
  },
  {
   "id": 4737828,
@@ -11883,7 +11827,7 @@
   "avatar": "crew_portraits_cm_locutus_sm.webp",
   "fleet": "VIP 0 HEROES",
   "change": -2,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-06-07T00:00:00Z"
  },
  {
   "id": 466,
@@ -11911,7 +11855,7 @@
   "avatar": "crew_portraits_cm_rikeradmiral_sm.webp",
   "fleet": "Subspace Eddies",
   "change": -2,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-09-20T00:00:00Z"
  },
  {
   "id": 6600442,
@@ -12065,7 +12009,7 @@
   "avatar": "crew_portraits_cm_picarddixonhill_sm.webp",
   "fleet": "HAND OF THRAWN",
   "change": -2,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-06-21T00:00:00Z"
  },
  {
   "id": 1019284,
@@ -12093,7 +12037,7 @@
   "avatar": "crew_portraits_cm_datagenerations_sm.webp",
   "fleet": "CON CUA NGUYEN",
   "change": -2,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-09-20T00:00:00Z"
  },
  {
   "id": 366448,
@@ -12138,20 +12082,6 @@
   "last": "2019-07-29T00:00:00Z"
  },
  {
-  "id": 1876262,
-  "name": "[SSR] Peachtree Rex",
-  "ranks": [
-   0,
-   0,
-   3,
-   1
-  ],
-  "avatar": "crew_portraits_cm_davinci_sm.webp",
-  "fleet": "",
-  "change": -2,
-  "last": "2018-07-16T00:00:00Z"
- },
- {
   "id": 1740931,
   "name": "[STJ] super sugar",
   "ranks": [
@@ -12192,6 +12122,20 @@
   "fleet": "DS9ERS.",
   "change": -2,
   "last": "2021-01-04T00:00:00Z"
+ },
+ {
+  "id": 914164,
+  "name": "(TLA) Centari",
+  "ranks": [
+   0,
+   0,
+   3,
+   0
+  ],
+  "avatar": "crew_portraits_cm_proton_avatar_sm.webp",
+  "fleet": "",
+  "change": -2,
+  "last": "2019-10-14T00:00:00Z"
  },
  {
   "id": 3031268,
@@ -12499,7 +12443,7 @@
   "avatar": "crew_portraits_cm_proton_avatar_sm",
   "fleet": "=j= german space junkies",
   "change": -1,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-09-20T00:00:00Z"
  },
  {
   "id": 4014499,
@@ -12611,7 +12555,7 @@
   "avatar": "crew_portraits_avatar_grudge_sm.webp",
   "fleet": "=j= mirror space junkies",
   "change": -2,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-09-13T00:00:00Z"
  },
  {
   "id": 5932322,
@@ -12751,7 +12695,7 @@
   "avatar": "crew_portraits_cm_davinci_sm.webp",
   "fleet": "RED MATTER - SOLUTION TO EVERYTHING.",
   "change": -1,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-09-13T00:00:00Z"
  },
  {
   "id": 1960000,
@@ -12919,7 +12863,7 @@
   "avatar": "crew_portraits_cm_sisko_tuxedo_sm.webp",
   "fleet": "\u003ci\u003e\u003cu\u003e\u003c#FF0000\u003eISS \u003c#000000\u003eVindicator",
   "change": -1,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-06-21T00:00:00Z"
  },
  {
   "id": 5477621,
@@ -12961,7 +12905,7 @@
   "avatar": "crew_portraits_cm_ech_sm.webp",
   "fleet": "=j= mirror space junkies",
   "change": -1,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-06-07T00:00:00Z"
  },
  {
   "id": 5566146,
@@ -12990,6 +12934,20 @@
   "fleet": "",
   "change": -1,
   "last": "2019-04-22T00:00:00Z"
+ },
+ {
+  "id": 444488,
+  "name": "JM 7124",
+  "ranks": [
+   0,
+   0,
+   2,
+   10
+  ],
+  "avatar": "crew_portraits_cm_laforgecaptain_sm.webp",
+  "fleet": "Colonial Fleet Ohio 2",
+  "change": -1,
+  "last": "2021-12-20T00:00:00Z"
  },
  {
   "id": 308953,
@@ -13100,7 +13058,7 @@
   ],
   "avatar": "crew_portraits_cm_seven_silver_sm.webp",
   "fleet": "=j= subspace junkies",
-  "change": 8,
+  "change": 7,
   "last": "2021-12-27T00:00:00Z"
  },
  {
@@ -13171,7 +13129,7 @@
   "avatar": "crew_portraits_cm_soji_asha_sm.webp",
   "fleet": "QUEBEC ALLIANCE",
   "change": -1,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-07-19T00:00:00Z"
  },
  {
   "id": 4661227,
@@ -13186,20 +13144,6 @@
   "fleet": "SECOND STAR TO THE RIGHT",
   "change": -1,
   "last": "2021-10-11T00:00:00Z"
- },
- {
-  "id": 2947590,
-  "name": "[TGE Retired] Golga",
-  "ranks": [
-   0,
-   0,
-   2,
-   9
-  ],
-  "avatar": "crew_portraits_cm_worf_duchamps_sm.webp",
-  "fleet": "TGE 2: Glutenous Boogaloo",
-  "change": -1,
-  "last": "2018-05-07T00:00:00Z"
  },
  {
   "id": 12690,
@@ -13255,7 +13199,7 @@
   "avatar": "crew_portraits_cm_sevenwwii_sm.webp",
   "fleet": "UNNATURAL SELECTIONS",
   "change": -2,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-08-16T00:00:00Z"
  },
  {
   "id": 2775914,
@@ -13325,7 +13269,7 @@
   "avatar": "crew_portraits_cm_xindi_insectoid_sm.webp",
   "fleet": "RED SQUAD (ONTARIO, CANADA)",
   "change": -2,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-08-30T00:00:00Z"
  },
  {
   "id": 2073031,
@@ -13339,7 +13283,7 @@
   "avatar": "crew_portraits_cm_rikeradmiral_sm.webp",
   "fleet": "spacetime",
   "change": -2,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-06-21T00:00:00Z"
  },
  {
   "id": 3526455,
@@ -13367,7 +13311,7 @@
   "avatar": "crew_portraits_cm_spock_gladiator_sm.webp",
   "fleet": "DISCORDCONTINUUM",
   "change": -2,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-07-26T00:00:00Z"
  },
  {
   "id": 2098888,
@@ -13381,7 +13325,7 @@
   "avatar": "crew_portraits_cm_hugh_sm.webp",
   "fleet": "DUTCH DELTA FLEET",
   "change": -2,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-07-26T00:00:00Z"
  },
  {
   "id": 57,
@@ -13426,6 +13370,20 @@
   "last": "2019-06-17T00:00:00Z"
  },
  {
+  "id": 2947590,
+  "name": "[TGE Retired] Golga",
+  "ranks": [
+   0,
+   0,
+   2,
+   8
+  ],
+  "avatar": "crew_portraits_cm_worf_duchamps_sm.webp",
+  "fleet": "TGE 2: Glutenous Boogaloo",
+  "change": -2,
+  "last": "2018-05-07T00:00:00Z"
+ },
+ {
   "id": 1623252,
   "name": "[TGE] Barncat",
   "ranks": [
@@ -13437,7 +13395,7 @@
   "avatar": "crew_portraits_cm_tucker_tourist_sm.webp",
   "fleet": "",
   "change": -2,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-07-19T00:00:00Z"
  },
  {
   "id": 1916816,
@@ -13493,7 +13451,7 @@
   "avatar": "fleet_battle_scenarios_practice_space_bg.webp",
   "fleet": "=j= mirror space junkies",
   "change": -1,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-09-27T00:00:00Z"
  },
  {
   "id": 2776683,
@@ -13548,7 +13506,7 @@
   ],
   "avatar": "crew_portraits_cm_seven_fenris_sm.webp",
   "fleet": "[Mirror] Tribbles",
-  "change": 372,
+  "change": 373,
   "last": "2021-12-27T00:00:00Z"
  },
  {
@@ -13647,7 +13605,7 @@
   "avatar": "crew_portraits_cm_countess_regina_bartholomew_sm.webp",
   "fleet": "÷ Battleship Nagato",
   "change": -1,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-09-13T00:00:00Z"
  },
  {
   "id": 1095505,
@@ -13731,7 +13689,7 @@
   "avatar": "crew_portraits_cm_narek_sm.webp",
   "fleet": "=j= space junkies",
   "change": -2,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-09-06T00:00:00Z"
  },
  {
   "id": 569966,
@@ -13885,7 +13843,7 @@
   "avatar": "crew_portraits_cm_tribble_sm.webp",
   "fleet": "",
   "change": -2,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-08-30T00:00:00Z"
  },
  {
   "id": 1221115,
@@ -13941,7 +13899,7 @@
   "avatar": "crew_portraits_cm_spock_kolinahr_sm.webp",
   "fleet": "PRIMO CONTATTO",
   "change": -2,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-06-28T00:00:00Z"
  },
  {
   "id": 5232016,
@@ -14067,7 +14025,7 @@
   "avatar": "crew_portraits_cm_worfmirror_sm.webp",
   "fleet": "STRONGHOLD OF SAVAGES",
   "change": -3,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-06-07T00:00:00Z"
  },
  {
   "id": 5990755,
@@ -14080,7 +14038,7 @@
   ],
   "avatar": "crew_portraits_cm_mccoydrafted_sm.webp",
   "fleet": "the gurdians of the galaxy",
-  "change": 27,
+  "change": 26,
   "last": "2021-12-27T00:00:00Z"
  },
  {
@@ -14123,7 +14081,7 @@
   "avatar": "crew_portraits_cm_kahless_sm.webp",
   "fleet": "DABO ADDICTS ANONYMOUS",
   "change": -3,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-09-13T00:00:00Z"
  },
  {
   "id": 1127352,
@@ -14194,20 +14152,6 @@
   "fleet": "",
   "change": -3,
   "last": "2020-02-24T00:00:00Z"
- },
- {
-  "id": 465946,
-  "name": "Spocko",
-  "ranks": [
-   0,
-   0,
-   2,
-   5
-  ],
-  "avatar": "crew_portraits_cm_spocktommygun_sm.webp",
-  "fleet": "TDF",
-  "change": -3,
-  "last": "2017-07-10T00:00:00Z"
  },
  {
   "id": 6625279,
@@ -14462,6 +14406,20 @@
   "last": "2018-05-07T00:00:00Z"
  },
  {
+  "id": 148644,
+  "name": "(TD) Admiral Disco",
+  "ranks": [
+   0,
+   0,
+   2,
+   4
+  ],
+  "avatar": "crew_portraits_cm_sisko_tuxedo_sm.webp",
+  "fleet": "TREKKIS DEUTSCHLAND",
+  "change": -3,
+  "last": "2019-03-18T00:00:00Z"
+ },
+ {
   "id": 1162845,
   "name": "*ST* sineLregnaP",
   "ranks": [
@@ -14543,7 +14501,7 @@
   "avatar": "crew_portraits_cm_white_rabbit_sm.webp",
   "fleet": "BORK, BORK,  BORG!",
   "change": -3,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-07-26T00:00:00Z"
  },
  {
   "id": 4272994,
@@ -14614,6 +14572,20 @@
   "fleet": "Greendale",
   "change": -3,
   "last": "2018-01-02T00:00:00Z"
+ },
+ {
+  "id": 465946,
+  "name": "Spocko",
+  "ranks": [
+   0,
+   0,
+   2,
+   4
+  ],
+  "avatar": "crew_portraits_cm_spocktommygun_sm.webp",
+  "fleet": "TDF",
+  "change": -3,
+  "last": "2017-07-10T00:00:00Z"
  },
  {
   "id": 1201881,
@@ -14711,7 +14683,7 @@
   "avatar": "crew_portraits_cm_burnham_homecoming_sm.webp",
   "fleet": "THE GUARDIANS OF TOMORROW",
   "change": -3,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-09-13T00:00:00Z"
  },
  {
   "id": 5012195,
@@ -14725,7 +14697,7 @@
   "avatar": "crew_portraits_cm_davinci_sm.webp",
   "fleet": "THE GUARDIANS OF TOMORROW",
   "change": -3,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-08-16T00:00:00Z"
  },
  {
   "id": 3918409,
@@ -15117,7 +15089,7 @@
   "avatar": "crew_portraits_cm_niners_avatar_sm.webp",
   "fleet": "QUEBEC ALLIANCE",
   "change": -2,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-06-21T00:00:00Z"
  },
  {
   "id": 2367634,
@@ -15369,7 +15341,7 @@
   "avatar": "crew_portraits_cm_hugh_executive_sm.webp",
   "fleet": "VIP 0 HEROES",
   "change": -2,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-07-05T00:00:00Z"
  },
  {
   "id": 388078,
@@ -15929,7 +15901,7 @@
   "avatar": "crew_portraits_cm_quarkbartender_sm.webp",
   "fleet": "7th Renegade Wing",
   "change": -3,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-09-13T00:00:00Z"
  },
  {
   "id": 542646,
@@ -15999,7 +15971,7 @@
   "avatar": "crew_portraits_cm_gary_seven_sm.webp",
   "fleet": "",
   "change": -3,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-06-07T00:00:00Z"
  },
  {
   "id": 4872122,
@@ -16041,7 +16013,7 @@
   "avatar": "crew_portraits_cm_pike_neweden_sm.webp",
   "fleet": "STARFLEETCMDHQ",
   "change": -3,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-08-09T00:00:00Z"
  },
  {
   "id": 293697,
@@ -16153,7 +16125,7 @@
   "avatar": "crew_portraits_cm_targ_sm.webp",
   "fleet": "The .Fifth. Column",
   "change": -3,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-08-16T00:00:00Z"
  },
  {
   "id": 2155858,
@@ -16279,7 +16251,7 @@
   "avatar": "crew_portraits_cm_picard_age_of_sail_sm.webp",
   "fleet": ".|.ISS Kongo",
   "change": -2,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-08-23T00:00:00Z"
  },
  {
   "id": 2515369,
@@ -16363,7 +16335,7 @@
   "avatar": "crew_portraits_cm_seven_borg_queen_sm.webp",
   "fleet": "The New Tuners",
   "change": -2,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-09-13T00:00:00Z"
  },
  {
   "id": 3044168,
@@ -16559,7 +16531,7 @@
   "avatar": "crew_portraits_cm_white_rabbit_sm.webp",
   "fleet": "ORION PIRATES II",
   "change": -2,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-09-13T00:00:00Z"
  },
  {
   "id": 1272451,
@@ -16601,7 +16573,7 @@
   "avatar": "crew_portraits_cm_jannar_sm.webp",
   "fleet": "NCC UK MIDLANDS",
   "change": -2,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-09-06T00:00:00Z"
  },
  {
   "id": 273284,
@@ -16657,7 +16629,7 @@
   "avatar": "crew_portraits_cm_romulancommander_sm.webp",
   "fleet": "FRANKS N BEANS",
   "change": -2,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-06-21T00:00:00Z"
  },
  {
   "id": 4469594,
@@ -16685,7 +16657,7 @@
   "avatar": "crew_portraits_cm_proton_avatar_sm.webp",
   "fleet": "MUDD'S RAIDERS",
   "change": -2,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-06-21T00:00:00Z"
  },
  {
   "id": 269438,
@@ -16713,7 +16685,7 @@
   "avatar": "crew_portraits_cm_burnham_red_angel_sm.webp",
   "fleet": "STRONGHOLD OF SAVAGES",
   "change": -2,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-08-16T00:00:00Z"
  },
  {
   "id": 1031170,
@@ -16898,6 +16870,20 @@
   "last": "2019-01-07T00:00:00Z"
  },
  {
+  "id": 1876262,
+  "name": "[SSR] Peachtree Rex",
+  "ranks": [
+   0,
+   0,
+   2,
+   1
+  ],
+  "avatar": "crew_portraits_cm_davinci_sm.webp",
+  "fleet": "",
+  "change": -2,
+  "last": "2018-07-16T00:00:00Z"
+ },
+ {
   "id": 3218281,
   "name": "[TGE]Jugglerette",
   "ranks": [
@@ -16908,7 +16894,7 @@
   ],
   "avatar": "crew_portraits_cm_crusher_beverly_caldos_sm.webp",
   "fleet": "THE GLUTEN EMPIRE",
-  "change": 601,
+  "change": 598,
   "last": "2021-12-27T00:00:00Z"
  },
  {
@@ -17007,7 +16993,7 @@
   "avatar": "crew_portraits_cm_picard_sinister_sm.webp",
   "fleet": "D3VIL PUPZ {DD}",
   "change": -2,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-08-09T00:00:00Z"
  },
  {
   "id": 579290,
@@ -17035,7 +17021,7 @@
   "avatar": "crew_portraits_cm_troi_mirror_sm.webp",
   "fleet": "DISCORDCONTINUUM",
   "change": -3,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-06-28T00:00:00Z"
  },
  {
   "id": 128281,
@@ -17147,7 +17133,7 @@
   "avatar": "crew_portraits_cm_inglatu_sm.webp",
   "fleet": "OMEGA MOLECULES",
   "change": -3,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-06-07T00:00:00Z"
  },
  {
   "id": 5819252,
@@ -17358,20 +17344,6 @@
   "fleet": "UFP-72700",
   "change": -3,
   "last": "2018-08-06T00:00:00Z"
- },
- {
-  "id": 2935794,
-  "name": "Seven",
-  "ranks": [
-   0,
-   0,
-   2,
-   0
-  ],
-  "avatar": "crew_portraits_cm_janeway_viceadmiral_sm.webp",
-  "fleet": "red pilled geeks",
-  "change": -3,
-  "last": "2016-09-19T00:00:00Z"
  },
  {
   "id": 871942,
@@ -17721,7 +17693,7 @@
   "avatar": "crew_portraits_cm_booker_grudge_sm.webp",
   "fleet": "UNNATURAL SELECTIONS",
   "change": -4,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-09-06T00:00:00Z"
  },
  {
   "id": 185400,
@@ -17777,7 +17749,7 @@
   "avatar": "crew_portraits_cm_species_8472_sm.webp",
   "fleet": "DISCORDCONTINUUM",
   "change": -3,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-07-26T00:00:00Z"
  },
  {
   "id": 1535712,
@@ -17805,7 +17777,7 @@
   "avatar": "crew_portraits_cm_mugato_sm.webp",
   "fleet": "¥ulcan Science Academy ",
   "change": -3,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-07-26T00:00:00Z"
  },
  {
   "id": 3669410,
@@ -17861,7 +17833,7 @@
   "avatar": "crew_portraits_cm_scott_dress_uniform_sm.webp",
   "fleet": "ATTACK OF THE CROHN'S",
   "change": -3,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-08-02T00:00:00Z"
  },
  {
   "id": 6016528,
@@ -17903,7 +17875,7 @@
   "avatar": "crew_portraits_cm_tomalak_sm.webp",
   "fleet": "",
   "change": -3,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-09-27T00:00:00Z"
  },
  {
   "id": 290512,
@@ -17987,7 +17959,7 @@
   "avatar": "crew_portraits_cm_rikeradmiral_sm.webp",
   "fleet": "FREEDOM FIGHTERS!",
   "change": -4,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-09-27T00:00:00Z"
  },
  {
   "id": 6882743,
@@ -18071,7 +18043,7 @@
   "avatar": "crew_portraits_cm_archer_risa_sm.webp",
   "fleet": "Subspace Eddies ",
   "change": -4,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-08-23T00:00:00Z"
  },
  {
   "id": 1827671,
@@ -18113,7 +18085,7 @@
   "avatar": "crew_portraits_cm_white_rabbit_sm.webp",
   "fleet": "BORG ASSIMILATION DRONES",
   "change": -3,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-08-09T00:00:00Z"
  },
  {
   "id": 1535325,
@@ -18214,20 +18186,6 @@
   "last": "2017-11-06T00:00:00Z"
  },
  {
-  "id": 92012,
-  "name": "*KDF* Dahar Grand Master Jaden",
-  "ranks": [
-   0,
-   0,
-   1,
-   9
-  ],
-  "avatar": "crew_portraits_cm_kangtos_sm.webp",
-  "fleet": "",
-  "change": -3,
-  "last": "2017-03-06T00:00:00Z"
- },
- {
   "id": 3980483,
   "name": "=j= Odo",
   "ranks": [
@@ -18308,7 +18266,7 @@
   ],
   "avatar": "crew_portraits_cm_q_god_sm.webp",
   "fleet": "Rise of the Phoenix",
-  "change": 9,
+  "change": 8,
   "last": "2021-12-27T00:00:00Z"
  },
  {
@@ -18396,6 +18354,20 @@
   "last": "2021-05-31T00:00:00Z"
  },
  {
+  "id": 92012,
+  "name": "*KDF* Dahar Grand Master Jaden",
+  "ranks": [
+   0,
+   0,
+   1,
+   8
+  ],
+  "avatar": "crew_portraits_cm_kangtos_sm.webp",
+  "fleet": "",
+  "change": -4,
+  "last": "2017-03-06T00:00:00Z"
+ },
+ {
   "id": 8038098,
   "name": ".|. VeliManne",
   "ranks": [
@@ -18406,7 +18378,7 @@
   ],
   "avatar": "crew_portraits_cm_data_carlos_sm.webp",
   "fleet": "ISS Yamato",
-  "change": 20,
+  "change": 21,
   "last": "2021-12-27T00:00:00Z"
  },
  {
@@ -18589,7 +18561,7 @@
   "avatar": "crew_portraits_cm_dsc_numberone_sm.webp",
   "fleet": "[IPA2] Inner Planets Retirees",
   "change": -4,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-08-09T00:00:00Z"
  },
  {
   "id": 40575,
@@ -18799,7 +18771,7 @@
   "avatar": "crew_portraits_cm_white_rabbit_sm.webp",
   "fleet": "\u003ci\u003e\u003cu\u003e\u003c#FF0000\u003eISS \u003c#000000\u003eVindicator",
   "change": -4,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-07-19T00:00:00Z"
  },
  {
   "id": 2868618,
@@ -18813,7 +18785,7 @@
   "avatar": "crew_portraits_cm_proton_avatar_sm.webp",
   "fleet": "STARSHIP TRISTA",
   "change": -4,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-07-19T00:00:00Z"
  },
  {
   "id": 453271,
@@ -18914,20 +18886,6 @@
   "last": "2020-11-09T00:00:00Z"
  },
  {
-  "id": 2080254,
-  "name": "StarLord",
-  "ranks": [
-   0,
-   0,
-   1,
-   7
-  ],
-  "avatar": "crew_portraits_cm_spock_captain_sm.webp",
-  "fleet": "",
-  "change": -4,
-  "last": "2018-10-22T00:00:00Z"
- },
- {
   "id": 1498479,
   "name": "SuperGio",
   "ranks": [
@@ -18953,7 +18911,7 @@
   "avatar": "crew_portraits_cm_picard_resigned_sm.webp",
   "fleet": "UNITED FEDERATION OF PARENTS",
   "change": -4,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-07-12T00:00:00Z"
  },
  {
   "id": 1176125,
@@ -18981,7 +18939,7 @@
   "avatar": "crew_portraits_avatar_grudge_sm.webp",
   "fleet": "DEUTSCH KLINGONISCHE ALLIANZ",
   "change": -4,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-08-16T00:00:00Z"
  },
  {
   "id": 2120369,
@@ -19050,7 +19008,7 @@
   ],
   "avatar": "crew_portraits_cm_jaris_redjac_sm.webp",
   "fleet": "= EXODUS =",
-  "change": 20,
+  "change": 19,
   "last": "2021-12-27T00:00:00Z"
  },
  {
@@ -19064,7 +19022,7 @@
   ],
   "avatar": "crew_portraits_cm_picardcaptain_sm.webp",
   "fleet": "BORG ASSIMILATION DRONES",
-  "change": 1022,
+  "change": 1016,
   "last": "2021-12-27T00:00:00Z"
  },
  {
@@ -19093,7 +19051,7 @@
   "avatar": "crew_portraits_cm_cabot_janitor_sm.webp",
   "fleet": "• Fair Haven •",
   "change": -4,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-08-16T00:00:00Z"
  },
  {
   "id": 4824321,
@@ -19135,7 +19093,7 @@
   "avatar": "crew_portraits_cm_ephraim_dot_sm.webp",
   "fleet": "GROUND-BIRDS OF PREY",
   "change": -4,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-07-26T00:00:00Z"
  },
  {
   "id": 5216061,
@@ -19177,7 +19135,7 @@
   "avatar": "crew_portraits_cm_sisko_benny_sm.webp",
   "fleet": "=j= space junkies",
   "change": -4,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-09-13T00:00:00Z"
  },
  {
   "id": 3785929,
@@ -19191,7 +19149,7 @@
   "avatar": "crew_portraits_cm_picard_day_sm.webp",
   "fleet": "=j= Deep Space Junkies",
   "change": -4,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-09-20T00:00:00Z"
  },
  {
   "id": 222175,
@@ -19246,7 +19204,7 @@
   ],
   "avatar": "crew_portraits_cm_rios_facer_sm.webp",
   "fleet": "WormHole Invasion Force",
-  "change": 1035,
+  "change": 1031,
   "last": "2021-12-27T00:00:00Z"
  },
  {
@@ -19289,7 +19247,7 @@
   "avatar": "crew_portraits_cm_automatedunit3947_sm.webp",
   "fleet": "SPOCKWORK ORANGE",
   "change": -4,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-07-19T00:00:00Z"
  },
  {
   "id": 1340122,
@@ -19373,7 +19331,7 @@
   "avatar": "crew_portraits_cm_tuvok_warship_sm.webp",
   "fleet": "TASK FORCE B5",
   "change": -4,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-08-16T00:00:00Z"
  },
  {
   "id": 2855666,
@@ -19404,20 +19362,6 @@
   "last": "2020-03-23T00:00:00Z"
  },
  {
-  "id": 1804024,
-  "name": "Xoiiku",
-  "ranks": [
-   0,
-   0,
-   1,
-   6
-  ],
-  "avatar": "crew_portraits_cm_holmesdata_sm.webp",
-  "fleet": "•…•",
-  "change": -4,
-  "last": "2018-10-29T00:00:00Z"
- },
- {
   "id": 1960762,
   "name": "ZanDo [SWO]",
   "ranks": [
@@ -19430,6 +19374,20 @@
   "fleet": "",
   "change": -4,
   "last": "2019-01-07T00:00:00Z"
+ },
+ {
+  "id": 418511,
+  "name": "[BL] The Doctor",
+  "ranks": [
+   0,
+   0,
+   1,
+   6
+  ],
+  "avatar": "crew_portraits_cm_emhmobile_sm.webp",
+  "fleet": "",
+  "change": -4,
+  "last": "2016-11-08T00:00:00Z"
  },
  {
   "id": 4813601,
@@ -19513,7 +19471,7 @@
   "avatar": "crew_portraits_cm_spot_avatar_sm.webp",
   "fleet": "SECOND STAR TO THE RIGHT",
   "change": -4,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-08-09T00:00:00Z"
  },
  {
   "id": 493387,
@@ -19527,7 +19485,7 @@
   "avatar": "crew_portraits_cm_q_god_sm.webp",
   "fleet": "[STFL] Sternenflotte",
   "change": -4,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-08-02T00:00:00Z"
  },
  {
   "id": 4418544,
@@ -19751,7 +19709,7 @@
   "avatar": "crew_portraits_cm_necayevadmiral_sm.webp",
   "fleet": "Watership Down",
   "change": -4,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-06-14T00:00:00Z"
  },
  {
   "id": 317357,
@@ -19863,7 +19821,7 @@
   "avatar": "crew_portraits_cm_skorr_tchar_sm.webp",
   "fleet": "SPOCKWORK ORANGE",
   "change": -4,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-09-06T00:00:00Z"
  },
  {
   "id": 3080646,
@@ -19906,6 +19864,20 @@
   "fleet": "",
   "change": -4,
   "last": "2017-05-01T00:00:00Z"
+ },
+ {
+  "id": 1804024,
+  "name": "Xoiiku",
+  "ranks": [
+   0,
+   0,
+   1,
+   5
+  ],
+  "avatar": "crew_portraits_cm_holmesdata_sm.webp",
+  "fleet": "•…•",
+  "change": -4,
+  "last": "2018-10-29T00:00:00Z"
  },
  {
   "id": 1779772,
@@ -20073,7 +20045,7 @@
   "avatar": "crew_portraits_cm_picard_numberone_sm.webp",
   "fleet": "PON FARR VULCANS",
   "change": -4,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-09-20T00:00:00Z"
  },
  {
   "id": 4862538,
@@ -20087,7 +20059,7 @@
   "avatar": "crew_portraits_cm_white_rabbit_sm.webp",
   "fleet": "PON FARR VULCANS",
   "change": -4,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-07-19T00:00:00Z"
  },
  {
   "id": 3526279,
@@ -20143,7 +20115,7 @@
   "avatar": "crew_portraits_cm_rikeradmiral_sm.webp",
   "fleet": "THE GLUTEN EMPIRE",
   "change": -4,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-08-16T00:00:00Z"
  },
  {
   "id": 4412891,
@@ -20188,20 +20160,6 @@
   "last": "2021-10-11T00:00:00Z"
  },
  {
-  "id": 640203,
-  "name": "°TH£ TRAV£L£R °{F\u0026I}RECRUITING",
-  "ranks": [
-   0,
-   0,
-   1,
-   5
-  ],
-  "avatar": "crew_portraits_cm_mress_sm.webp",
-  "fleet": "FIRE AND ICE",
-  "change": -4,
-  "last": "2021-05-10T00:00:00Z"
- },
- {
   "id": 5223519,
   "name": "÷ Fish",
   "ranks": [
@@ -20242,20 +20200,6 @@
   "fleet": "Battleship Musashi",
   "change": -4,
   "last": "2021-02-15T00:00:00Z"
- },
- {
-  "id": 2778814,
-  "name": "(SJ) richstar",
-  "ranks": [
-   0,
-   0,
-   1,
-   4
-  ],
-  "avatar": "crew_portraits_avatar_grudge_sm.webp",
-  "fleet": "STARFLEET JAG",
-  "change": -5,
-  "last": "2020-03-09T00:00:00Z"
  },
  {
   "id": 2880948,
@@ -20339,7 +20283,7 @@
   "avatar": "crew_portraits_cm_skorr_tchar_sm.webp",
   "fleet": "GROUND-BIRDS OF PREY",
   "change": -5,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-09-20T00:00:00Z"
  },
  {
   "id": 2072682,
@@ -20367,7 +20311,7 @@
   "avatar": "crew_portraits_cm_khanyoung_sm.webp",
   "fleet": "=j= subspace junkies",
   "change": -5,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-09-13T00:00:00Z"
  },
  {
   "id": 1191591,
@@ -20395,7 +20339,7 @@
   "avatar": "crew_portraits_cm_seven_borg_queen_sm.webp",
   "fleet": "=j= space junkies",
   "change": -5,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-09-13T00:00:00Z"
  },
  {
   "id": 736566,
@@ -20409,7 +20353,7 @@
   "avatar": "crew_portraits_cm_spot_avatar_sm.webp",
   "fleet": "ODYSSEY BATTALION",
   "change": -5,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-08-09T00:00:00Z"
  },
  {
   "id": 217940,
@@ -20465,7 +20409,7 @@
   "avatar": "crew_portraits_cm_martok_tos_sm.webp",
   "fleet": "FIRE AND ICE",
   "change": -5,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-08-23T00:00:00Z"
  },
  {
   "id": 2828910,
@@ -20576,22 +20520,8 @@
   ],
   "avatar": "crew_portraits_cm_targ_sm.webp",
   "fleet": "\u003cB\u003e \u003c#6DCA89\u003ePrometheus Free\u003c#FFFF00\u003e A",
-  "change": 1071,
+  "change": 1067,
   "last": "2021-12-27T00:00:00Z"
- },
- {
-  "id": 404321,
-  "name": "Rashan ",
-  "ranks": [
-   0,
-   0,
-   1,
-   4
-  ],
-  "avatar": "crew_portraits_cm_siskopromotion_sm.webp",
-  "fleet": "Federation superior",
-  "change": -5,
-  "last": "2017-06-12T00:00:00Z"
  },
  {
   "id": 4297741,
@@ -20689,7 +20619,7 @@
   "avatar": "crew_portraits_cm_ariksoong_sm.webp",
   "fleet": "FURYON WAKE",
   "change": -5,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-07-05T00:00:00Z"
  },
  {
   "id": 1647360,
@@ -20745,7 +20675,7 @@
   "avatar": "crew_portraits_cm_picard_kamin_sm.webp",
   "fleet": "LOTUS FLEET",
   "change": -5,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-09-06T00:00:00Z"
  },
  {
   "id": 1975320,
@@ -20759,7 +20689,7 @@
   "avatar": "crew_portraits_cm_stubbs_sm.webp",
   "fleet": "RED MATTER - SOLUTION TO EVERYTHING.",
   "change": -5,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-07-05T00:00:00Z"
  },
  {
   "id": 5822663,
@@ -20815,21 +20745,7 @@
   "avatar": "crew_portraits_cm_trelane_sm.webp",
   "fleet": "SECOND STAR TO THE RIGHT",
   "change": -5,
-  "last": "0001-01-01T00:00:00Z"
- },
- {
-  "id": 933134,
-  "name": "[STJ]SYSKonfigg",
-  "ranks": [
-   0,
-   0,
-   1,
-   4
-  ],
-  "avatar": "crew_portraits_cm_janeway_mirror_sm.webp",
-  "fleet": "",
-  "change": -5,
-  "last": "2017-12-04T00:00:00Z"
+  "last": "2021-06-21T00:00:00Z"
  },
  {
   "id": 7960914,
@@ -20842,7 +20758,7 @@
   ],
   "avatar": "crew_portraits_cm_sudersabotuer_sm.webp",
   "fleet": "TEAM DEUTSCHLAND",
-  "change": 51,
+  "change": 49,
   "last": "2021-12-27T00:00:00Z"
  },
  {
@@ -20913,7 +20829,7 @@
   "avatar": "crew_portraits_cm_bashir_prisoner_sm.webp",
   "fleet": "= EXODUS =",
   "change": -5,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-09-20T00:00:00Z"
  },
  {
   "id": 3748024,
@@ -20955,7 +20871,7 @@
   "avatar": "crew_portraits_cm_vash_profiteer_sm.webp",
   "fleet": "ROMANIA - DACIA FLEET",
   "change": -5,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-08-02T00:00:00Z"
  },
  {
   "id": 5671104,
@@ -20986,6 +20902,20 @@
   "last": "2019-09-30T00:00:00Z"
  },
  {
+  "id": 640203,
+  "name": "°TH£ TRAV£L£R °{F\u0026I}RECRUITING",
+  "ranks": [
+   0,
+   0,
+   1,
+   4
+  ],
+  "avatar": "crew_portraits_cm_mress_sm.webp",
+  "fleet": "FIRE AND ICE",
+  "change": -5,
+  "last": "2021-05-10T00:00:00Z"
+ },
+ {
   "id": 7431987,
   "name": "÷Necromancer",
   "ranks": [
@@ -20997,7 +20927,7 @@
   "avatar": "crew_portraits_cm_lucien_sm.webp",
   "fleet": "÷ Battleship Nagato",
   "change": -5,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-07-05T00:00:00Z"
  },
  {
   "id": 2051951,
@@ -21067,7 +20997,7 @@
   "avatar": "crew_portraits_cm_seven_annika_sm.webp",
   "fleet": "[GSA] GERMAN SPACE AGENCY",
   "change": -6,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-09-13T00:00:00Z"
  },
  {
   "id": 655029,
@@ -21082,6 +21012,20 @@
   "fleet": "",
   "change": -6,
   "last": "2019-02-25T00:00:00Z"
+ },
+ {
+  "id": 2778814,
+  "name": "(SJ) richstar",
+  "ranks": [
+   0,
+   0,
+   1,
+   3
+  ],
+  "avatar": "crew_portraits_avatar_grudge_sm.webp",
+  "fleet": "STARFLEET JAG",
+  "change": -6,
+  "last": "2020-03-09T00:00:00Z"
  },
  {
   "id": 3385004,
@@ -21234,7 +21178,7 @@
   ],
   "avatar": "crew_portraits_cm_riker_nemesis_sm.webp",
   "fleet": "\u003cb\u003e \u003c#ccff00\u003e Assignment \u003c#18ffff\u003e Earth",
-  "change": 98,
+  "change": 99,
   "last": "2021-12-27T00:00:00Z"
  },
  {
@@ -21682,7 +21626,7 @@
   ],
   "avatar": "crew_portraits_cm_cochranefirstcontact_sm.webp",
   "fleet": "Four Twenty",
-  "change": 98,
+  "change": 99,
   "last": "2021-12-27T00:00:00Z"
  },
  {
@@ -21698,6 +21642,20 @@
   "fleet": "DEATHRIDERS",
   "change": -6,
   "last": "2021-01-11T00:00:00Z"
+ },
+ {
+  "id": 404321,
+  "name": "Rashan ",
+  "ranks": [
+   0,
+   0,
+   1,
+   3
+  ],
+  "avatar": "crew_portraits_cm_siskopromotion_sm.webp",
+  "fleet": "Federation superior",
+  "change": -6,
+  "last": "2017-06-12T00:00:00Z"
  },
  {
   "id": 4567952,
@@ -21753,7 +21711,7 @@
   "avatar": "crew_portraits_cm_georgiou_empress_sm.webp",
   "fleet": "USS-R3S",
   "change": -6,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-09-20T00:00:00Z"
  },
  {
   "id": 6743129,
@@ -21837,7 +21795,7 @@
   "avatar": "crew_portraits_cm_kirkgreenwrap_sm.webp",
   "fleet": "",
   "change": -6,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-07-05T00:00:00Z"
  },
  {
   "id": 15469,
@@ -21949,7 +21907,7 @@
   "avatar": "crew_portraits_cm_picard_smitten_sm.webp",
   "fleet": "DISCORDCONTINUUM",
   "change": -6,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-09-13T00:00:00Z"
  },
  {
   "id": 2071495,
@@ -21977,7 +21935,7 @@
   "avatar": "crew_portraits_cm_qstarfleet_sm.webp",
   "fleet": "DEUTSCH KLINGONISCHE ALLIANZ",
   "change": -6,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-06-28T00:00:00Z"
  },
  {
   "id": 434744,
@@ -22145,7 +22103,7 @@
   "avatar": "crew_portraits_cm_tain_sm.webp",
   "fleet": "SSR The New Obsidian Order",
   "change": -6,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-08-02T00:00:00Z"
  },
  {
   "id": 3400336,
@@ -22188,6 +22146,20 @@
   "fleet": "",
   "change": -6,
   "last": "2019-10-07T00:00:00Z"
+ },
+ {
+  "id": 933134,
+  "name": "[STJ]SYSKonfigg",
+  "ranks": [
+   0,
+   0,
+   1,
+   3
+  ],
+  "avatar": "crew_portraits_cm_janeway_mirror_sm.webp",
+  "fleet": "",
+  "change": -6,
+  "last": "2017-12-04T00:00:00Z"
  },
  {
   "id": 4250764,
@@ -22243,7 +22215,7 @@
   "avatar": "crew_portraits_cm_obriensmiley_sm.webp",
   "fleet": "THE GLUTEN EMPIRE",
   "change": -6,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-08-23T00:00:00Z"
  },
  {
   "id": 4231357,
@@ -22258,20 +22230,6 @@
   "fleet": "\"THE NAKED SULU'S\"",
   "change": -6,
   "last": "2020-06-22T00:00:00Z"
- },
- {
-  "id": 856452,
-  "name": "[TLA] Kork",
-  "ranks": [
-   0,
-   0,
-   1,
-   3
-  ],
-  "avatar": "crew_portraits_cm_quark_jamaharon_sm.webp",
-  "fleet": "",
-  "change": -6,
-  "last": "2017-10-23T00:00:00Z"
  },
  {
   "id": 5701186,
@@ -22383,7 +22341,7 @@
   "avatar": "crew_portraits_cm_borg_queen_sm.webp",
   "fleet": "THE UNITED FEDERATION OF PRAGMATISTS",
   "change": -6,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-07-19T00:00:00Z"
  },
  {
   "id": 119630,
@@ -22426,20 +22384,6 @@
   "fleet": "",
   "change": -6,
   "last": "2020-03-30T00:00:00Z"
- },
- {
-  "id": 609630,
-  "name": "captains slogg",
-  "ranks": [
-   0,
-   0,
-   1,
-   3
-  ],
-  "avatar": "crew_portraits_cm_quarkbartender_sm.webp",
-  "fleet": "",
-  "change": -6,
-  "last": "2016-12-05T00:00:00Z"
  },
  {
   "id": 5702426,
@@ -22495,7 +22439,7 @@
   "avatar": "crew_portraits_cm_luthersloan_sm.webp",
   "fleet": "Battleship Musashi",
   "change": -6,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-07-12T00:00:00Z"
  },
  {
   "id": 2869080,
@@ -22522,7 +22466,7 @@
   ],
   "avatar": "crew_portraits_cm_torchbearer_sm.webp",
   "fleet": "Battleship Yamato",
-  "change": 1168,
+  "change": 1165,
   "last": "2021-12-27T00:00:00Z"
  },
  {
@@ -22593,7 +22537,7 @@
   "avatar": "crew_portraits_cm_shrancommando_sm.webp",
   "fleet": "STRONGHOLD OF SAVAGES",
   "change": -8,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-09-20T00:00:00Z"
  },
  {
   "id": 3338694,
@@ -22691,7 +22635,7 @@
   "avatar": "crew_portraits_ageofsail_avatar_sm.webp",
   "fleet": "=j= german space junkies",
   "change": -8,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-08-23T00:00:00Z"
  },
  {
   "id": 6432140,
@@ -22719,7 +22663,7 @@
   "avatar": "crew_portraits_cm_proton_avatar_sm.webp",
   "fleet": "=j= space junkies akademie",
   "change": -8,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-07-26T00:00:00Z"
  },
  {
   "id": 4224627,
@@ -22887,7 +22831,7 @@
   "avatar": "crew_portraits_cm_rikeradmiral_sm.webp",
   "fleet": "SPACE MONKEYS ",
   "change": -8,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-06-21T00:00:00Z"
  },
  {
   "id": 1827163,
@@ -23111,7 +23055,7 @@
   "avatar": "crew_portraits_cm_kirk_survivalist_sm.webp",
   "fleet": "DCC",
   "change": -8,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-08-16T00:00:00Z"
  },
  {
   "id": 5984234,
@@ -23126,20 +23070,6 @@
   "fleet": "",
   "change": -8,
   "last": "2020-04-06T00:00:00Z"
- },
- {
-  "id": 374334,
-  "name": "DeesNutz - FTP",
-  "ranks": [
-   0,
-   0,
-   1,
-   2
-  ],
-  "avatar": "crew_portraits_cm_uhurared_sm.webp",
-  "fleet": "",
-  "change": -8,
-  "last": "2019-01-07T00:00:00Z"
  },
  {
   "id": 3961879,
@@ -23167,7 +23097,7 @@
   "avatar": "crew_portraits_cm_spockmirror_sm.webp",
   "fleet": "ATLANTA",
   "change": -8,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-09-06T00:00:00Z"
  },
  {
   "id": 3455008,
@@ -23419,7 +23349,7 @@
   "avatar": "crew_portraits_cm_bashir_prisoner_sm.webp",
   "fleet": "CANADIAN STARFLEET",
   "change": -8,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-07-19T00:00:00Z"
  },
  {
   "id": 3740879,
@@ -23657,7 +23587,7 @@
   "avatar": "crew_portraits_cm_picard_romulan_sm.webp",
   "fleet": "STRONGHOLD OF SAVAGES",
   "change": -8,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-09-13T00:00:00Z"
  },
  {
   "id": 2757485,
@@ -23812,20 +23742,6 @@
   "fleet": "[*] SGC [*]",
   "change": -8,
   "last": "2020-11-30T00:00:00Z"
- },
- {
-  "id": 1607838,
-  "name": "Twitch.tv romanedgee",
-  "ranks": [
-   0,
-   0,
-   1,
-   2
-  ],
-  "avatar": "crew_portraits_cm_qjudge_sm.webp",
-  "fleet": "",
-  "change": -8,
-  "last": "2018-02-19T00:00:00Z"
  },
  {
   "id": 3037940,
@@ -24020,7 +23936,7 @@
   ],
   "avatar": "crew_portraits_cm_navaar_sm.webp",
   "fleet": "CYMRU AM BYTH",
-  "change": 1353,
+  "change": 1350,
   "last": "2021-12-27T00:00:00Z"
  },
  {
@@ -24161,7 +24077,7 @@
   "avatar": "crew_portraits_cm_shrandueling_sm.webp",
   "fleet": "[GSA] GERMAN SPACE AGENCY",
   "change": -8,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-07-26T00:00:00Z"
  },
  {
   "id": 2913608,
@@ -24217,7 +24133,7 @@
   "avatar": "crew_portraits_ageofsail_avatar_sm.webp",
   "fleet": "Inner Planets Alliance",
   "change": -8,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-09-20T00:00:00Z"
  },
  {
   "id": 12736,
@@ -24231,7 +24147,7 @@
   "avatar": "crew_portraits_avatar_grudge_sm.webp",
   "fleet": "Inner Planets Alliance",
   "change": -8,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-08-23T00:00:00Z"
  },
  {
   "id": 3697713,
@@ -24287,7 +24203,7 @@
   "avatar": "crew_portraits_cm_linus_sm.webp",
   "fleet": "INDEPENDENT SPACE ARMADA",
   "change": -8,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-06-07T00:00:00Z"
  },
  {
   "id": 3433896,
@@ -24301,7 +24217,7 @@
   "avatar": "crew_portraits_cm_odo_tos_sm.webp",
   "fleet": "LOTUS FLEET",
   "change": -8,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-09-20T00:00:00Z"
  },
  {
   "id": 5184843,
@@ -24357,7 +24273,7 @@
   "avatar": "crew_portraits_cm_parisdeltaflier_sm.webp",
   "fleet": "ROMANIA - DACIA FLEET",
   "change": -8,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-06-28T00:00:00Z"
  },
  {
   "id": 5221801,
@@ -24427,7 +24343,7 @@
   "avatar": "crew_portraits_cm_tilly_mirror_sm.webp",
   "fleet": "STARFLEET JAG",
   "change": -8,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-08-09T00:00:00Z"
  },
  {
   "id": 388369,
@@ -24483,7 +24399,7 @@
   "avatar": "crew_portraits_cm_socrates_sm.webp",
   "fleet": "TEAM DEUTSCHLAND",
   "change": -8,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-09-13T00:00:00Z"
  },
  {
   "id": 583211,
@@ -24584,6 +24500,20 @@
   "last": "2020-10-19T00:00:00Z"
  },
  {
+  "id": 609630,
+  "name": "captains slogg",
+  "ranks": [
+   0,
+   0,
+   1,
+   2
+  ],
+  "avatar": "crew_portraits_cm_quarkbartender_sm.webp",
+  "fleet": "",
+  "change": -8,
+  "last": "2016-12-05T00:00:00Z"
+ },
+ {
   "id": 6499732,
   "name": "e×o | Dwalin",
   "ranks": [
@@ -24637,7 +24567,7 @@
   "avatar": "crew_portraits_cm_ezri_niners_sm.webp",
   "fleet": "DEEP SPACE DEUTSCHLAND",
   "change": -8,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-09-13T00:00:00Z"
  },
  {
   "id": 3148473,
@@ -24693,7 +24623,7 @@
   "avatar": "crew_portraits_cm_datacowboy_sm.webp",
   "fleet": "÷ Battleship Nagato",
   "change": -8,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-07-26T00:00:00Z"
  },
  {
   "id": 2778621,
@@ -24721,7 +24651,7 @@
   "avatar": "crew_portraits_cm_proton_avatar_sm.webp",
   "fleet": "Subspace Eddies",
   "change": -8,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-07-26T00:00:00Z"
  },
  {
   "id": 5411903,
@@ -24875,7 +24805,7 @@
   "avatar": "crew_portraits_cm_white_rabbit_sm.webp",
   "fleet": "*ST* STARS TRILL",
   "change": -7,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-09-27T00:00:00Z"
  },
  {
   "id": 635035,
@@ -25043,7 +24973,7 @@
   "avatar": "crew_portraits_cm_antaakent_sm.webp",
   "fleet": "*ST* STARS RISA",
   "change": -7,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-08-30T00:00:00Z"
  },
  {
   "id": 285727,
@@ -25127,7 +25057,7 @@
   "avatar": "crew_portraits_cm_pike_christopher_sm.webp",
   "fleet": "TEMPORAL OUTPOST TEROK NOR",
   "change": -7,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-08-23T00:00:00Z"
  },
  {
   "id": 4535917,
@@ -25214,20 +25144,6 @@
   "last": "2020-01-20T00:00:00Z"
  },
  {
-  "id": 2312847,
-  "name": "Captain",
-  "ranks": [
-   0,
-   0,
-   1,
-   1
-  ],
-  "avatar": "crew_portraits_cm_kirkromulan_sm.webp",
-  "fleet": "",
-  "change": -7,
-  "last": "2019-02-04T00:00:00Z"
- },
- {
   "id": 132312,
   "name": "Captain",
   "ranks": [
@@ -25242,6 +25158,20 @@
   "last": "2017-01-02T00:00:00Z"
  },
  {
+  "id": 2312847,
+  "name": "Captain",
+  "ranks": [
+   0,
+   0,
+   1,
+   1
+  ],
+  "avatar": "crew_portraits_cm_kirkromulan_sm.webp",
+  "fleet": "",
+  "change": -7,
+  "last": "2019-02-04T00:00:00Z"
+ },
+ {
   "id": 7365745,
   "name": "Captain Ahab",
   "ranks": [
@@ -25253,21 +25183,7 @@
   "avatar": "crew_portraits_cm_q_marshall_of_france_sm.webp",
   "fleet": "USS ENTERPRISE NCC-1701-A",
   "change": -7,
-  "last": "0001-01-01T00:00:00Z"
- },
- {
-  "id": 2549265,
-  "name": "Captain Andtennile",
-  "ranks": [
-   0,
-   0,
-   1,
-   1
-  ],
-  "avatar": "crew_portraits_cm_shrancommando_sm.webp",
-  "fleet": "",
-  "change": -7,
-  "last": "2017-01-30T00:00:00Z"
+  "last": "2021-07-05T00:00:00Z"
  },
  {
   "id": 4310820,
@@ -25421,7 +25337,7 @@
   "avatar": "crew_portraits_cm_kirk_tribble_sm.webp",
   "fleet": "COLLECTIVE DOMINION",
   "change": -7,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-08-02T00:00:00Z"
  },
  {
   "id": 1006942,
@@ -25603,7 +25519,21 @@
   "avatar": "crew_portraits_cm_data_scrooge_sm.webp",
   "fleet": "UNITED FEDERATION OF CHEESEHEADS (UFC)",
   "change": -7,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-06-28T00:00:00Z"
+ },
+ {
+  "id": 374334,
+  "name": "DeesNutz - FTP",
+  "ranks": [
+   0,
+   0,
+   1,
+   1
+  ],
+  "avatar": "crew_portraits_cm_uhurared_sm.webp",
+  "fleet": "",
+  "change": -7,
+  "last": "2019-01-07T00:00:00Z"
  },
  {
   "id": 1722401,
@@ -26152,20 +26082,6 @@
   "last": "2018-03-05T00:00:00Z"
  },
  {
-  "id": 1592619,
-  "name": "Locutus",
-  "ranks": [
-   0,
-   0,
-   1,
-   1
-  ],
-  "avatar": "crew_portraits_cm_picardcaptain_sm.webp",
-  "fleet": "",
-  "change": -7,
-  "last": "2016-12-05T00:00:00Z"
- },
- {
   "id": 4236003,
   "name": "Loxxen",
   "ranks": [
@@ -26331,7 +26247,7 @@
   "avatar": "crew_portraits_cm_may_fungus_sm.webp",
   "fleet": "OMEGA MOLECULES",
   "change": -7,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-08-09T00:00:00Z"
  },
  {
   "id": 3616653,
@@ -26429,7 +26345,7 @@
   "avatar": "crew_portraits_avatar_grudge_sm.webp",
   "fleet": "Rise of the Phoenix",
   "change": -7,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-06-07T00:00:00Z"
  },
  {
   "id": 2054972,
@@ -26499,7 +26415,7 @@
   "avatar": "crew_portraits_cm_socrates_sm.webp",
   "fleet": "Celestial Temple",
   "change": -7,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-06-28T00:00:00Z"
  },
  {
   "id": 1768545,
@@ -26723,7 +26639,7 @@
   "avatar": "crew_portraits_cm_kirk_admiral_sm.webp",
   "fleet": "ALL WAYS ARE JANEWAYS",
   "change": -7,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-07-26T00:00:00Z"
  },
  {
   "id": 4784694,
@@ -26752,6 +26668,20 @@
   "fleet": "",
   "change": -7,
   "last": "2017-11-27T00:00:00Z"
+ },
+ {
+  "id": 1607838,
+  "name": "Twitch.tv romanedgee",
+  "ranks": [
+   0,
+   0,
+   1,
+   1
+  ],
+  "avatar": "crew_portraits_cm_qjudge_sm.webp",
+  "fleet": "",
+  "change": -7,
+  "last": "2018-02-19T00:00:00Z"
  },
  {
   "id": 383765,
@@ -27143,7 +27073,7 @@
   "avatar": "crew_portraits_cm_satans_robot_sm.webp",
   "fleet": "GODS OF TIME",
   "change": -7,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-08-02T00:00:00Z"
  },
  {
   "id": 1765193,
@@ -27661,7 +27591,7 @@
   "avatar": "crew_portraits_cm_q_god_sm.webp",
   "fleet": "TEMPORAL GUARDS",
   "change": -7,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-08-23T00:00:00Z"
  },
  {
   "id": 4289176,
@@ -27745,7 +27675,7 @@
   "avatar": "crew_portraits_cm_mccoy_leonard_sm.webp",
   "fleet": "THE GLUTEN EMPIRE",
   "change": -7,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-06-28T00:00:00Z"
  },
  {
   "id": 4485254,
@@ -27760,20 +27690,6 @@
   "fleet": "",
   "change": -7,
   "last": "2020-11-30T00:00:00Z"
- },
- {
-  "id": 2055614,
-  "name": "[TGE] gorignak ",
-  "ranks": [
-   0,
-   0,
-   1,
-   1
-  ],
-  "avatar": "crew_portraits_cm_datagenerations_sm.webp",
-  "fleet": "",
-  "change": -7,
-  "last": "2017-04-10T00:00:00Z"
  },
  {
   "id": 432675,
@@ -27898,7 +27814,7 @@
   ],
   "avatar": "crew_portraits_cm_sisko_enemy_lines_sm.webp",
   "fleet": "(DE/AT/CH) WARP [XI] DEUTSCHLAND",
-  "change": 1831,
+  "change": 1812,
   "last": "2021-12-27T00:00:00Z"
  },
  {
@@ -27941,7 +27857,7 @@
   "avatar": "crew_portraits_cm_locutus_sm.webp",
   "fleet": "= EXODUS =",
   "change": -7,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-08-02T00:00:00Z"
  },
  {
   "id": 6034249,
@@ -28024,7 +27940,7 @@
   ],
   "avatar": "crew_portraits_cm_kirk_gangster_sm.webp",
   "fleet": "FIRE AND ICE",
-  "change": 1831,
+  "change": 1812,
   "last": "2021-12-27T00:00:00Z"
  },
  {
@@ -28067,7 +27983,7 @@
   "avatar": "crew_portraits_cm_pike_captain_sm.webp",
   "fleet": "RAGNA{DD}OG5",
   "change": -7,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-08-30T00:00:00Z"
  },
  {
   "id": 6552441,
@@ -28137,7 +28053,7 @@
   "avatar": "crew_portraits_cm_worfkdf_sm.webp",
   "fleet": "\u003ci\u003e\u003cu\u003e\u003c#FF0000\u003ePhu-Tang-Clan Boundless",
   "change": -7,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-06-07T00:00:00Z"
  },
  {
   "id": 2166,
@@ -28179,7 +28095,7 @@
   "avatar": "crew_portraits_cm_kamala_betrothed_sm.webp",
   "fleet": "QUARKS HOLOSUITE",
   "change": -7,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-07-12T00:00:00Z"
  },
  {
   "id": 210047,
@@ -28206,7 +28122,7 @@
   ],
   "avatar": "crew_portraits_cm_pike_acting_sm.webp",
   "fleet": "÷ Battleship Nagato",
-  "change": 1831,
+  "change": 1812,
   "last": "2021-12-27T00:00:00Z"
  },
  {
@@ -28319,7 +28235,7 @@
   "avatar": "crew_portraits_cm_whales_sm.webp",
   "fleet": "",
   "change": -8,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-06-28T00:00:00Z"
  },
  {
   "id": 5194723,
@@ -28529,7 +28445,7 @@
   "avatar": "crew_portraits_cm_armus_sm.webp",
   "fleet": ".|.ISS Kongo",
   "change": -8,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-09-13T00:00:00Z"
  },
  {
   "id": 4506272,
@@ -28711,7 +28627,7 @@
   "avatar": "crew_portraits_cm_chakotaywwii_sm.webp",
   "fleet": "BORGS ACTIVITY",
   "change": -8,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-07-05T00:00:00Z"
  },
  {
   "id": 680804,
@@ -28924,6 +28840,20 @@
   "last": "2021-11-01T00:00:00Z"
  },
  {
+  "id": 3712773,
+  "name": "Captain",
+  "ranks": [
+   0,
+   0,
+   1,
+   0
+  ],
+  "avatar": "crew_portraits_cm_kirkromulan_sm.webp",
+  "fleet": "FleetJust4Me",
+  "change": -8,
+  "last": "2021-08-02T00:00:00Z"
+ },
+ {
   "id": 1572073,
   "name": "Captain",
   "ranks": [
@@ -28938,7 +28868,7 @@
   "last": "2016-07-25T00:00:00Z"
  },
  {
-  "id": 3712773,
+  "id": 757473,
   "name": "Captain",
   "ranks": [
    0,
@@ -28947,9 +28877,9 @@
    0
   ],
   "avatar": "crew_portraits_cm_kirkromulan_sm.webp",
-  "fleet": "FleetJust4Me",
+  "fleet": "CANADIAN STARFLEET",
   "change": -8,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2018-01-08T00:00:00Z"
  },
  {
   "id": 389284,
@@ -28966,18 +28896,18 @@
   "last": "2016-04-04T00:00:00Z"
  },
  {
-  "id": 757473,
-  "name": "Captain",
+  "id": 2549265,
+  "name": "Captain Andtennile",
   "ranks": [
    0,
    0,
    1,
    0
   ],
-  "avatar": "crew_portraits_cm_kirkromulan_sm.webp",
-  "fleet": "CANADIAN STARFLEET",
+  "avatar": "crew_portraits_cm_shrancommando_sm.webp",
+  "fleet": "",
   "change": -8,
-  "last": "2018-01-08T00:00:00Z"
+  "last": "2017-01-30T00:00:00Z"
  },
  {
   "id": 453741,
@@ -29033,7 +28963,7 @@
   "avatar": "crew_portraits_cm_sisko_tuxedo_sm.webp",
   "fleet": "OMEGA MOLECULES",
   "change": -8,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-07-19T00:00:00Z"
  },
  {
   "id": 2406179,
@@ -29145,7 +29075,7 @@
   "avatar": "crew_portraits_cm_datacowboy_sm.webp",
   "fleet": "",
   "change": -8,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-07-05T00:00:00Z"
  },
  {
   "id": 6409653,
@@ -29230,20 +29160,6 @@
   "fleet": "Galactic Discovery",
   "change": -8,
   "last": "2017-01-17T00:00:00Z"
- },
- {
-  "id": 433564,
-  "name": "Cortana117",
-  "ranks": [
-   0,
-   0,
-   1,
-   0
-  ],
-  "avatar": "crew_portraits_cm_picardcaptain_sm.webp",
-  "fleet": "UNITED FEDERATION OF CHEESEHEADS (UFC)",
-  "change": -8,
-  "last": "0001-01-01T00:00:00Z"
  },
  {
   "id": 2026882,
@@ -29372,20 +29288,6 @@
   "last": "2020-03-23T00:00:00Z"
  },
  {
-  "id": 973639,
-  "name": "Eh",
-  "ranks": [
-   0,
-   0,
-   1,
-   0
-  ],
-  "avatar": "crew_portraits_cm_odotux_sm.webp",
-  "fleet": "",
-  "change": -8,
-  "last": "0001-01-01T00:00:00Z"
- },
- {
   "id": 542601,
   "name": "Engage!",
   "ranks": [
@@ -29425,7 +29327,7 @@
   "avatar": "crew_portraits_cm_kirktosyellow_sm.webp",
   "fleet": "FLEET1084",
   "change": -8,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-07-26T00:00:00Z"
  },
  {
   "id": 1499727,
@@ -29607,7 +29509,7 @@
   "avatar": "crew_portraits_cm_tribble_captain_sm.webp",
   "fleet": "¥ulcan Science Academy ",
   "change": -8,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-08-09T00:00:00Z"
  },
  {
   "id": 1734402,
@@ -29747,7 +29649,7 @@
   "avatar": "crew_portraits_cm_sisko_noah_sm.webp",
   "fleet": "",
   "change": -8,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-09-20T00:00:00Z"
  },
  {
   "id": 3544165,
@@ -29918,6 +29820,20 @@
   "last": "2020-11-09T00:00:00Z"
  },
  {
+  "id": 1592619,
+  "name": "Locutus",
+  "ranks": [
+   0,
+   0,
+   1,
+   0
+  ],
+  "avatar": "crew_portraits_cm_picardcaptain_sm.webp",
+  "fleet": "",
+  "change": -8,
+  "last": "2016-12-05T00:00:00Z"
+ },
+ {
   "id": 4791768,
   "name": "Lord Asti",
   "ranks": [
@@ -29957,7 +29873,7 @@
   "avatar": "crew_portraits_cm_picardcaptain_sm.webp",
   "fleet": "__Atlantis__",
   "change": -8,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-06-07T00:00:00Z"
  },
  {
   "id": 6510081,
@@ -30069,7 +29985,7 @@
   "avatar": "crew_portraits_cm_obrien_kalhyah_sm.webp",
   "fleet": "QUEBEC ALLIANCE",
   "change": -8,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-06-28T00:00:00Z"
  },
  {
   "id": 4493585,
@@ -30251,7 +30167,7 @@
   "avatar": "crew_portraits_cm_livingston_sm.webp",
   "fleet": "FREEDOM OF SPEECH",
   "change": -8,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-06-21T00:00:00Z"
  },
  {
   "id": 779745,
@@ -30349,7 +30265,7 @@
   "avatar": "crew_portraits_cm_bashirbond_sm.webp",
   "fleet": "DABO ADDICTS ANONYMOUS",
   "change": -8,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-06-28T00:00:00Z"
  },
  {
   "id": 1875668,
@@ -30618,6 +30534,20 @@
   "last": "2018-11-05T00:00:00Z"
  },
  {
+  "id": 2935794,
+  "name": "Seven",
+  "ranks": [
+   0,
+   0,
+   1,
+   0
+  ],
+  "avatar": "crew_portraits_cm_janeway_viceadmiral_sm.webp",
+  "fleet": "red pilled geeks",
+  "change": -8,
+  "last": "2016-09-19T00:00:00Z"
+ },
+ {
   "id": 4237128,
   "name": "SharQubus",
   "ranks": [
@@ -30755,7 +30685,7 @@
   "avatar": "crew_portraits_cm_betorduras_sm.webp",
   "fleet": "Stronghold of Savages 2.0",
   "change": -8,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-07-05T00:00:00Z"
  },
  {
   "id": 1302464,
@@ -30839,7 +30769,7 @@
   "avatar": "crew_portraits_cm_federation_president_sm.webp",
   "fleet": "HAUS OF GAGHGAGH",
   "change": -8,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-07-19T00:00:00Z"
  },
  {
   "id": 4077873,
@@ -30853,7 +30783,7 @@
   "avatar": "crew_portraits_cm_janeway_viceadmiral_sm.webp",
   "fleet": "The Temporal Agents [TTA@DTI]",
   "change": -8,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-06-28T00:00:00Z"
  },
  {
   "id": 3236042,
@@ -30937,7 +30867,7 @@
   "avatar": "crew_portraits_avatar_grudge_sm.webp",
   "fleet": "COLONIAL FLEET OHIO",
   "change": -8,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-06-28T00:00:00Z"
  },
  {
   "id": 2717199,
@@ -30951,7 +30881,7 @@
   "avatar": "crew_portraits_cm_spocktommygun_sm.webp",
   "fleet": "DISCORDCONTINUUM",
   "change": -8,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-09-13T00:00:00Z"
  },
  {
   "id": 4304162,
@@ -31049,7 +30979,7 @@
   "avatar": "crew_portraits_cm_picard_robinhood_sm.webp",
   "fleet": "EVIL EMPIRE",
   "change": -8,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-07-19T00:00:00Z"
  },
  {
   "id": 3060737,
@@ -31064,20 +30994,6 @@
   "fleet": "",
   "change": -8,
   "last": "2018-02-26T00:00:00Z"
- },
- {
-  "id": 2774616,
-  "name": "[FEM] Weax",
-  "ranks": [
-   0,
-   0,
-   1,
-   0
-  ],
-  "avatar": "crew_portraits_cm_gilorarejal_sm.webp",
-  "fleet": "",
-  "change": -8,
-  "last": "0001-01-01T00:00:00Z"
  },
  {
   "id": 731441,
@@ -31430,20 +31346,6 @@
   "last": "2018-12-10T00:00:00Z"
  },
  {
-  "id": 677335,
-  "name": "[S47] Mork",
-  "ranks": [
-   0,
-   0,
-   1,
-   0
-  ],
-  "avatar": "crew_portraits_cm_kor_daharmaster_sm.webp",
-  "fleet": "",
-  "change": -8,
-  "last": "0001-01-01T00:00:00Z"
- },
- {
   "id": 521323,
   "name": "[SBD] Nebu",
   "ranks": [
@@ -31651,7 +31553,7 @@
   "avatar": "crew_portraits_cm_loreblacksuit_sm.webp",
   "fleet": "TEAM DEUTSCHLAND",
   "change": -8,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-08-16T00:00:00Z"
  },
  {
   "id": 2984396,
@@ -31735,21 +31637,7 @@
   "avatar": "crew_portraits_cm_leah_brahms_sm.webp",
   "fleet": "SSR The New Obsidian Order",
   "change": -8,
-  "last": "0001-01-01T00:00:00Z"
- },
- {
-  "id": 3200732,
-  "name": "[TRF]Saltyone",
-  "ranks": [
-   0,
-   0,
-   1,
-   0
-  ],
-  "avatar": "crew_portraits_cm_datacowboy_sm.webp",
-  "fleet": "",
-  "change": -8,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-07-19T00:00:00Z"
  },
  {
   "id": 1156183,
@@ -31777,7 +31665,7 @@
   "avatar": "crew_portraits_cm_picard_day_sm.webp",
   "fleet": "THE UNITED FEDERATION OF PRAGMATISTS",
   "change": -8,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-07-19T00:00:00Z"
  },
  {
   "id": 795744,
@@ -32295,7 +32183,7 @@
   "avatar": "crew_portraits_cm_rikeradmiral_sm.webp",
   "fleet": "",
   "change": -9,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-07-26T00:00:00Z"
  },
  {
   "id": 4082541,
@@ -32351,7 +32239,7 @@
   "avatar": "crew_portraits_cm_siskoeyepiece_sm.webp",
   "fleet": "SUNCOAST",
   "change": -9,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-09-06T00:00:00Z"
  },
  {
   "id": 2591840,
@@ -32491,7 +32379,7 @@
   "avatar": "crew_portraits_cm_worf_future_sm.webp",
   "fleet": "",
   "change": -9,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-06-28T00:00:00Z"
  },
  {
   "id": 3403871,
@@ -32533,7 +32421,7 @@
   "avatar": "crew_portraits_cm_livingston_sm.webp",
   "fleet": "Ringworld",
   "change": -9,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-08-23T00:00:00Z"
  },
  {
   "id": 2993858,
@@ -32631,7 +32519,7 @@
   "avatar": "crew_portraits_cm_datas1_sm.webp",
   "fleet": "H3LLHOUND5",
   "change": -9,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-06-21T00:00:00Z"
  },
  {
   "id": 7439908,
@@ -32645,7 +32533,7 @@
   "avatar": "crew_portraits_cm_q_god_sm.webp",
   "fleet": "\u003ci\u003e\u003cu\u003e\u003c#000000\u003ePHU-TANG-CLAN ELITES",
   "change": -9,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-09-27T00:00:00Z"
  },
  {
   "id": 7926301,
@@ -32715,7 +32603,7 @@
   "avatar": "crew_portraits_cm_janewaycoffee_sm.webp",
   "fleet": "TEMPORAL OUTPOST TEROK NOR",
   "change": -9,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-06-28T00:00:00Z"
  },
  {
   "id": 1464068,
@@ -32813,7 +32701,7 @@
   "avatar": "crew_portraits_cm_picard_fencing_sm.webp",
   "fleet": "THE UNITED FEDERATION OF PRAGMATISTS",
   "change": -9,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-09-20T00:00:00Z"
  },
  {
   "id": 1542883,
@@ -32869,7 +32757,7 @@
   "avatar": "crew_portraits_cm_wesley_sm.webp",
   "fleet": "Celestial Temple",
   "change": -9,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-08-30T00:00:00Z"
  },
  {
   "id": 446909,
@@ -33288,7 +33176,7 @@
   ],
   "avatar": "crew_portraits_cm_dsc_airiam_ltcmdr_sm.webp",
   "fleet": "ISS Yamato",
-  "change": 27,
+  "change": 28,
   "last": "2021-12-27T00:00:00Z"
  },
  {
@@ -33345,7 +33233,7 @@
   "avatar": "crew_portraits_cm_riker_nepenthe_sm.webp",
   "fleet": "Lone Worf",
   "change": -10,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-08-02T00:00:00Z"
  },
  {
   "id": 3575770,
@@ -33373,7 +33261,7 @@
   "avatar": "crew_portraits_cm_rikeradmiral_sm.webp",
   "fleet": "THE FLEET OF REDUNDANCY FLEET",
   "change": -10,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-09-27T00:00:00Z"
  },
  {
   "id": 2670945,
@@ -33474,6 +33362,20 @@
   "last": "2018-11-05T00:00:00Z"
  },
  {
+  "id": 2080254,
+  "name": "StarLord",
+  "ranks": [
+   0,
+   0,
+   0,
+   7
+  ],
+  "avatar": "crew_portraits_cm_spock_captain_sm.webp",
+  "fleet": "",
+  "change": -10,
+  "last": "2018-10-22T00:00:00Z"
+ },
+ {
   "id": 4469706,
   "name": "Windy",
   "ranks": [
@@ -33499,7 +33401,7 @@
   "avatar": "crew_portraits_cm_niners_avatar_sm.webp",
   "fleet": "9RS",
   "change": -10,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-09-13T00:00:00Z"
  },
  {
   "id": 4153757,
@@ -33541,7 +33443,7 @@
   "avatar": "crew_portraits_cm_picard_fencing_sm.webp",
   "fleet": "DEEP SPACE EXPLORATION FLEET",
   "change": -10,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-08-30T00:00:00Z"
  },
  {
   "id": 3605975,
@@ -33569,7 +33471,7 @@
   "avatar": "crew_portraits_avatar_grudge_sm.webp",
   "fleet": "FREEDOM FIGHTERS!",
   "change": -10,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-08-23T00:00:00Z"
  },
  {
   "id": 1196782,
@@ -33597,7 +33499,7 @@
   "avatar": "crew_portraits_cm_sulusfs_sm.webp",
   "fleet": "Starfleet-Alpha-Command",
   "change": -10,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-09-06T00:00:00Z"
  },
  {
   "id": 707184,
@@ -34479,7 +34381,7 @@
   "avatar": "crew_portraits_cm_targ_sm.webp",
   "fleet": "=j= subspace junkies",
   "change": -8,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-07-05T00:00:00Z"
  },
  {
   "id": 4416848,
@@ -34493,7 +34395,7 @@
   "avatar": "crew_portraits_cm_comm_rura_penthe_sm.webp",
   "fleet": "=j= mirror space junkies",
   "change": -8,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-06-21T00:00:00Z"
  },
  {
   "id": 6856014,
@@ -34507,7 +34409,7 @@
   "avatar": "crew_portraits_cm_scottystiv_sm.webp",
   "fleet": "I.S.S. NEBRASKA",
   "change": -8,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-09-06T00:00:00Z"
  },
  {
   "id": 321757,
@@ -34549,7 +34451,7 @@
   "avatar": "crew_portraits_cm_chakotayboxing_sm.webp",
   "fleet": "STAR TRUCKERZ",
   "change": -8,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-09-13T00:00:00Z"
  },
  {
   "id": 4852402,
@@ -34619,7 +34521,7 @@
   "avatar": "crew_portraits_cm_kirkgreenwrap_sm.webp",
   "fleet": "Q-KONTINUUM ",
   "change": -8,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-08-16T00:00:00Z"
  },
  {
   "id": 4147785,
@@ -34675,7 +34577,7 @@
   "avatar": "crew_portraits_cm_riker_mintakan_sm.webp",
   "fleet": "WATCHMEN",
   "change": -8,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-08-30T00:00:00Z"
  },
  {
   "id": 567966,
@@ -34717,7 +34619,7 @@
   "avatar": "crew_portraits_cm_tkon_guardian_sm.webp",
   "fleet": "TARDIS of WHO",
   "change": -8,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-07-05T00:00:00Z"
  },
  {
   "id": 4635625,
@@ -34983,7 +34885,7 @@
   "avatar": "crew_portraits_avatar_grudge_sm.webp",
   "fleet": "Ringworld",
   "change": -8,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-08-16T00:00:00Z"
  },
  {
   "id": 3846131,
@@ -35039,7 +34941,7 @@
   "avatar": "crew_portraits_cm_q_florist_sm.webp",
   "fleet": "DCC",
   "change": -8,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-09-20T00:00:00Z"
  },
  {
   "id": 36151,
@@ -35095,7 +34997,7 @@
   "avatar": "crew_portraits_cm_niners_avatar_sm.webp",
   "fleet": "THE GUARDIANS OF YESTERYEAR",
   "change": -8,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-06-07T00:00:00Z"
  },
  {
   "id": 1882564,
@@ -35459,7 +35361,7 @@
   "avatar": "crew_portraits_cm_obrien_scapegoat_sm.webp",
   "fleet": "(TLA) THE LIBERAL ALLIANCE",
   "change": -7,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-07-26T00:00:00Z"
  },
  {
   "id": 576715,
@@ -35500,7 +35402,7 @@
   ],
   "avatar": "crew_portraits_cm_tribble_captain_sm.webp",
   "fleet": "Battleship Yamato",
-  "change": 147,
+  "change": 146,
   "last": "2021-12-27T00:00:00Z"
  },
  {
@@ -35599,7 +35501,7 @@
   "avatar": "crew_portraits_cm_hugh_sm.webp",
   "fleet": "=j= subspace junkies",
   "change": -7,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-08-30T00:00:00Z"
  },
  {
   "id": 963016,
@@ -35626,7 +35528,7 @@
   ],
   "avatar": "crew_portraits_cm_locutus_sm.webp",
   "fleet": "=j= subspace junkies",
-  "change": 147,
+  "change": 146,
   "last": "2021-12-27T00:00:00Z"
  },
  {
@@ -35669,7 +35571,7 @@
   "avatar": "crew_portraits_cm_sisko_benny_sm.webp",
   "fleet": "¥ulcan Science Academy ",
   "change": -7,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-09-13T00:00:00Z"
  },
  {
   "id": 890289,
@@ -35921,7 +35823,7 @@
   "avatar": "crew_portraits_cm_tilly_mirror_sm.webp",
   "fleet": "THE CANADIAN FEDERATION",
   "change": -7,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-07-05T00:00:00Z"
  },
  {
   "id": 5702516,
@@ -35963,7 +35865,7 @@
   "avatar": "crew_portraits_cm_spock_kirk_reunion_sm.webp",
   "fleet": "The Temporal Agents [TTA@DTI]",
   "change": -7,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-08-23T00:00:00Z"
  },
  {
   "id": 5182909,
@@ -36204,20 +36106,6 @@
   "last": "2018-11-12T00:00:00Z"
  },
  {
-  "id": 1464206,
-  "name": "Lucky NO1 {{WM}}",
-  "ranks": [
-   0,
-   0,
-   0,
-   4
-  ],
-  "avatar": "crew_portraits_cm_datafirstcontactskin_sm.webp",
-  "fleet": "",
-  "change": -7,
-  "last": "2016-12-19T00:00:00Z"
- },
- {
   "id": 735998,
   "name": "Luke Duke",
   "ranks": [
@@ -36299,7 +36187,7 @@
   "avatar": "crew_portraits_cm_tucker_sm.webp",
   "fleet": "ADULT SWIM",
   "change": -7,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-09-20T00:00:00Z"
  },
  {
   "id": 3246952,
@@ -36439,7 +36327,7 @@
   "avatar": "crew_portraits_cm_sudersabotuer_sm.webp",
   "fleet": "ALL THE GEAR, BUT NO IDEA",
   "change": -7,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-06-28T00:00:00Z"
  },
  {
   "id": 2187594,
@@ -36803,7 +36691,7 @@
   "avatar": "crew_portraits_cm_kira_prophet_sm.webp",
   "fleet": "FREEDOM FIGHTERS!",
   "change": -7,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-06-14T00:00:00Z"
  },
  {
   "id": 5846615,
@@ -36845,7 +36733,7 @@
   "avatar": "crew_portraits_cm_spock_captain_sm.webp",
   "fleet": "GERMAN 5618",
   "change": -7,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-08-02T00:00:00Z"
  },
  {
   "id": 3001483,
@@ -36901,7 +36789,7 @@
   "avatar": "crew_portraits_cm_picard_smitten_sm.webp",
   "fleet": "Inner Planets Alliance",
   "change": -7,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-07-05T00:00:00Z"
  },
  {
   "id": 3682219,
@@ -37096,7 +36984,7 @@
   ],
   "avatar": "crew_portraits_cm_picard_numberone_sm.webp",
   "fleet": "TEAM DEUTSCHLAND",
-  "change": 147,
+  "change": 146,
   "last": "2021-12-27T00:00:00Z"
  },
  {
@@ -37460,7 +37348,7 @@
   ],
   "avatar": "crew_portraits_cm_seven_borg_queen_sm.webp",
   "fleet": "H3LLHOUND5",
-  "change": 147,
+  "change": 146,
   "last": "2021-12-27T00:00:00Z"
  },
  {
@@ -37755,7 +37643,7 @@
   "avatar": "crew_portraits_cm_matt_decker_sm.webp",
   "fleet": "Subspace Eddies",
   "change": -10,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-08-23T00:00:00Z"
  },
  {
   "id": 6930167,
@@ -37769,7 +37657,7 @@
   "avatar": "crew_portraits_cm_troi_mirror_sm.webp",
   "fleet": "BORG ASSIMILATION DRONES",
   "change": -10,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-08-09T00:00:00Z"
  },
  {
   "id": 6864678,
@@ -37783,7 +37671,7 @@
   "avatar": "crew_portraits_cm_worf_duchamps_sm.webp",
   "fleet": "BORG ASSIMILATION DRONES",
   "change": -10,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-08-09T00:00:00Z"
  },
  {
   "id": 45685,
@@ -37839,7 +37727,7 @@
   "avatar": "crew_portraits_cm_seven_borg_queen_sm.webp",
   "fleet": ".|.ISS Kongo",
   "change": -10,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-06-28T00:00:00Z"
  },
  {
   "id": 7013239,
@@ -37965,7 +37853,7 @@
   "avatar": "crew_portraits_cm_q_florist_sm.webp",
   "fleet": "=j= mirror space junkies",
   "change": -10,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-09-20T00:00:00Z"
  },
  {
   "id": 2188131,
@@ -38119,7 +38007,7 @@
   "avatar": "crew_portraits_cm_kortar_sm.webp",
   "fleet": "LIVE LONG AND MAKE IT SO",
   "change": -10,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-08-23T00:00:00Z"
  },
  {
   "id": 3877651,
@@ -38301,7 +38189,7 @@
   "avatar": "crew_portraits_cm_kirkromulan_sm.webp",
   "fleet": "Shadow of Intent",
   "change": -10,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-07-05T00:00:00Z"
  },
  {
   "id": 559642,
@@ -38357,7 +38245,7 @@
   "avatar": "crew_portraits_cm_riker_nepenthe_sm.webp",
   "fleet": "SUNCOAST",
   "change": -10,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-08-02T00:00:00Z"
  },
  {
   "id": 3500180,
@@ -38595,7 +38483,7 @@
   "avatar": "crew_portraits_cm_shrandueling_sm.webp",
   "fleet": "Starport",
   "change": -10,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-08-09T00:00:00Z"
  },
  {
   "id": 2758953,
@@ -39158,6 +39046,20 @@
   "last": "2019-10-07T00:00:00Z"
  },
  {
+  "id": 1464206,
+  "name": "Lucky NO1 {{WM}}",
+  "ranks": [
+   0,
+   0,
+   0,
+   3
+  ],
+  "avatar": "crew_portraits_cm_datafirstcontactskin_sm.webp",
+  "fleet": "",
+  "change": -10,
+  "last": "2016-12-19T00:00:00Z"
+ },
+ {
   "id": 888079,
   "name": "M.D. Howle",
   "ranks": [
@@ -39239,7 +39141,7 @@
   "avatar": "crew_portraits_cm_reedsection31_sm.webp",
   "fleet": "HJÄRNFLOTTAN",
   "change": -10,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-08-23T00:00:00Z"
  },
  {
   "id": 3599131,
@@ -39351,7 +39253,7 @@
   "avatar": "crew_portraits_cm_burnham_red_angel_sm.webp",
   "fleet": "Subspace Eddies",
   "change": -10,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-09-20T00:00:00Z"
  },
  {
   "id": 4169363,
@@ -39547,7 +39449,7 @@
   "avatar": "crew_portraits_cm_garak_secretagent_sm.webp",
   "fleet": "CYMRU AM BYTH",
   "change": -10,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-09-13T00:00:00Z"
  },
  {
   "id": 680275,
@@ -39687,7 +39589,7 @@
   "avatar": "crew_portraits_cm_burnham_homecoming_sm.webp",
   "fleet": "WEYOUN'S OPEN FLEET",
   "change": -10,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-09-13T00:00:00Z"
  },
  {
   "id": 4590845,
@@ -39896,7 +39798,7 @@
   ],
   "avatar": "crew_portraits_cm_rikeradmiral_sm.webp",
   "fleet": "STRONGHOLD OF SAVAGES",
-  "change": 281,
+  "change": 282,
   "last": "2021-12-27T00:00:00Z"
  },
  {
@@ -39967,7 +39869,7 @@
   "avatar": "crew_portraits_cm_riker_top_hat_sm.webp",
   "fleet": "10 FORWARD LOUNGERS",
   "change": -10,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-08-23T00:00:00Z"
  },
  {
   "id": 723369,
@@ -40121,7 +40023,7 @@
   "avatar": "crew_portraits_cm_romtechnitian_sm.webp",
   "fleet": "BARREL OF BLOODWINE",
   "change": -10,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-07-26T00:00:00Z"
  },
  {
   "id": 2886429,
@@ -40289,7 +40191,7 @@
   "avatar": "crew_portraits_cm_ensign_picard_sm.webp",
   "fleet": "DS GERMANY 2",
   "change": -10,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-07-05T00:00:00Z"
  },
  {
   "id": 3400,
@@ -40415,7 +40317,7 @@
   "avatar": "crew_portraits_cm_ech_sm.webp",
   "fleet": "GERMAN 5618",
   "change": -10,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-06-07T00:00:00Z"
  },
  {
   "id": 3834451,
@@ -40429,7 +40331,7 @@
   "avatar": "crew_portraits_cm_picardfirstcontact_sm.webp",
   "fleet": "GERMAN 5618",
   "change": -10,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-06-07T00:00:00Z"
  },
  {
   "id": 50049,
@@ -40639,7 +40541,7 @@
   "avatar": "crew_portraits_ageofsail_avatar_sm.webp",
   "fleet": "LOTUS FLEET",
   "change": -10,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-07-19T00:00:00Z"
  },
  {
   "id": 4091847,
@@ -40709,7 +40611,7 @@
   "avatar": "crew_portraits_cm_riker_nepenthe_sm.webp",
   "fleet": "PON FARR VULCANS",
   "change": -10,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-08-16T00:00:00Z"
  },
  {
   "id": 1757981,
@@ -40765,7 +40667,7 @@
   "avatar": "crew_portraits_cm_parisproton_sm.webp",
   "fleet": "Rise of the Phoenix",
   "change": -10,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-07-19T00:00:00Z"
  },
  {
   "id": 383912,
@@ -40807,7 +40709,7 @@
   "avatar": "crew_portraits_cm_seven_borg_queen_sm.webp",
   "fleet": "SSR Delta Flyers",
   "change": -10,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-08-23T00:00:00Z"
  },
  {
   "id": 30971,
@@ -40919,7 +40821,7 @@
   "avatar": "crew_portraits_cm_sisko_sm.webp",
   "fleet": "SOLARES COMMONWEALTH",
   "change": -10,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-07-19T00:00:00Z"
  },
  {
   "id": 188813,
@@ -40992,6 +40894,20 @@
   "last": "2019-02-25T00:00:00Z"
  },
  {
+  "id": 856452,
+  "name": "[TLA] Kork",
+  "ranks": [
+   0,
+   0,
+   0,
+   3
+  ],
+  "avatar": "crew_portraits_cm_quark_jamaharon_sm.webp",
+  "fleet": "",
+  "change": -10,
+  "last": "2017-10-23T00:00:00Z"
+ },
+ {
   "id": 979758,
   "name": "[TLA] mycelialnetwork",
   "ranks": [
@@ -41003,7 +40919,7 @@
   "avatar": "crew_portraits_cm_bashirbond_sm.webp",
   "fleet": "(TLA) THE LIBERAL ALLIANCE",
   "change": -10,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-07-26T00:00:00Z"
  },
  {
   "id": 4173638,
@@ -41240,7 +41156,7 @@
   ],
   "avatar": "crew_portraits_cm_guardian_of_forever_carl_sm.webp",
   "fleet": "SUNCOAST",
-  "change": 281,
+  "change": 282,
   "last": "2021-12-27T00:00:00Z"
  },
  {
@@ -41256,20 +41172,6 @@
   "fleet": "",
   "change": -10,
   "last": "2018-11-19T00:00:00Z"
- },
- {
-  "id": 801583,
-  "name": "kumpelstein",
-  "ranks": [
-   0,
-   0,
-   0,
-   3
-  ],
-  "avatar": "crew_portraits_cm_datas1_sm.webp",
-  "fleet": "",
-  "change": -10,
-  "last": "2017-02-13T00:00:00Z"
  },
  {
   "id": 2872843,
@@ -41437,7 +41339,7 @@
   "avatar": "crew_portraits_cm_data_carlos_sm.webp",
   "fleet": "\u003ci\u003e\u003cu\u003e\u003c#FF0000\u003ePhu-Tang-Clan Boundless",
   "change": -10,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-06-28T00:00:00Z"
  },
  {
   "id": 3008474,
@@ -41493,7 +41395,7 @@
   "avatar": "crew_portraits_cm_shran_ransom_sm.webp",
   "fleet": "Battleship Musashi",
   "change": -10,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-07-19T00:00:00Z"
  },
  {
   "id": 6391131,
@@ -41507,7 +41409,7 @@
   "avatar": "crew_portraits_cm_morn_sm.webp",
   "fleet": "Battleship Musashi",
   "change": -10,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-08-09T00:00:00Z"
  },
  {
   "id": 880248,
@@ -41633,7 +41535,7 @@
   "avatar": "crew_portraits_cm_lonzak_sm.webp",
   "fleet": "10 FORWARD LOUNGERS",
   "change": -7,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-09-20T00:00:00Z"
  },
  {
   "id": 4540340,
@@ -41718,20 +41620,6 @@
   "fleet": "",
   "change": -7,
   "last": "2016-10-10T00:00:00Z"
- },
- {
-  "id": 23983,
-  "name": "(PAaA) RiotBooster",
-  "ranks": [
-   0,
-   0,
-   0,
-   2
-  ],
-  "avatar": "crew_portraits_cm_tuckercowboy_sm.webp",
-  "fleet": "",
-  "change": -7,
-  "last": "2017-10-16T00:00:00Z"
  },
  {
   "id": 2601335,
@@ -41913,7 +41801,7 @@
   "avatar": "crew_portraits_cm_miss_q_civil_war_sm.webp",
   "fleet": "FEDS R US",
   "change": -7,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-09-20T00:00:00Z"
  },
  {
   "id": 4178369,
@@ -42235,7 +42123,7 @@
   "avatar": "crew_portraits_cm_duras_sisters_sm.webp",
   "fleet": "=j= space junkies germany",
   "change": -7,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-09-13T00:00:00Z"
  },
  {
   "id": 2696005,
@@ -42361,7 +42249,7 @@
   "avatar": "crew_portraits_cm_braxton_vagrant_sm.webp",
   "fleet": "=j= mirror space junkies",
   "change": -7,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-09-27T00:00:00Z"
  },
  {
   "id": 5244738,
@@ -42417,7 +42305,7 @@
   "avatar": "crew_portraits_cm_worf_future_sm.webp",
   "fleet": "=j= subspace junkies",
   "change": -7,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-09-20T00:00:00Z"
  },
  {
   "id": 4324585,
@@ -42459,7 +42347,7 @@
   "avatar": "crew_portraits_cm_proton_avatar_sm.webp",
   "fleet": "=j= mirror space junkies",
   "change": -7,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-09-20T00:00:00Z"
  },
  {
   "id": 4074006,
@@ -42686,20 +42574,6 @@
   "last": "2020-05-04T00:00:00Z"
  },
  {
-  "id": 191057,
-  "name": "Admiral uwos",
-  "ranks": [
-   0,
-   0,
-   0,
-   2
-  ],
-  "avatar": "",
-  "fleet": "",
-  "change": -7,
-  "last": "2016-09-19T00:00:00Z"
- },
- {
   "id": 86359,
   "name": "Alpharius",
   "ranks": [
@@ -42809,7 +42683,7 @@
   "avatar": "crew_portraits_cm_robinson_ag_sm.webp",
   "fleet": "[CFOH] WOLFPACK",
   "change": -7,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-09-13T00:00:00Z"
  },
  {
   "id": 6129675,
@@ -42837,7 +42711,7 @@
   "avatar": "crew_portraits_cm_archer_cowboy_sm.webp",
   "fleet": "MR \u0026MRS",
   "change": -7,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-09-20T00:00:00Z"
  },
  {
   "id": 4059392,
@@ -42907,7 +42781,7 @@
   "avatar": "crew_portraits_cm_spot_avatar_sm.webp",
   "fleet": "THRAEX",
   "change": -7,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-07-05T00:00:00Z"
  },
  {
   "id": 7702570,
@@ -43047,7 +42921,7 @@
   "avatar": "crew_portraits_cm_romtechnitian_sm.webp",
   "fleet": "DAWNCHASER",
   "change": -7,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-08-23T00:00:00Z"
  },
  {
   "id": 1034176,
@@ -43076,20 +42950,6 @@
   "fleet": "",
   "change": -7,
   "last": "2017-11-13T00:00:00Z"
- },
- {
-  "id": 286161,
-  "name": "Captain",
-  "ranks": [
-   0,
-   0,
-   0,
-   2
-  ],
-  "avatar": "crew_portraits_cm_kirkromulan_sm.webp",
-  "fleet": "",
-  "change": -7,
-  "last": "2017-01-17T00:00:00Z"
  },
  {
   "id": 4495078,
@@ -43187,7 +43047,7 @@
   "avatar": "crew_portraits_cm_data_ageofsail_sm.webp",
   "fleet": "TIMELINE RARITYS ",
   "change": -7,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-06-21T00:00:00Z"
  },
  {
   "id": 773504,
@@ -43358,20 +43218,6 @@
   "last": "2019-12-02T00:00:00Z"
  },
  {
-  "id": 1168606,
-  "name": "Captain Longrod",
-  "ranks": [
-   0,
-   0,
-   0,
-   2
-  ],
-  "avatar": "crew_portraits_cm_tuckercowboy_sm.webp",
-  "fleet": "",
-  "change": -7,
-  "last": "2017-03-06T00:00:00Z"
- },
- {
   "id": 4214208,
   "name": "Captain Lost",
   "ranks": [
@@ -43537,7 +43383,7 @@
   "avatar": "crew_portraits_cm_worf_insurrection_sm.webp",
   "fleet": "WormHole Invasion Force",
   "change": -7,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-06-07T00:00:00Z"
  },
  {
   "id": 437628,
@@ -43859,7 +43705,7 @@
   "avatar": "crew_portraits_cm_unicorndog_sm.webp",
   "fleet": "Soloism",
   "change": -7,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-09-27T00:00:00Z"
  },
  {
   "id": 4907223,
@@ -43956,7 +43802,7 @@
   ],
   "avatar": "crew_portraits_cm_seskakazonfurs_sm.webp",
   "fleet": "The New Tuners",
-  "change": 630,
+  "change": 613,
   "last": "2021-12-27T00:00:00Z"
  },
  {
@@ -44111,7 +43957,7 @@
   "avatar": "crew_portraits_cm_neelixgrandproxy_sm.webp",
   "fleet": "SECRET SQUADRON",
   "change": -7,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-06-21T00:00:00Z"
  },
  {
   "id": 3268995,
@@ -44307,7 +44153,7 @@
   "avatar": "crew_portraits_cm_spot_avatar_sm.webp",
   "fleet": "TASK FORCE B5",
   "change": -7,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-08-02T00:00:00Z"
  },
  {
   "id": 4458611,
@@ -44391,7 +44237,7 @@
   "avatar": "crew_portraits_cm_orionslaver_sm.webp",
   "fleet": "Starfleet's Seventh Fleet",
   "change": -7,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-08-23T00:00:00Z"
  },
  {
   "id": 1850970,
@@ -44419,7 +44265,7 @@
   "avatar": "crew_portraits_cm_picardcaptain_sm.webp",
   "fleet": "SkyTracers",
   "change": -7,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-09-06T00:00:00Z"
  },
  {
   "id": 4215593,
@@ -44434,34 +44280,6 @@
   "fleet": "",
   "change": -7,
   "last": "2018-03-19T00:00:00Z"
- },
- {
-  "id": 239680,
-  "name": "Hey there, good looking",
-  "ranks": [
-   0,
-   0,
-   0,
-   2
-  ],
-  "avatar": "crew_portraits_cm_mirroruhura_sm.webp",
-  "fleet": "",
-  "change": -7,
-  "last": "2016-09-19T00:00:00Z"
- },
- {
-  "id": 1752495,
-  "name": "Highlander",
-  "ranks": [
-   0,
-   0,
-   0,
-   2
-  ],
-  "avatar": "crew_portraits_cm_one_sm.webp",
-  "fleet": "",
-  "change": -7,
-  "last": "2017-11-27T00:00:00Z"
  },
  {
   "id": 3246456,
@@ -44562,20 +44380,6 @@
   "last": "2018-05-07T00:00:00Z"
  },
  {
-  "id": 286450,
-  "name": "J'ay'de",
-  "ranks": [
-   0,
-   0,
-   0,
-   2
-  ],
-  "avatar": "crew_portraits_cm_kehleyrmirror_sm.webp",
-  "fleet": "DIGNITY AND AN EMPTY SACK",
-  "change": -7,
-  "last": "2016-09-19T00:00:00Z"
- },
- {
   "id": 590974,
   "name": "JEL",
   "ranks": [
@@ -44601,7 +44405,7 @@
   "avatar": "crew_portraits_cm_m113_sm.webp",
   "fleet": "\u003cu\u003e \u003c#00FFFF\u003e Misfits In Action",
   "change": -7,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-07-12T00:00:00Z"
  },
  {
   "id": 4831068,
@@ -44616,20 +44420,6 @@
   "fleet": "",
   "change": -7,
   "last": "2020-04-13T00:00:00Z"
- },
- {
-  "id": 1659403,
-  "name": "James",
-  "ranks": [
-   0,
-   0,
-   0,
-   2
-  ],
-  "avatar": "crew_portraits_cm_unicorndog_sm.webp",
-  "fleet": "MAGDEBURG",
-  "change": -7,
-  "last": "2016-09-19T00:00:00Z"
  },
  {
   "id": 4214049,
@@ -44658,34 +44448,6 @@
   "fleet": "",
   "change": -7,
   "last": "2021-01-18T00:00:00Z"
- },
- {
-  "id": 359802,
-  "name": "Jean Luc Picard",
-  "ranks": [
-   0,
-   0,
-   0,
-   2
-  ],
-  "avatar": "crew_portraits_cm_picardcaptain_sm.webp",
-  "fleet": "",
-  "change": -7,
-  "last": "2016-09-19T00:00:00Z"
- },
- {
-  "id": 918966,
-  "name": "Jean-Luc",
-  "ranks": [
-   0,
-   0,
-   0,
-   2
-  ],
-  "avatar": "crew_portraits_cm_picardcaptain_sm.webp",
-  "fleet": "",
-  "change": -7,
-  "last": "2016-09-19T00:00:00Z"
  },
  {
   "id": 783599,
@@ -44867,7 +44629,7 @@
   "avatar": "crew_portraits_cm_chekov_tribble_sm.webp",
   "fleet": "OMEGA MOLECULES",
   "change": -7,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-08-23T00:00:00Z"
  },
  {
   "id": 1853894,
@@ -44940,20 +44702,6 @@
   "last": "2018-06-27T00:00:00Z"
  },
  {
-  "id": 399516,
-  "name": "Kirok",
-  "ranks": [
-   0,
-   0,
-   0,
-   2
-  ],
-  "avatar": "crew_portraits_cm_kirk_admiral_sm.webp",
-  "fleet": "CHILDREN OF KIRK ",
-  "change": -7,
-  "last": "2018-10-15T00:00:00Z"
- },
- {
   "id": 421737,
   "name": "Kirok",
   "ranks": [
@@ -44966,6 +44714,20 @@
   "fleet": "",
   "change": -7,
   "last": "2017-02-13T00:00:00Z"
+ },
+ {
+  "id": 399516,
+  "name": "Kirok",
+  "ranks": [
+   0,
+   0,
+   0,
+   2
+  ],
+  "avatar": "crew_portraits_cm_kirk_admiral_sm.webp",
+  "fleet": "CHILDREN OF KIRK ",
+  "change": -7,
+  "last": "2018-10-15T00:00:00Z"
  },
  {
   "id": 2618674,
@@ -45273,7 +45035,7 @@
   "avatar": "crew_portraits_cm_mccoy_leonard_sm.webp",
   "fleet": "SPOCKWORK ORANGE",
   "change": -7,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-08-02T00:00:00Z"
  },
  {
   "id": 3887196,
@@ -45287,7 +45049,7 @@
   "avatar": "crew_portraits_cm_chapel_commander_sm.webp",
   "fleet": "LAL \u0026 SPOT",
   "change": -7,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-06-28T00:00:00Z"
  },
  {
   "id": 785227,
@@ -45511,7 +45273,7 @@
   "avatar": "crew_portraits_cm_grilka_sm.webp",
   "fleet": "ST FLEET UNIVERSITY",
   "change": -7,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-08-16T00:00:00Z"
  },
  {
   "id": 4709024,
@@ -45582,20 +45344,6 @@
   "fleet": "STAR FLEET DELTA QUADRANT 2 ",
   "change": -7,
   "last": "2019-01-28T00:00:00Z"
- },
- {
-  "id": 1808897,
-  "name": "Noah",
-  "ranks": [
-   0,
-   0,
-   0,
-   2
-  ],
-  "avatar": "crew_portraits_cm_worf_sm.webp",
-  "fleet": "",
-  "change": -7,
-  "last": "2020-02-24T00:00:00Z"
  },
  {
   "id": 6277147,
@@ -45721,7 +45469,7 @@
   "avatar": "crew_portraits_cm_boothby_sm.webp",
   "fleet": "\u003cb\u003e \u003c#ccff00\u003e Assignment \u003c#18ffff\u003e Earth",
   "change": -7,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-09-06T00:00:00Z"
  },
  {
   "id": 538698,
@@ -45904,20 +45652,6 @@
   "fleet": "",
   "change": -7,
   "last": "2018-06-27T00:00:00Z"
- },
- {
-  "id": 1066032,
-  "name": "Purplexity",
-  "ranks": [
-   0,
-   0,
-   0,
-   2
-  ],
-  "avatar": "crew_portraits_cm_hugh_sm.webp",
-  "fleet": "TRIARII",
-  "change": -7,
-  "last": "2016-11-14T00:00:00Z"
  },
  {
   "id": 4375281,
@@ -46323,7 +46057,7 @@
   "avatar": "crew_portraits_cm_jadzia_purple_sm.webp",
   "fleet": "THE REAL CAT MENACE",
   "change": -7,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-09-13T00:00:00Z"
  },
  {
   "id": 728837,
@@ -46435,7 +46169,7 @@
   "avatar": "crew_portraits_cm_changgeneral_sm.webp",
   "fleet": "",
   "change": -7,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-07-19T00:00:00Z"
  },
  {
   "id": 873929,
@@ -46450,20 +46184,6 @@
   "fleet": "",
   "change": -7,
   "last": "2020-05-18T00:00:00Z"
- },
- {
-  "id": 873355,
-  "name": "Smida",
-  "ranks": [
-   0,
-   0,
-   0,
-   2
-  ],
-  "avatar": "crew_portraits_cm_spockmirror_sm.webp",
-  "fleet": "",
-  "change": -7,
-  "last": "2019-11-18T00:00:00Z"
  },
  {
   "id": 137436,
@@ -46504,7 +46224,7 @@
   ],
   "avatar": "crew_portraits_cm_talas_sm.webp",
   "fleet": "TIGER@WIEN",
-  "change": 630,
+  "change": 613,
   "last": "2021-12-27T00:00:00Z"
  },
  {
@@ -46589,7 +46309,7 @@
   "avatar": "crew_portraits_cm_satans_robot_sm.webp",
   "fleet": "VETS 2.1",
   "change": -7,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-08-23T00:00:00Z"
  },
  {
   "id": 8202983,
@@ -46858,20 +46578,6 @@
   "last": "2021-11-01T00:00:00Z"
  },
  {
-  "id": 1722123,
-  "name": "Tomm",
-  "ranks": [
-   0,
-   0,
-   0,
-   2
-  ],
-  "avatar": "crew_portraits_cm_rikeradmiral_sm.webp",
-  "fleet": "CZECH FLEET",
-  "change": -7,
-  "last": "2016-09-19T00:00:00Z"
- },
- {
   "id": 675988,
   "name": "Toppo",
   "ranks": [
@@ -46953,7 +46659,7 @@
   "avatar": "crew_portraits_cm_targ_sm.webp",
   "fleet": "DAWNCHASER",
   "change": -7,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-08-23T00:00:00Z"
  },
  {
   "id": 3270684,
@@ -47163,7 +46869,7 @@
   "avatar": "crew_portraits_cm_kirkromulan_sm.webp",
   "fleet": "USS ENTERPRISE NCC-1701-A",
   "change": -7,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-08-02T00:00:00Z"
  },
  {
   "id": 475798,
@@ -47317,7 +47023,7 @@
   "avatar": "crew_portraits_cm_guardian_of_forever_carl_sm.webp",
   "fleet": "10 FORWARD LOUNGERS",
   "change": -7,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-06-28T00:00:00Z"
  },
  {
   "id": 3842860,
@@ -47415,7 +47121,7 @@
   "avatar": "crew_portraits_cm_obrien_scapegoat_sm.webp",
   "fleet": "",
   "change": -7,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-08-23T00:00:00Z"
  },
  {
   "id": 2882760,
@@ -47625,7 +47331,7 @@
   "avatar": "crew_portraits_cm_kirk_gangster_sm.webp",
   "fleet": "CRY  HA\\/OC",
   "change": -7,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-08-16T00:00:00Z"
  },
  {
   "id": 1266346,
@@ -47639,7 +47345,7 @@
   "avatar": "crew_portraits_cm_worf_ageofsail_sm.webp",
   "fleet": "CRY  HA\\/OC",
   "change": -7,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-09-06T00:00:00Z"
  },
  {
   "id": 878697,
@@ -47918,7 +47624,7 @@
   ],
   "avatar": "crew_portraits_cm_unicorndog_sm.webp",
   "fleet": "DEEP SPACE DEUTSCHLAND",
-  "change": 630,
+  "change": 613,
   "last": "2021-12-27T00:00:00Z"
  },
  {
@@ -48314,20 +48020,6 @@
   "last": "2018-02-26T00:00:00Z"
  },
  {
-  "id": 1699604,
-  "name": "[GSA] Ulle79",
-  "ranks": [
-   0,
-   0,
-   0,
-   2
-  ],
-  "avatar": "crew_portraits_cm_unicorndog_sm.webp",
-  "fleet": "",
-  "change": -7,
-  "last": "2017-07-10T00:00:00Z"
- },
- {
   "id": 100479,
   "name": "[GoT] Frigidiceman916",
   "ranks": [
@@ -48423,7 +48115,7 @@
   "avatar": "crew_portraits_cm_tribble_captain_sm.webp",
   "fleet": "Inner Planets Alliance",
   "change": -7,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-08-23T00:00:00Z"
  },
  {
   "id": 1637060,
@@ -48468,20 +48160,6 @@
   "last": "2018-04-23T00:00:00Z"
  },
  {
-  "id": 399149,
-  "name": "[KM] Larian LeQuella",
-  "ranks": [
-   0,
-   0,
-   0,
-   2
-  ],
-  "avatar": "crew_portraits_cm_picardfirstcontact_sm.webp",
-  "fleet": "",
-  "change": -7,
-  "last": "0001-01-01T00:00:00Z"
- },
- {
   "id": 73269,
   "name": "[KM] Uetur",
   "ranks": [
@@ -48507,7 +48185,7 @@
   "avatar": "crew_portraits_cm_tilly_mirror_sm.webp",
   "fleet": "LOTUS FLEET",
   "change": -7,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-07-05T00:00:00Z"
  },
  {
   "id": 4174311,
@@ -48647,7 +48325,7 @@
   "avatar": "crew_portraits_cm_mccoy_julepmint_sm.webp",
   "fleet": "QUEBEC ALLIANCE",
   "change": -7,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-09-13T00:00:00Z"
  },
  {
   "id": 19,
@@ -48801,21 +48479,7 @@
   "avatar": "crew_portraits_avatar_grudge_sm.webp",
   "fleet": "RUFFRIDERS",
   "change": -7,
-  "last": "0001-01-01T00:00:00Z"
- },
- {
-  "id": 2413008,
-  "name": "[SCIS] Sargon",
-  "ranks": [
-   0,
-   0,
-   0,
-   2
-  ],
-  "avatar": "crew_portraits_ageofsail_avatar_sm.webp",
-  "fleet": "STARFLEET CIS",
-  "change": -7,
-  "last": "2020-12-21T00:00:00Z"
+  "last": "2021-07-05T00:00:00Z"
  },
  {
   "id": 808070,
@@ -48941,7 +48605,7 @@
   "avatar": "crew_portraits_cm_earhart_sm.webp",
   "fleet": "SSR Drone Rangers",
   "change": -7,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-07-05T00:00:00Z"
  },
  {
   "id": 4807542,
@@ -49039,7 +48703,7 @@
   "avatar": "crew_portraits_cm_barclaydictator_sm.webp",
   "fleet": "[STFL] Sternenflotte",
   "change": -7,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-06-28T00:00:00Z"
  },
  {
   "id": 1028234,
@@ -49164,7 +48828,7 @@
   ],
   "avatar": "crew_portraits_cm_quark_stranded_sm.webp",
   "fleet": "THE GLUTEN EMPIRE",
-  "change": 630,
+  "change": 613,
   "last": "2021-12-27T00:00:00Z"
  },
  {
@@ -49179,7 +48843,7 @@
   "avatar": "crew_portraits_cm_riker_zhenghe_sm.webp",
   "fleet": "THE GLUTEN EMPIRE",
   "change": -7,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-09-20T00:00:00Z"
  },
  {
   "id": 5971854,
@@ -49221,7 +48885,7 @@
   "avatar": "crew_portraits_cm_nogcaptain_sm.webp",
   "fleet": "TEMPORAL GUARDS",
   "change": -7,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-08-09T00:00:00Z"
  },
  {
   "id": 5148849,
@@ -49347,7 +49011,7 @@
   "avatar": "crew_portraits_cm_kimtimeless_sm.webp",
   "fleet": "THE UNITED FEDERATION OF PRAGMATISTS",
   "change": -7,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-08-23T00:00:00Z"
  },
  {
   "id": 7723326,
@@ -49403,7 +49067,7 @@
   "avatar": "crew_portraits_cm_kira_prophet_sm.webp",
   "fleet": "VIP 0 CHAMPIONS",
   "change": -7,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-06-14T00:00:00Z"
  },
  {
   "id": 7293843,
@@ -49417,7 +49081,7 @@
   "avatar": "crew_portraits_ageofsail_avatar_sm.webp",
   "fleet": "WOLF 359 MEMORIAL FLEET",
   "change": -7,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-06-28T00:00:00Z"
  },
  {
   "id": 765499,
@@ -49728,6 +49392,20 @@
   "last": "2020-01-20T00:00:00Z"
  },
  {
+  "id": 801583,
+  "name": "kumpelstein",
+  "ranks": [
+   0,
+   0,
+   0,
+   2
+  ],
+  "avatar": "crew_portraits_cm_datas1_sm.webp",
+  "fleet": "",
+  "change": -7,
+  "last": "2017-02-13T00:00:00Z"
+ },
+ {
   "id": 2221304,
   "name": "me",
   "ranks": [
@@ -49753,7 +49431,7 @@
   "avatar": "crew_portraits_cm_siskotos_sm.webp",
   "fleet": "SUNCOAST",
   "change": -7,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-08-23T00:00:00Z"
  },
  {
   "id": 3874822,
@@ -49796,20 +49474,6 @@
   "fleet": "",
   "change": -7,
   "last": "2018-01-08T00:00:00Z"
- },
- {
-  "id": 325765,
-  "name": "princereynart",
-  "ranks": [
-   0,
-   0,
-   0,
-   2
-  ],
-  "avatar": "crew_portraits_cm_emhmobile_sm.webp",
-  "fleet": "TEMPUS DOMINI",
-  "change": -7,
-  "last": "2016-09-19T00:00:00Z"
  },
  {
   "id": 1476849,
@@ -50145,7 +49809,7 @@
   "avatar": "crew_portraits_cm_worf_future_sm.webp",
   "fleet": "\u003cB\u003e \u003c#6CDA89\u003e Prometheus Free \u003c#BAADFF\u003e C",
   "change": -7,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-07-12T00:00:00Z"
  },
  {
   "id": 6450482,
@@ -50187,7 +49851,7 @@
   "avatar": "crew_portraits_cm_doctorgolfclub_sm.webp",
   "fleet": "\u003ci\u003e\u003cu\u003e\u003c#FFFF00\u003ePhu-Tang-Clan Elites 2",
   "change": -7,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-09-20T00:00:00Z"
  },
  {
   "id": 113490,
@@ -50257,7 +49921,7 @@
   "avatar": "crew_portraits_cm_brahms_leah_sm.webp",
   "fleet": "\u003cU\u003e\u003cI\u003e\u003c#00FF00\u003eVOID RIDERS",
   "change": -7,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-08-30T00:00:00Z"
  },
  {
   "id": 7301570,
@@ -50271,7 +49935,7 @@
   "avatar": "crew_portraits_cm_riker_age_of_sail_sm.webp",
   "fleet": "\u003cU\u003e\u003cI\u003e\u003c#00FF00\u003eVOID RIDERS",
   "change": -7,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-08-30T00:00:00Z"
  },
  {
   "id": 4041225,
@@ -50369,7 +50033,7 @@
   "avatar": "crew_portraits_cm_worf_duchamps_sm.webp",
   "fleet": "Battleship Yamato",
   "change": -7,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-09-27T00:00:00Z"
  },
  {
   "id": 3371292,
@@ -51000,6 +50664,20 @@
   "fleet": "",
   "change": -8,
   "last": "2016-04-04T00:00:00Z"
+ },
+ {
+  "id": 23983,
+  "name": "(PAaA) RiotBooster",
+  "ranks": [
+   0,
+   0,
+   0,
+   1
+  ],
+  "avatar": "crew_portraits_cm_tuckercowboy_sm.webp",
+  "fleet": "",
+  "change": -8,
+  "last": "2017-10-16T00:00:00Z"
  },
  {
   "id": 2550427,
@@ -51797,7 +51475,7 @@
   "avatar": "crew_portraits_cm_tilly_sm.webp",
   "fleet": "ISS Crazy Horse",
   "change": -8,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-07-05T00:00:00Z"
  },
  {
   "id": 8032765,
@@ -51811,7 +51489,7 @@
   "avatar": "crew_portraits_cm_rikeradmiral_sm.webp",
   "fleet": "ISS Crazy Horse",
   "change": -8,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-06-14T00:00:00Z"
  },
  {
   "id": 3371773,
@@ -52080,20 +51758,6 @@
   "last": "2021-10-04T00:00:00Z"
  },
  {
-  "id": 992255,
-  "name": "=j= #Sana",
-  "ranks": [
-   0,
-   0,
-   0,
-   1
-  ],
-  "avatar": "crew_portraits_cm_kirktosyellow_sm.webp",
-  "fleet": "=j= space junkies germany",
-  "change": -8,
-  "last": "0001-01-01T00:00:00Z"
- },
- {
   "id": 4502977,
   "name": "=j= #Webs",
   "ranks": [
@@ -52105,7 +51769,7 @@
   "avatar": "crew_portraits_cm_gary_seven_sm.webp",
   "fleet": "=j= space junkies germany",
   "change": -8,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-08-09T00:00:00Z"
  },
  {
   "id": 349223,
@@ -52427,7 +52091,7 @@
   "avatar": "crew_portraits_cm_worf_future_sm.webp",
   "fleet": "=j= Deep Space Junkies",
   "change": -8,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-07-26T00:00:00Z"
  },
  {
   "id": 121582,
@@ -52441,7 +52105,7 @@
   "avatar": "crew_portraits_cm_sisko_niners_sm.webp",
   "fleet": "=j= german space junkies",
   "change": -8,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-09-13T00:00:00Z"
  },
  {
   "id": 6326499,
@@ -52920,6 +52584,20 @@
   "last": "2016-09-26T00:00:00Z"
  },
  {
+  "id": 191057,
+  "name": "Admiral uwos",
+  "ranks": [
+   0,
+   0,
+   0,
+   1
+  ],
+  "avatar": "",
+  "fleet": "",
+  "change": -8,
+  "last": "2016-09-19T00:00:00Z"
+ },
+ {
   "id": 5238293,
   "name": "Adz",
   "ranks": [
@@ -53197,7 +52875,7 @@
   "avatar": "crew_portraits_cm_kolothtos_sm.webp",
   "fleet": "Stay Active",
   "change": -8,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-08-02T00:00:00Z"
  },
  {
   "id": 7124296,
@@ -53505,7 +53183,7 @@
   "avatar": "crew_portraits_cm_data_mirror_sm.webp",
   "fleet": "MAN/BCT",
   "change": -8,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-09-20T00:00:00Z"
  },
  {
   "id": 4239573,
@@ -53939,7 +53617,7 @@
   "avatar": "crew_portraits_cm_po_runaway_sm.webp",
   "fleet": "THE WARTH OF KAHN FLEET",
   "change": -8,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-06-28T00:00:00Z"
  },
  {
   "id": 4585543,
@@ -54373,7 +54051,7 @@
   "avatar": "crew_portraits_cm_spocktommygun_sm.webp",
   "fleet": "FRANKS N BEANS",
   "change": -8,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-08-30T00:00:00Z"
  },
  {
   "id": 2637748,
@@ -54457,7 +54135,7 @@
   "avatar": "crew_portraits_cm_kol_mekleth_sm.webp",
   "fleet": "SPEZIES8472",
   "change": -8,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-09-27T00:00:00Z"
  },
  {
   "id": 1977435,
@@ -54572,20 +54250,6 @@
   "last": "2017-04-03T00:00:00Z"
  },
  {
-  "id": 569853,
-  "name": "CB",
-  "ranks": [
-   0,
-   0,
-   0,
-   1
-  ],
-  "avatar": "",
-  "fleet": "",
-  "change": -8,
-  "last": "0001-01-01T00:00:00Z"
- },
- {
   "id": 1036163,
   "name": "CDR Pavel Chekov",
   "ranks": [
@@ -54653,7 +54317,7 @@
   "avatar": "crew_portraits_cm_harry_mudd_takeover_sm.webp",
   "fleet": "Colonial Fleet Ohio 2",
   "change": -8,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-07-26T00:00:00Z"
  },
  {
   "id": 986976,
@@ -55104,20 +54768,6 @@
   "last": "2016-06-18T00:00:00Z"
  },
  {
-  "id": 217288,
-  "name": "Capt.ERNIE NCC-1701-B ",
-  "ranks": [
-   0,
-   0,
-   0,
-   1
-  ],
-  "avatar": "",
-  "fleet": "",
-  "change": -8,
-  "last": "0001-01-01T00:00:00Z"
- },
- {
   "id": 4605316,
   "name": "Capt_Maya",
   "ranks": [
@@ -55146,34 +54796,6 @@
   "last": "2017-06-12T00:00:00Z"
  },
  {
-  "id": 541086,
-  "name": "Captain",
-  "ranks": [
-   0,
-   0,
-   0,
-   1
-  ],
-  "avatar": "crew_portraits_cm_kirkromulan_sm.webp",
-  "fleet": "",
-  "change": -8,
-  "last": "2016-08-22T00:00:00Z"
- },
- {
-  "id": 3473183,
-  "name": "Captain",
-  "ranks": [
-   0,
-   0,
-   0,
-   1
-  ],
-  "avatar": "crew_portraits_cm_kirkromulan_sm.webp",
-  "fleet": "",
-  "change": -8,
-  "last": "2017-04-03T00:00:00Z"
- },
- {
   "id": 2832330,
   "name": "Captain",
   "ranks": [
@@ -55186,118 +54808,6 @@
   "fleet": "",
   "change": -8,
   "last": "2017-05-08T00:00:00Z"
- },
- {
-  "id": 3081881,
-  "name": "Captain",
-  "ranks": [
-   0,
-   0,
-   0,
-   1
-  ],
-  "avatar": "crew_portraits_cm_kirkromulan_sm.webp",
-  "fleet": "FÖDERATION STERNENFLOTTE",
-  "change": -8,
-  "last": "2017-04-03T00:00:00Z"
- },
- {
-  "id": 196768,
-  "name": "Captain",
-  "ranks": [
-   0,
-   0,
-   0,
-   1
-  ],
-  "avatar": "",
-  "fleet": "",
-  "change": -8,
-  "last": "2016-04-04T00:00:00Z"
- },
- {
-  "id": 988666,
-  "name": "Captain",
-  "ranks": [
-   0,
-   0,
-   0,
-   1
-  ],
-  "avatar": "",
-  "fleet": "",
-  "change": -8,
-  "last": "2016-08-30T00:00:00Z"
- },
- {
-  "id": 541545,
-  "name": "Captain",
-  "ranks": [
-   0,
-   0,
-   0,
-   1
-  ],
-  "avatar": "",
-  "fleet": "",
-  "change": -8,
-  "last": "2016-07-25T00:00:00Z"
- },
- {
-  "id": 1019442,
-  "name": "Captain",
-  "ranks": [
-   0,
-   0,
-   0,
-   1
-  ],
-  "avatar": "",
-  "fleet": "",
-  "change": -8,
-  "last": "2017-07-10T00:00:00Z"
- },
- {
-  "id": 4180662,
-  "name": "Captain",
-  "ranks": [
-   0,
-   0,
-   0,
-   1
-  ],
-  "avatar": "crew_portraits_cm_kirkromulan_sm.webp",
-  "fleet": "BOW - STT",
-  "change": -8,
-  "last": "2017-06-12T00:00:00Z"
- },
- {
-  "id": 2824025,
-  "name": "Captain",
-  "ranks": [
-   0,
-   0,
-   0,
-   1
-  ],
-  "avatar": "",
-  "fleet": "",
-  "change": -8,
-  "last": "2017-01-02T00:00:00Z"
- },
- {
-  "id": 1292324,
-  "name": "Captain",
-  "ranks": [
-   0,
-   0,
-   0,
-   1
-  ],
-  "avatar": "",
-  "fleet": "",
-  "change": -8,
-  "last": "2019-01-07T00:00:00Z"
  },
  {
   "id": 3735911,
@@ -55314,7 +54824,21 @@
   "last": "2018-11-26T00:00:00Z"
  },
  {
-  "id": 477439,
+  "id": 3081881,
+  "name": "Captain",
+  "ranks": [
+   0,
+   0,
+   0,
+   1
+  ],
+  "avatar": "crew_portraits_cm_kirkromulan_sm.webp",
+  "fleet": "FÖDERATION STERNENFLOTTE",
+  "change": -8,
+  "last": "2017-04-03T00:00:00Z"
+ },
+ {
+  "id": 541086,
   "name": "Captain",
   "ranks": [
    0,
@@ -55325,7 +54849,77 @@
   "avatar": "crew_portraits_cm_kirkromulan_sm.webp",
   "fleet": "",
   "change": -8,
-  "last": "2017-09-18T00:00:00Z"
+  "last": "2016-08-22T00:00:00Z"
+ },
+ {
+  "id": 196768,
+  "name": "Captain",
+  "ranks": [
+   0,
+   0,
+   0,
+   1
+  ],
+  "avatar": "",
+  "fleet": "",
+  "change": -8,
+  "last": "2016-04-04T00:00:00Z"
+ },
+ {
+  "id": 541545,
+  "name": "Captain",
+  "ranks": [
+   0,
+   0,
+   0,
+   1
+  ],
+  "avatar": "",
+  "fleet": "",
+  "change": -8,
+  "last": "2016-07-25T00:00:00Z"
+ },
+ {
+  "id": 1292324,
+  "name": "Captain",
+  "ranks": [
+   0,
+   0,
+   0,
+   1
+  ],
+  "avatar": "",
+  "fleet": "",
+  "change": -8,
+  "last": "2019-01-07T00:00:00Z"
+ },
+ {
+  "id": 988666,
+  "name": "Captain",
+  "ranks": [
+   0,
+   0,
+   0,
+   1
+  ],
+  "avatar": "",
+  "fleet": "",
+  "change": -8,
+  "last": "2016-08-30T00:00:00Z"
+ },
+ {
+  "id": 286161,
+  "name": "Captain",
+  "ranks": [
+   0,
+   0,
+   0,
+   1
+  ],
+  "avatar": "crew_portraits_cm_kirkromulan_sm.webp",
+  "fleet": "",
+  "change": -8,
+  "last": "2017-01-17T00:00:00Z"
  },
  {
   "id": 1668393,
@@ -55342,7 +54936,7 @@
   "last": "2020-03-09T00:00:00Z"
  },
  {
-  "id": 2981492,
+  "id": 3473183,
   "name": "Captain",
   "ranks": [
    0,
@@ -55354,6 +54948,20 @@
   "fleet": "",
   "change": -8,
   "last": "2017-04-03T00:00:00Z"
+ },
+ {
+  "id": 4180662,
+  "name": "Captain",
+  "ranks": [
+   0,
+   0,
+   0,
+   1
+  ],
+  "avatar": "crew_portraits_cm_kirkromulan_sm.webp",
+  "fleet": "BOW - STT",
+  "change": -8,
+  "last": "2017-06-12T00:00:00Z"
  },
  {
   "id": 4290656,
@@ -55370,6 +54978,48 @@
   "last": "2018-01-29T00:00:00Z"
  },
  {
+  "id": 477439,
+  "name": "Captain",
+  "ranks": [
+   0,
+   0,
+   0,
+   1
+  ],
+  "avatar": "crew_portraits_cm_kirkromulan_sm.webp",
+  "fleet": "",
+  "change": -8,
+  "last": "2017-09-18T00:00:00Z"
+ },
+ {
+  "id": 2824025,
+  "name": "Captain",
+  "ranks": [
+   0,
+   0,
+   0,
+   1
+  ],
+  "avatar": "",
+  "fleet": "",
+  "change": -8,
+  "last": "2017-01-02T00:00:00Z"
+ },
+ {
+  "id": 2981492,
+  "name": "Captain",
+  "ranks": [
+   0,
+   0,
+   0,
+   1
+  ],
+  "avatar": "crew_portraits_cm_kirkromulan_sm.webp",
+  "fleet": "",
+  "change": -8,
+  "last": "2017-04-03T00:00:00Z"
+ },
+ {
   "id": 459547,
   "name": "Captain",
   "ranks": [
@@ -55382,6 +55032,20 @@
   "fleet": "ZOGZOG (FR)",
   "change": -8,
   "last": "2016-12-19T00:00:00Z"
+ },
+ {
+  "id": 1019442,
+  "name": "Captain",
+  "ranks": [
+   0,
+   0,
+   0,
+   1
+  ],
+  "avatar": "",
+  "fleet": "",
+  "change": -8,
+  "last": "2017-07-10T00:00:00Z"
  },
  {
   "id": 3755069,
@@ -55426,20 +55090,6 @@
   "last": "2018-08-20T00:00:00Z"
  },
  {
-  "id": 2254288,
-  "name": "Captain Ahab",
-  "ranks": [
-   0,
-   0,
-   0,
-   1
-  ],
-  "avatar": "",
-  "fleet": "",
-  "change": -8,
-  "last": "2017-11-13T00:00:00Z"
- },
- {
   "id": 822809,
   "name": "Captain Ahab",
   "ranks": [
@@ -55454,8 +55104,8 @@
   "last": "2020-09-14T00:00:00Z"
  },
  {
-  "id": 1030961,
-  "name": "Captain Alonzi",
+  "id": 2254288,
+  "name": "Captain Ahab",
   "ranks": [
    0,
    0,
@@ -55465,21 +55115,7 @@
   "avatar": "",
   "fleet": "",
   "change": -8,
-  "last": "0001-01-01T00:00:00Z"
- },
- {
-  "id": 2135898,
-  "name": "Captain Any",
-  "ranks": [
-   0,
-   0,
-   0,
-   1
-  ],
-  "avatar": "crew_portraits_cm_troi_cowboy_sm.webp",
-  "fleet": "UNITED GERMANY",
-  "change": -8,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2017-11-13T00:00:00Z"
  },
  {
   "id": 447808,
@@ -55815,7 +55451,7 @@
   "avatar": "crew_portraits_ageofsail_avatar_sm.webp",
   "fleet": "SECTION 7 OF NINE HUNDRED",
   "change": -8,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-08-23T00:00:00Z"
  },
  {
   "id": 729062,
@@ -55944,20 +55580,6 @@
   "last": "2020-03-30T00:00:00Z"
  },
  {
-  "id": 1942420,
-  "name": "Captain Hamor",
-  "ranks": [
-   0,
-   0,
-   0,
-   1
-  ],
-  "avatar": "crew_portraits_cm_picard_mambo_sm.webp",
-  "fleet": "SCHOLARS",
-  "change": -8,
-  "last": "0001-01-01T00:00:00Z"
- },
- {
   "id": 3799099,
   "name": "Captain Inverno",
   "ranks": [
@@ -55970,20 +55592,6 @@
   "fleet": "IHS BIG RED",
   "change": -8,
   "last": "2020-06-08T00:00:00Z"
- },
- {
-  "id": 1280397,
-  "name": "Captain J.B.",
-  "ranks": [
-   0,
-   0,
-   0,
-   1
-  ],
-  "avatar": "crew_portraits_cm_tribble_sm.webp",
-  "fleet": "MIKE PINGU",
-  "change": -8,
-  "last": "0001-01-01T00:00:00Z"
  },
  {
   "id": 2291281,
@@ -56042,20 +55650,6 @@
   "last": "2019-12-02T00:00:00Z"
  },
  {
-  "id": 2913160,
-  "name": "Captain K",
-  "ranks": [
-   0,
-   0,
-   0,
-   1
-  ],
-  "avatar": "",
-  "fleet": "",
-  "change": -8,
-  "last": "2018-08-06T00:00:00Z"
- },
- {
   "id": 495724,
   "name": "Captain K",
   "ranks": [
@@ -56068,6 +55662,20 @@
   "fleet": "",
   "change": -8,
   "last": "2018-12-31T00:00:00Z"
+ },
+ {
+  "id": 2913160,
+  "name": "Captain K",
+  "ranks": [
+   0,
+   0,
+   0,
+   1
+  ],
+  "avatar": "",
+  "fleet": "",
+  "change": -8,
+  "last": "2018-08-06T00:00:00Z"
  },
  {
   "id": 999493,
@@ -56236,6 +55844,20 @@
   "fleet": "",
   "change": -8,
   "last": "2017-04-03T00:00:00Z"
+ },
+ {
+  "id": 1168606,
+  "name": "Captain Longrod",
+  "ranks": [
+   0,
+   0,
+   0,
+   1
+  ],
+  "avatar": "crew_portraits_cm_tuckercowboy_sm.webp",
+  "fleet": "",
+  "change": -8,
+  "last": "2017-03-06T00:00:00Z"
  },
  {
   "id": 5301100,
@@ -56431,7 +56053,7 @@
   "avatar": "crew_portraits_cm_shrandueling_sm.webp",
   "fleet": "USS ENTERPRISE ",
   "change": -8,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-07-26T00:00:00Z"
  },
  {
   "id": 704576,
@@ -56487,7 +56109,7 @@
   "avatar": "crew_portraits_cm_picarddixonhill_sm.webp",
   "fleet": "patterns of force",
   "change": -8,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-08-02T00:00:00Z"
  },
  {
   "id": 5401901,
@@ -56532,18 +56154,18 @@
   "last": "2020-04-13T00:00:00Z"
  },
  {
-  "id": 925242,
-  "name": "Captain SaveAHo",
+  "id": 287120,
+  "name": "Captain Scott",
   "ranks": [
    0,
    0,
    0,
    1
   ],
-  "avatar": "crew_portraits_cm_sevenbluegreyshoulders_sm.webp",
+  "avatar": "",
   "fleet": "",
   "change": -8,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2016-06-18T00:00:00Z"
  },
  {
   "id": 1975498,
@@ -56558,20 +56180,6 @@
   "fleet": "",
   "change": -8,
   "last": "2020-08-24T00:00:00Z"
- },
- {
-  "id": 287120,
-  "name": "Captain Scott",
-  "ranks": [
-   0,
-   0,
-   0,
-   1
-  ],
-  "avatar": "",
-  "fleet": "",
-  "change": -8,
-  "last": "2016-06-18T00:00:00Z"
  },
  {
   "id": 493918,
@@ -57229,7 +56837,7 @@
   "avatar": "crew_portraits_cm_aleek_om_sm.webp",
   "fleet": "Planetary Union Scouts",
   "change": -8,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-09-27T00:00:00Z"
  },
  {
   "id": 5582590,
@@ -57358,20 +56966,6 @@
   "last": "2018-08-06T00:00:00Z"
  },
  {
-  "id": 873639,
-  "name": "Chucky",
-  "ranks": [
-   0,
-   0,
-   0,
-   1
-  ],
-  "avatar": "crew_portraits_cm_siskoeyepiece_sm.webp",
-  "fleet": "STARFLEET MONTANA",
-  "change": -8,
-  "last": "2016-12-05T00:00:00Z"
- },
- {
   "id": 1356478,
   "name": "Chucky",
   "ranks": [
@@ -57386,6 +56980,20 @@
   "last": "2016-10-10T00:00:00Z"
  },
  {
+  "id": 873639,
+  "name": "Chucky",
+  "ranks": [
+   0,
+   0,
+   0,
+   1
+  ],
+  "avatar": "crew_portraits_cm_siskoeyepiece_sm.webp",
+  "fleet": "STARFLEET MONTANA",
+  "change": -8,
+  "last": "2016-12-05T00:00:00Z"
+ },
+ {
   "id": 3418853,
   "name": "Ci{DD}",
   "ranks": [
@@ -57397,7 +57005,7 @@
   "avatar": "crew_portraits_cm_federation_president_sm.webp",
   "fleet": "D3VIL DINGOS",
   "change": -8,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-08-23T00:00:00Z"
  },
  {
   "id": 811519,
@@ -57523,7 +57131,7 @@
   "avatar": "crew_portraits_cm_vash_profiteer_sm.webp",
   "fleet": "HAUS OF GAGHGAGH",
   "change": -8,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-06-14T00:00:00Z"
  },
  {
   "id": 7271048,
@@ -57918,20 +57526,6 @@
   "last": "2018-05-14T00:00:00Z"
  },
  {
-  "id": 1162897,
-  "name": "Corpii",
-  "ranks": [
-   0,
-   0,
-   0,
-   1
-  ],
-  "avatar": "",
-  "fleet": "",
-  "change": -8,
-  "last": "0001-01-01T00:00:00Z"
- },
- {
   "id": 6635203,
   "name": "Cowboy Howdy",
   "ranks": [
@@ -58041,7 +57635,7 @@
   "avatar": "crew_portraits_cm_tpolcommander_sm.webp",
   "fleet": "FREEDOM OF SPEECH",
   "change": -8,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-08-02T00:00:00Z"
  },
  {
   "id": 20749,
@@ -58223,7 +57817,7 @@
   "avatar": "crew_portraits_cm_sukal_sm.webp",
   "fleet": "9 INCH SPOCK",
   "change": -8,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-07-19T00:00:00Z"
  },
  {
   "id": 533858,
@@ -58422,20 +58016,6 @@
   "last": "2021-02-08T00:00:00Z"
  },
  {
-  "id": 588215,
-  "name": "Darki",
-  "ranks": [
-   0,
-   0,
-   0,
-   1
-  ],
-  "avatar": "crew_portraits_cm_sulu_sm.webp",
-  "fleet": "",
-  "change": -8,
-  "last": "0001-01-01T00:00:00Z"
- },
- {
   "id": 4787212,
   "name": "Darlella",
   "ranks": [
@@ -58531,7 +58111,7 @@
   "avatar": "crew_portraits_cm_kirk_admiral_sm.webp",
   "fleet": "",
   "change": -8,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-07-05T00:00:00Z"
  },
  {
   "id": 556605,
@@ -59315,7 +58895,7 @@
   "avatar": "crew_portraits_cm_thelin_sm.webp",
   "fleet": "MUDD'S RAIDERS",
   "change": -8,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-08-02T00:00:00Z"
  },
  {
   "id": 1541249,
@@ -59469,7 +59049,7 @@
   "avatar": "crew_portraits_cm_reedsection31_sm.webp",
   "fleet": "HAUS OF GAGHGAGH",
   "change": -8,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-08-16T00:00:00Z"
  },
  {
   "id": 4486690,
@@ -59724,20 +59304,6 @@
   "last": "2020-12-21T00:00:00Z"
  },
  {
-  "id": 17406,
-  "name": "Evermore",
-  "ranks": [
-   0,
-   0,
-   0,
-   1
-  ],
-  "avatar": "",
-  "fleet": "",
-  "change": -8,
-  "last": "0001-01-01T00:00:00Z"
- },
- {
   "id": 38021,
   "name": "Evil Doc Brown",
   "ranks": [
@@ -59834,20 +59400,6 @@
   "fleet": "",
   "change": -8,
   "last": "2019-11-18T00:00:00Z"
- },
- {
-  "id": 89999,
-  "name": "FADM. Greeneburn [S420]",
-  "ranks": [
-   0,
-   0,
-   0,
-   1
-  ],
-  "avatar": "",
-  "fleet": "",
-  "change": -8,
-  "last": "0001-01-01T00:00:00Z"
  },
  {
   "id": 7391121,
@@ -60211,7 +59763,7 @@
   "avatar": "crew_portraits_cm_seven_indignant_sm.webp",
   "fleet": "Federation DTI",
   "change": -8,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-09-06T00:00:00Z"
  },
  {
   "id": 474931,
@@ -60323,7 +59875,7 @@
   "avatar": "crew_portraits_cm_paris_owen_sm.webp",
   "fleet": "MakeItSo42",
   "change": -8,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-07-19T00:00:00Z"
  },
  {
   "id": 501801,
@@ -60575,7 +60127,7 @@
   "avatar": "crew_portraits_ageofsail_avatar_sm.webp",
   "fleet": "STARFLEET JAG",
   "change": -8,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-08-09T00:00:00Z"
  },
  {
   "id": 2609353,
@@ -61348,6 +60900,20 @@
   "last": "2016-12-19T00:00:00Z"
  },
  {
+  "id": 239680,
+  "name": "Hey there, good looking",
+  "ranks": [
+   0,
+   0,
+   0,
+   1
+  ],
+  "avatar": "crew_portraits_cm_mirroruhura_sm.webp",
+  "fleet": "",
+  "change": -8,
+  "last": "2016-09-19T00:00:00Z"
+ },
+ {
   "id": 1629309,
   "name": "Heyuri",
   "ranks": [
@@ -61362,20 +60928,6 @@
   "last": "2018-03-12T00:00:00Z"
  },
  {
-  "id": 2579283,
-  "name": "Hhaakkoohh",
-  "ranks": [
-   0,
-   0,
-   0,
-   1
-  ],
-  "avatar": "crew_portraits_cm_kimtimeless_sm.webp",
-  "fleet": "",
-  "change": -8,
-  "last": "0001-01-01T00:00:00Z"
- },
- {
   "id": 4015160,
   "name": "Hibgen O2F",
   "ranks": [
@@ -61388,6 +60940,20 @@
   "fleet": "",
   "change": -8,
   "last": "2017-10-23T00:00:00Z"
+ },
+ {
+  "id": 1752495,
+  "name": "Highlander",
+  "ranks": [
+   0,
+   0,
+   0,
+   1
+  ],
+  "avatar": "crew_portraits_cm_one_sm.webp",
+  "fleet": "",
+  "change": -8,
+  "last": "2017-11-27T00:00:00Z"
  },
  {
   "id": 704349,
@@ -61499,7 +61065,7 @@
   "avatar": "crew_portraits_cm_barclaydictator_sm.webp",
   "fleet": "CRIMSON MOON",
   "change": -8,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-06-28T00:00:00Z"
  },
  {
   "id": 605478,
@@ -61513,7 +61079,7 @@
   "avatar": "crew_portraits_cm_picardstargazer_sm.webp",
   "fleet": "CYMRU AM BYTH",
   "change": -8,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-08-23T00:00:00Z"
  },
  {
   "id": 3156290,
@@ -61936,6 +61502,20 @@
   "last": "2020-01-13T00:00:00Z"
  },
  {
+  "id": 286450,
+  "name": "J'ay'de",
+  "ranks": [
+   0,
+   0,
+   0,
+   1
+  ],
+  "avatar": "crew_portraits_cm_kehleyrmirror_sm.webp",
+  "fleet": "DIGNITY AND AN EMPTY SACK",
+  "change": -8,
+  "last": "2016-09-19T00:00:00Z"
+ },
+ {
   "id": 3093180,
   "name": "JJ",
   "ranks": [
@@ -62104,20 +61684,6 @@
   "last": "2016-07-25T00:00:00Z"
  },
  {
-  "id": 2926141,
-  "name": "Jai",
-  "ranks": [
-   0,
-   0,
-   0,
-   1
-  ],
-  "avatar": "crew_portraits_cm_reedsection31_sm.webp",
-  "fleet": "HONG KONG",
-  "change": -8,
-  "last": "0001-01-01T00:00:00Z"
- },
- {
   "id": 4715278,
   "name": "Jaid",
   "ranks": [
@@ -62130,6 +61696,20 @@
   "fleet": "",
   "change": -8,
   "last": "2017-11-13T00:00:00Z"
+ },
+ {
+  "id": 1659403,
+  "name": "James",
+  "ranks": [
+   0,
+   0,
+   0,
+   1
+  ],
+  "avatar": "crew_portraits_cm_unicorndog_sm.webp",
+  "fleet": "MAGDEBURG",
+  "change": -8,
+  "last": "2016-09-19T00:00:00Z"
  },
  {
   "id": 1611328,
@@ -62286,6 +61866,20 @@
   "last": "2018-07-09T00:00:00Z"
  },
  {
+  "id": 359802,
+  "name": "Jean Luc Picard",
+  "ranks": [
+   0,
+   0,
+   0,
+   1
+  ],
+  "avatar": "crew_portraits_cm_picardcaptain_sm.webp",
+  "fleet": "",
+  "change": -8,
+  "last": "2016-09-19T00:00:00Z"
+ },
+ {
   "id": 600949,
   "name": "Jean Luc Picard",
   "ranks": [
@@ -62298,6 +61892,20 @@
   "fleet": "Star Fleet Farm Command",
   "change": -8,
   "last": "2018-11-12T00:00:00Z"
+ },
+ {
+  "id": 918966,
+  "name": "Jean-Luc",
+  "ranks": [
+   0,
+   0,
+   0,
+   1
+  ],
+  "avatar": "crew_portraits_cm_picardcaptain_sm.webp",
+  "fleet": "",
+  "change": -8,
+  "last": "2016-09-19T00:00:00Z"
  },
  {
   "id": 609329,
@@ -62409,7 +62017,7 @@
   "avatar": "crew_portraits_cm_kirk_wrathful_sm.webp",
   "fleet": "Mirror Genesis Evolution",
   "change": -8,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-09-06T00:00:00Z"
  },
  {
   "id": 43468,
@@ -62524,20 +62132,6 @@
   "last": "2017-05-08T00:00:00Z"
  },
  {
-  "id": 721704,
-  "name": "John",
-  "ranks": [
-   0,
-   0,
-   0,
-   1
-  ],
-  "avatar": "crew_portraits_cm_khan_sm.webp",
-  "fleet": "",
-  "change": -8,
-  "last": "2016-04-04T00:00:00Z"
- },
- {
   "id": 517242,
   "name": "John",
   "ranks": [
@@ -62550,6 +62144,20 @@
   "fleet": "",
   "change": -8,
   "last": "2017-03-06T00:00:00Z"
+ },
+ {
+  "id": 721704,
+  "name": "John",
+  "ranks": [
+   0,
+   0,
+   0,
+   1
+  ],
+  "avatar": "crew_portraits_cm_khan_sm.webp",
+  "fleet": "",
+  "change": -8,
+  "last": "2016-04-04T00:00:00Z"
  },
  {
   "id": 91607,
@@ -62704,20 +62312,6 @@
   "fleet": "",
   "change": -8,
   "last": "2019-10-07T00:00:00Z"
- },
- {
-  "id": 80490,
-  "name": "JudgeLeedo",
-  "ranks": [
-   0,
-   0,
-   0,
-   1
-  ],
-  "avatar": "crew_portraits_cm_garaktailor_sm.webp",
-  "fleet": "",
-  "change": -8,
-  "last": "0001-01-01T00:00:00Z"
  },
  {
   "id": 2845551,
@@ -63224,20 +62818,6 @@
   "last": "2019-11-18T00:00:00Z"
  },
  {
-  "id": 299399,
-  "name": "Khan",
-  "ranks": [
-   0,
-   0,
-   0,
-   1
-  ],
-  "avatar": "crew_portraits_cm_kirkromulan_sm.webp",
-  "fleet": "Rogue Fleet UK",
-  "change": -8,
-  "last": "2016-09-19T00:00:00Z"
- },
- {
   "id": 73095,
   "name": "Khan",
   "ranks": [
@@ -63250,6 +62830,20 @@
   "fleet": "",
   "change": -8,
   "last": "2016-04-04T00:00:00Z"
+ },
+ {
+  "id": 299399,
+  "name": "Khan",
+  "ranks": [
+   0,
+   0,
+   0,
+   1
+  ],
+  "avatar": "crew_portraits_cm_kirkromulan_sm.webp",
+  "fleet": "Rogue Fleet UK",
+  "change": -8,
+  "last": "2016-09-19T00:00:00Z"
  },
  {
   "id": 5987569,
@@ -63935,7 +63529,7 @@
   "avatar": "crew_portraits_cm_martokgeneral_sm.webp",
   "fleet": "WarDOG5 {DD}",
   "change": -8,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-09-06T00:00:00Z"
  },
  {
   "id": 2413570,
@@ -64313,7 +63907,7 @@
   "avatar": "crew_portraits_cm_datas1_sm.webp",
   "fleet": "Federation DTI",
   "change": -8,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-06-28T00:00:00Z"
  },
  {
   "id": 3538743,
@@ -64428,6 +64022,20 @@
   "last": "2020-05-25T00:00:00Z"
  },
  {
+  "id": 6738995,
+  "name": "Mac",
+  "ranks": [
+   0,
+   0,
+   0,
+   1
+  ],
+  "avatar": "crew_portraits_cm_bashirwwii_sm.webp",
+  "fleet": "MARYLAND FLEET",
+  "change": -8,
+  "last": "2021-09-20T00:00:00Z"
+ },
+ {
   "id": 3983594,
   "name": "Mac",
   "ranks": [
@@ -64440,20 +64048,6 @@
   "fleet": "",
   "change": -8,
   "last": "2020-06-29T00:00:00Z"
- },
- {
-  "id": 6738995,
-  "name": "Mac",
-  "ranks": [
-   0,
-   0,
-   0,
-   1
-  ],
-  "avatar": "crew_portraits_cm_bashirwwii_sm.webp",
-  "fleet": "MARYLAND FLEET",
-  "change": -8,
-  "last": "0001-01-01T00:00:00Z"
  },
  {
   "id": 401340,
@@ -65055,7 +64649,7 @@
   "avatar": "crew_portraits_cm_proton_avatar_sm.webp",
   "fleet": "USS THC-420",
   "change": -8,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-08-09T00:00:00Z"
  },
  {
   "id": 3999295,
@@ -65324,20 +64918,6 @@
   "last": "2021-11-01T00:00:00Z"
  },
  {
-  "id": 1684018,
-  "name": "Mister Gaunt",
-  "ranks": [
-   0,
-   0,
-   0,
-   1
-  ],
-  "avatar": "",
-  "fleet": "",
-  "change": -8,
-  "last": "0001-01-01T00:00:00Z"
- },
- {
   "id": 1833735,
   "name": "Mister Lister the Sister Fister",
   "ranks": [
@@ -65602,20 +65182,6 @@
   "fleet": "",
   "change": -8,
   "last": "2020-06-08T00:00:00Z"
- },
- {
-  "id": 481352,
-  "name": "Mulska ",
-  "ranks": [
-   0,
-   0,
-   0,
-   1
-  ],
-  "avatar": "",
-  "fleet": "",
-  "change": -8,
-  "last": "0001-01-01T00:00:00Z"
  },
  {
   "id": 4663365,
@@ -65968,6 +65534,20 @@
   "last": "2016-07-25T00:00:00Z"
  },
  {
+  "id": 1808897,
+  "name": "Noah",
+  "ranks": [
+   0,
+   0,
+   0,
+   1
+  ],
+  "avatar": "crew_portraits_cm_worf_sm.webp",
+  "fleet": "",
+  "change": -8,
+  "last": "2020-02-24T00:00:00Z"
+ },
+ {
   "id": 6638,
   "name": "Noah",
   "ranks": [
@@ -66050,20 +65630,6 @@
   "fleet": "",
   "change": -8,
   "last": "2018-06-04T00:00:00Z"
- },
- {
-  "id": 3020163,
-  "name": "NtoxEK8n",
-  "ranks": [
-   0,
-   0,
-   0,
-   1
-  ],
-  "avatar": "crew_portraits_cm_kirk_platonian_sm.webp",
-  "fleet": "OMEGA PRIME ONE",
-  "change": -8,
-  "last": "0001-01-01T00:00:00Z"
  },
  {
   "id": 5120659,
@@ -66567,7 +66133,7 @@
   "avatar": "crew_portraits_cm_rogers_amanda_sm.webp",
   "fleet": "CLEVELAND ",
   "change": -8,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-07-05T00:00:00Z"
  },
  {
   "id": 5083459,
@@ -66850,6 +66416,20 @@
   "last": "2018-03-26T00:00:00Z"
  },
  {
+  "id": 1066032,
+  "name": "Purplexity",
+  "ranks": [
+   0,
+   0,
+   0,
+   1
+  ],
+  "avatar": "crew_portraits_cm_hugh_sm.webp",
+  "fleet": "TRIARII",
+  "change": -8,
+  "last": "2016-11-14T00:00:00Z"
+ },
+ {
   "id": 238941,
   "name": "Q",
   "ranks": [
@@ -67001,7 +66581,7 @@
   "avatar": "crew_portraits_cm_sisko_tuxedo_sm.webp",
   "fleet": "Raktajino Alliance",
   "change": -8,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-06-21T00:00:00Z"
  },
  {
   "id": 3389188,
@@ -67086,20 +66666,6 @@
   "fleet": "GAYS IN SPACE",
   "change": -8,
   "last": "2016-12-27T00:00:00Z"
- },
- {
-  "id": 48346,
-  "name": "Random Pedantic Tribble",
-  "ranks": [
-   0,
-   0,
-   0,
-   1
-  ],
-  "avatar": "",
-  "fleet": "",
-  "change": -8,
-  "last": "0001-01-01T00:00:00Z"
  },
  {
   "id": 4205223,
@@ -67603,7 +67169,7 @@
   "avatar": "crew_portraits_cm_dsc_stamets_mirror_sm.webp",
   "fleet": "",
   "change": -8,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-08-23T00:00:00Z"
  },
  {
   "id": 924844,
@@ -67674,20 +67240,6 @@
   "fleet": "",
   "change": -8,
   "last": "2018-04-30T00:00:00Z"
- },
- {
-  "id": 497441,
-  "name": "Rom",
-  "ranks": [
-   0,
-   0,
-   0,
-   1
-  ],
-  "avatar": "",
-  "fleet": "",
-  "change": -8,
-  "last": "0001-01-01T00:00:00Z"
  },
  {
   "id": 4722726,
@@ -68124,7 +67676,7 @@
   "last": "2019-10-14T00:00:00Z"
  },
  {
-  "id": 1748565,
+  "id": 496946,
   "name": "Sascha",
   "ranks": [
    0,
@@ -68138,7 +67690,7 @@
   "last": "2016-07-25T00:00:00Z"
  },
  {
-  "id": 496946,
+  "id": 1748565,
   "name": "Sascha",
   "ranks": [
    0,
@@ -68572,20 +68124,6 @@
   "last": "2019-10-07T00:00:00Z"
  },
  {
-  "id": 2095,
-  "name": "Sigilstar",
-  "ranks": [
-   0,
-   0,
-   0,
-   1
-  ],
-  "avatar": "crew_portraits_cm_emhmobile_sm.webp",
-  "fleet": "THE FILTHY CASUALS",
-  "change": -8,
-  "last": "0001-01-01T00:00:00Z"
- },
- {
   "id": 1567671,
   "name": "Sisko",
   "ranks": [
@@ -68654,6 +68192,20 @@
   "fleet": "",
   "change": -8,
   "last": "2018-03-19T00:00:00Z"
+ },
+ {
+  "id": 873355,
+  "name": "Smida",
+  "ranks": [
+   0,
+   0,
+   0,
+   1
+  ],
+  "avatar": "crew_portraits_cm_spockmirror_sm.webp",
+  "fleet": "",
+  "change": -8,
+  "last": "2019-11-18T00:00:00Z"
  },
  {
   "id": 692937,
@@ -68975,7 +68527,7 @@
   "avatar": "crew_portraits_cm_white_rabbit_sm.webp",
   "fleet": "Four Twenty",
   "change": -8,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-08-16T00:00:00Z"
  },
  {
   "id": 3996624,
@@ -69902,20 +69454,6 @@
   "last": "2020-07-13T00:00:00Z"
  },
  {
-  "id": 1470127,
-  "name": "Tirk",
-  "ranks": [
-   0,
-   0,
-   0,
-   1
-  ],
-  "avatar": "crew_portraits_cm_rikeradmiral_sm.webp",
-  "fleet": "CAPTIAN AUS",
-  "change": -8,
-  "last": "0001-01-01T00:00:00Z"
- },
- {
   "id": 3418610,
   "name": "Tism",
   "ranks": [
@@ -70070,6 +69608,20 @@
   "last": "2018-03-26T00:00:00Z"
  },
  {
+  "id": 1722123,
+  "name": "Tomm",
+  "ranks": [
+   0,
+   0,
+   0,
+   1
+  ],
+  "avatar": "crew_portraits_cm_rikeradmiral_sm.webp",
+  "fleet": "CZECH FLEET",
+  "change": -8,
+  "last": "2016-09-19T00:00:00Z"
+ },
+ {
   "id": 4619107,
   "name": "Toni ￦9IS￦",
   "ranks": [
@@ -70095,7 +69647,7 @@
   "avatar": "crew_portraits_cm_tilly_party_sm.webp",
   "fleet": "STRONGHOLD OF SAVAGES",
   "change": -8,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-09-27T00:00:00Z"
  },
  {
   "id": 3719192,
@@ -70504,20 +70056,6 @@
   "last": "2017-08-14T00:00:00Z"
  },
  {
-  "id": 1750809,
-  "name": "URaShiMaN",
-  "ranks": [
-   0,
-   0,
-   0,
-   1
-  ],
-  "avatar": "crew_portraits_cm_picardcaptain_sm.webp",
-  "fleet": "LES BISOUNOURS FR",
-  "change": -8,
-  "last": "0001-01-01T00:00:00Z"
- },
- {
   "id": 252709,
   "name": "USS PwnyXpress",
   "ranks": [
@@ -70585,7 +70123,7 @@
   "avatar": "crew_portraits_cm_burnham_resistance_sm.webp",
   "fleet": "AMERICAN HORROR STORY",
   "change": -8,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-08-09T00:00:00Z"
  },
  {
   "id": 5036585,
@@ -71383,7 +70921,7 @@
   "avatar": "crew_portraits_cm_tilly_colony_sm.webp",
   "fleet": "\u003cb\u003e \u003c#ccff00\u003e Assignment \u003c#18ffff\u003e Earth",
   "change": -8,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-07-05T00:00:00Z"
  },
  {
   "id": 4847834,
@@ -71498,20 +71036,6 @@
   "last": "2021-05-03T00:00:00Z"
  },
  {
-  "id": 1265229,
-  "name": "Zapp Brannigan",
-  "ranks": [
-   0,
-   0,
-   0,
-   1
-  ],
-  "avatar": "",
-  "fleet": "",
-  "change": -8,
-  "last": "2016-06-18T00:00:00Z"
- },
- {
   "id": 952560,
   "name": "Zapp Brannigan",
   "ranks": [
@@ -71538,6 +71062,20 @@
   "fleet": "WEYOUN'S OPEN FLEET",
   "change": -8,
   "last": "2020-06-01T00:00:00Z"
+ },
+ {
+  "id": 1265229,
+  "name": "Zapp Brannigan",
+  "ranks": [
+   0,
+   0,
+   0,
+   1
+  ],
+  "avatar": "",
+  "fleet": "",
+  "change": -8,
+  "last": "2016-06-18T00:00:00Z"
  },
  {
   "id": 900283,
@@ -71719,7 +71257,7 @@
   "avatar": "crew_portraits_cm_seven_silver_sm.webp",
   "fleet": "10 FORWARD LOUNGERS",
   "change": -8,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-08-30T00:00:00Z"
  },
  {
   "id": 5151514,
@@ -71873,7 +71411,7 @@
   "avatar": "crew_portraits_cm_flint_sm.webp",
   "fleet": "10 FORWARD LOUNGERS",
   "change": -8,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-08-09T00:00:00Z"
  },
  {
   "id": 4495418,
@@ -72783,7 +72321,7 @@
   "avatar": "crew_portraits_cm_odoumpire_sm.webp",
   "fleet": "DISCORDCONTINUUM",
   "change": -8,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-09-13T00:00:00Z"
  },
  {
   "id": 2034221,
@@ -72979,7 +72517,7 @@
   "avatar": "crew_portraits_cm_hawk_assimilated_sm.webp",
   "fleet": "",
   "change": -8,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-08-30T00:00:00Z"
  },
  {
   "id": 2756962,
@@ -73441,7 +72979,7 @@
   "avatar": "crew_portraits_cm_bashirwwii_sm.webp",
   "fleet": "FREEDOM FIGHTERS!",
   "change": -8,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-08-02T00:00:00Z"
  },
  {
   "id": 6974141,
@@ -73805,7 +73343,7 @@
   "avatar": "crew_portraits_cm_obrienpostfirstcontact_sm.webp",
   "fleet": "Galactic Defense Force",
   "change": -8,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-09-27T00:00:00Z"
  },
  {
   "id": 2608585,
@@ -73948,6 +73486,20 @@
   "last": "2020-01-27T00:00:00Z"
  },
  {
+  "id": 1699604,
+  "name": "[GSA] Ulle79",
+  "ranks": [
+   0,
+   0,
+   0,
+   1
+  ],
+  "avatar": "crew_portraits_cm_unicorndog_sm.webp",
+  "fleet": "",
+  "change": -8,
+  "last": "2017-07-10T00:00:00Z"
+ },
+ {
   "id": 3549483,
   "name": "[GSF] Spezies 5618",
   "ranks": [
@@ -74057,7 +73609,7 @@
   "avatar": "crew_portraits_cm_rikeradmiral_sm.webp",
   "fleet": "THE GUARDIANS OF TOMORROW",
   "change": -8,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-08-23T00:00:00Z"
  },
  {
   "id": 1965305,
@@ -74267,7 +73819,7 @@
   "avatar": "crew_portraits_cm_jadziabloodoath_sm.webp",
   "fleet": "Inner Planets Alliance",
   "change": -8,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-09-20T00:00:00Z"
  },
  {
   "id": 6930729,
@@ -74323,7 +73875,7 @@
   "avatar": "crew_portraits_cm_talosian_keeper_sm.webp",
   "fleet": "Inner Planets Alliance",
   "change": -8,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-07-19T00:00:00Z"
  },
  {
   "id": 569132,
@@ -74578,6 +74130,20 @@
   "last": "2018-06-11T00:00:00Z"
  },
  {
+  "id": 399149,
+  "name": "[KM] Larian LeQuella",
+  "ranks": [
+   0,
+   0,
+   0,
+   1
+  ],
+  "avatar": "crew_portraits_cm_picardfirstcontact_sm.webp",
+  "fleet": "",
+  "change": -8,
+  "last": "2016-07-25T00:00:00Z"
+ },
+ {
   "id": 260487,
   "name": "[KM] Marcus Habs",
   "ranks": [
@@ -74715,7 +74281,7 @@
   "avatar": "crew_portraits_cm_larkin_underwear_sm.webp",
   "fleet": "LOTUS FLEET",
   "change": -8,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-07-05T00:00:00Z"
  },
  {
   "id": 59816,
@@ -75387,7 +74953,7 @@
   "avatar": "crew_portraits_cm_rikeradmiral_sm.webp",
   "fleet": "Colonial Fleet Ohio 2",
   "change": -8,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-07-05T00:00:00Z"
  },
  {
   "id": 4835284,
@@ -75670,6 +75236,20 @@
   "last": "2020-03-02T00:00:00Z"
  },
  {
+  "id": 2413008,
+  "name": "[SCIS] Sargon",
+  "ranks": [
+   0,
+   0,
+   0,
+   1
+  ],
+  "avatar": "crew_portraits_ageofsail_avatar_sm.webp",
+  "fleet": "STARFLEET CIS",
+  "change": -8,
+  "last": "2020-12-21T00:00:00Z"
+ },
+ {
   "id": 445419,
   "name": "[SE] Commander Shepard",
   "ranks": [
@@ -75821,7 +75401,7 @@
   "avatar": "crew_portraits_cm_kirkgenerations_sm.webp",
   "fleet": "SSR Delta Flyers",
   "change": -8,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-06-14T00:00:00Z"
  },
  {
   "id": 7696050,
@@ -75975,7 +75555,7 @@
   "avatar": "crew_portraits_cm_davinci_sm.webp",
   "fleet": "SECOND STAR TO THE RIGHT",
   "change": -8,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-08-02T00:00:00Z"
  },
  {
   "id": 3106444,
@@ -76857,7 +76437,7 @@
   "avatar": "crew_portraits_cm_janeway_evolved_sm.webp",
   "fleet": "THE GLUTEN EMPIRE",
   "change": -8,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-08-16T00:00:00Z"
  },
  {
   "id": 4974277,
@@ -76872,6 +76452,20 @@
   "fleet": "",
   "change": -8,
   "last": "2018-06-04T00:00:00Z"
+ },
+ {
+  "id": 2055614,
+  "name": "[TGE] gorignak ",
+  "ranks": [
+   0,
+   0,
+   0,
+   1
+  ],
+  "avatar": "crew_portraits_cm_datagenerations_sm.webp",
+  "fleet": "",
+  "change": -8,
+  "last": "2017-04-10T00:00:00Z"
  },
  {
   "id": 35134,
@@ -77040,20 +76634,6 @@
   "fleet": "",
   "change": -8,
   "last": "2019-06-17T00:00:00Z"
- },
- {
-  "id": 528153,
-  "name": "[TLA] Marjel",
-  "ranks": [
-   0,
-   0,
-   0,
-   1
-  ],
-  "avatar": "",
-  "fleet": "",
-  "change": -8,
-  "last": "0001-01-01T00:00:00Z"
  },
  {
   "id": 66781,
@@ -77319,7 +76899,7 @@
   "avatar": "crew_portraits_cm_icheb_sm.webp",
   "fleet": "SSR - Unimatrix One",
   "change": -8,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-09-13T00:00:00Z"
  },
  {
   "id": 5810354,
@@ -77669,7 +77249,7 @@
   "avatar": "crew_portraits_cm_kor_sm.webp",
   "fleet": "THE UNITED FEDERATION OF PRAGMATISTS",
   "change": -8,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-08-16T00:00:00Z"
  },
  {
   "id": 4738159,
@@ -78229,7 +77809,7 @@
   "avatar": "crew_portraits_cm_apollo_sm.webp",
   "fleet": "THE POLICE BOX [Tardis of Who 2]",
   "change": -8,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-06-14T00:00:00Z"
  },
  {
   "id": 4065784,
@@ -78285,7 +77865,7 @@
   "avatar": "crew_portraits_cm_borg_queen_sm.webp",
   "fleet": "Hasse uns oder Liebe uns",
   "change": -8,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-09-27T00:00:00Z"
  },
  {
   "id": 1077770,
@@ -78397,7 +77977,7 @@
   "avatar": "crew_portraits_cm_kamala_sm.webp",
   "fleet": "Ultrabestfleet",
   "change": -8,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-07-26T00:00:00Z"
  },
  {
   "id": 3839061,
@@ -78523,7 +78103,7 @@
   "avatar": "crew_portraits_cm_georgiou_empress_sm.webp",
   "fleet": "TARDIS of WHO",
   "change": -8,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-06-14T00:00:00Z"
  },
  {
   "id": 869266,
@@ -78551,7 +78131,7 @@
   "avatar": "crew_portraits_cm_spockmirror_sm.webp",
   "fleet": "BORG PI",
   "change": -8,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-08-23T00:00:00Z"
  },
  {
   "id": 2669199,
@@ -78593,7 +78173,7 @@
   "avatar": "crew_portraits_cm_spock_kirk_reunion_sm.webp",
   "fleet": "= EXODUS =",
   "change": -8,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-06-28T00:00:00Z"
  },
  {
   "id": 7955286,
@@ -78677,7 +78257,7 @@
   "avatar": "crew_portraits_cm_locutus_sm.webp",
   "fleet": "= EXODUS =",
   "change": -8,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-06-28T00:00:00Z"
  },
  {
   "id": 1463403,
@@ -78887,7 +78467,7 @@
   "avatar": "crew_portraits_cm_kirktosyellow_sm.webp",
   "fleet": "STAR TREK WARS SAGA",
   "change": -8,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-09-27T00:00:00Z"
  },
  {
   "id": 1247058,
@@ -79055,7 +78635,7 @@
   "avatar": "crew_portraits_cm_pike_acting_sm.webp",
   "fleet": "[ FFA ] FRENCH FEDERATION ACTIVE",
   "change": -8,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-07-05T00:00:00Z"
  },
  {
   "id": 363831,
@@ -79111,7 +78691,7 @@
   "avatar": "crew_portraits_cm_spock_sm.webp",
   "fleet": "Celestial Temple",
   "change": -8,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-07-05T00:00:00Z"
  },
  {
   "id": 104190,
@@ -79182,6 +78762,20 @@
   "fleet": "",
   "change": -8,
   "last": "2017-08-14T00:00:00Z"
+ },
+ {
+  "id": 325765,
+  "name": "princereynart",
+  "ranks": [
+   0,
+   0,
+   0,
+   1
+  ],
+  "avatar": "crew_portraits_cm_emhmobile_sm.webp",
+  "fleet": "TEMPUS DOMINI",
+  "change": -8,
+  "last": "2016-09-19T00:00:00Z"
  },
  {
   "id": 839807,
@@ -79350,20 +78944,6 @@
   "fleet": "GAY BEARS: TNG",
   "change": -8,
   "last": "2020-05-25T00:00:00Z"
- },
- {
-  "id": 1936673,
-  "name": "tanis",
-  "ranks": [
-   0,
-   0,
-   0,
-   1
-  ],
-  "avatar": "crew_portraits_cm_sevenbluegreyshoulders_sm.webp",
-  "fleet": "CRIME MOB DEFAMILA",
-  "change": -8,
-  "last": "0001-01-01T00:00:00Z"
  },
  {
   "id": 652914,
@@ -79881,7 +79461,7 @@
   "avatar": "crew_portraits_cm_locutus_sm.webp",
   "fleet": "D3VIL PUPZ {DD}",
   "change": -8,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-07-05T00:00:00Z"
  },
  {
   "id": 3320738,
@@ -79979,7 +79559,7 @@
   "avatar": "crew_portraits_cm_tuvok_assimilated_sm.webp",
   "fleet": "H3LLHOUND5",
   "change": -8,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-08-09T00:00:00Z"
  },
  {
   "id": 6491268,
@@ -80007,7 +79587,7 @@
   "avatar": "crew_portraits_cm_mress_sm.webp",
   "fleet": "H3LLHOUND5",
   "change": -8,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-09-06T00:00:00Z"
  },
  {
   "id": 3284467,
@@ -80133,7 +79713,7 @@
   "avatar": "crew_portraits_cm_data_scrooge_sm.webp",
   "fleet": "\u003cb\u003e \u003c#008000\u003e Independent Rebels",
   "change": -8,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-07-05T00:00:00Z"
  },
  {
   "id": 229016,
@@ -80245,7 +79825,7 @@
   "avatar": "crew_portraits_cm_spockstiv_sm.webp",
   "fleet": "\u003ci\u003e\u003cu\u003e\u003c#FFFF00\u003ePhu-Tang-Clan Elites 2",
   "change": -8,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-07-05T00:00:00Z"
  },
  {
   "id": 6156598,
@@ -80301,7 +79881,7 @@
   "avatar": "crew_portraits_cm_locutus_sm.webp",
   "fleet": "",
   "change": -8,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-07-12T00:00:00Z"
  },
  {
   "id": 5427591,
@@ -80315,7 +79895,7 @@
   "avatar": "crew_portraits_cm_troiambassador_sm.webp",
   "fleet": "\u003ci\u003e\u003cu\u003e\u003c#FF0000\u003ePhu-Tang-Clan Boundless",
   "change": -8,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-09-06T00:00:00Z"
  },
  {
   "id": 679787,
@@ -80581,7 +80161,7 @@
   "avatar": "crew_portraits_cm_picard_day_sm.webp",
   "fleet": "Battleship Musashi",
   "change": -8,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-09-20T00:00:00Z"
  },
  {
   "id": 6292369,
@@ -80609,7 +80189,7 @@
   "avatar": "crew_portraits_cm_obrien_scapegoat_sm.webp",
   "fleet": "Battleship Musashi",
   "change": -8,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-06-28T00:00:00Z"
  },
  {
   "id": 4596475,
@@ -80707,7 +80287,7 @@
   "avatar": "crew_portraits_cm_datacowboy_sm.webp",
   "fleet": "Battleship Musashi",
   "change": -8,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-07-12T00:00:00Z"
  },
  {
   "id": 4164794,
@@ -80847,7 +80427,7 @@
   "avatar": "crew_portraits_cm_chuft_captain_sm.webp",
   "fleet": "Battleship Musashi",
   "change": -8,
-  "last": "0001-01-01T00:00:00Z"
+  "last": "2021-07-12T00:00:00Z"
  },
  {
   "id": 3842612,
