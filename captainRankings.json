@@ -4191,7 +4191,7 @@
   "fleet": ""
  },
  {
-  "name": "[GoT] Fish",
+  "name": "[TGE] Fish",
   "ranks": [
    0,
    1,
@@ -18718,7 +18718,7 @@
    1,
    1
   ],
-  "avatar": "fleet_battle_scenarios_practice_space_bg.webp",
+  "avatar": "crew_portraits_cm_rikeradmiral_sm.webp",
   "fleet": ""
  },
  {
@@ -18729,7 +18729,7 @@
    1,
    1
   ],
-  "avatar": "crew_portraits_cm_rikeradmiral_sm.webp",
+  "avatar": "fleet_battle_scenarios_practice_space_bg.webp",
   "fleet": ""
  },
  {
@@ -21373,6 +21373,17 @@
   "fleet": "SEC 31 ONTARIO FLEET"
  },
  {
+  "name": "Admiral (retired)",
+  "ranks": [
+   0,
+   0,
+   1,
+   0
+  ],
+  "avatar": "crew_portraits_cm_riker_zhenghe_sm.webp",
+  "fleet": "TASK FORCE B5"
+ },
+ {
   "name": "Admiral Alexis",
   "ranks": [
    0,
@@ -21648,7 +21659,7 @@
   "fleet": ""
  },
  {
-  "name": "Capt. Riker °°° {DD}",
+  "name": "Capt. Riker°°° {DD} *{MK}*RIP",
   "ranks": [
    0,
    0,
@@ -21666,8 +21677,8 @@
    1,
    0
   ],
-  "avatar": "crew_portraits_cm_vicfontaine_mirror_sm.webp",
-  "fleet": ""
+  "avatar": "crew_portraits_cm_obrienwwii_sm.webp",
+  "fleet": "CANADIAN STARFLEET"
  },
  {
   "name": "Captain",
@@ -21699,7 +21710,7 @@
    1,
    0
   ],
-  "avatar": "crew_portraits_cm_remataklan_sm.webp",
+  "avatar": "crew_portraits_cm_vicfontaine_mirror_sm.webp",
   "fleet": ""
  },
  {
@@ -21710,8 +21721,8 @@
    1,
    0
   ],
-  "avatar": "crew_portraits_cm_obrienwwii_sm.webp",
-  "fleet": "CANADIAN STARFLEET"
+  "avatar": "crew_portraits_cm_remataklan_sm.webp",
+  "fleet": ""
  },
  {
   "name": "Captain Caveman",
@@ -21912,6 +21923,17 @@
   "fleet": ""
  },
  {
+  "name": "Citizn kane",
+  "ranks": [
+   0,
+   0,
+   1,
+   0
+  ],
+  "avatar": "crew_portraits_cm_targ_sm.webp",
+  "fleet": "STARFLEET CANADA"
+ },
+ {
   "name": "Clive Palmer",
   "ranks": [
    0,
@@ -21921,6 +21943,17 @@
   ],
   "avatar": "crew_portraits_cm_tardigrade_sm.webp",
   "fleet": "Palmer Eats Poo Party"
+ },
+ {
+  "name": "Colonel Angus",
+  "ranks": [
+   0,
+   0,
+   1,
+   0
+  ],
+  "avatar": "crew_portraits_cm_colonel_q_sm.webp",
+  "fleet": "Rise of the Phoenix"
  },
  {
   "name": "Commander Colo",
@@ -21954,6 +21987,17 @@
   ],
   "avatar": "crew_portraits_cm_picard_admiral_sm.webp",
   "fleet": ""
+ },
+ {
+  "name": "Control",
+  "ranks": [
+   0,
+   0,
+   1,
+   0
+  ],
+  "avatar": "crew_portraits_cm_leland_control_sm.webp",
+  "fleet": "SSR The New Obsidian Order"
  },
  {
   "name": "Cooper",
@@ -22352,6 +22396,17 @@
   "fleet": ""
  },
  {
+  "name": "HaltInTheNameOfChaotica!",
+  "ranks": [
+   0,
+   0,
+   1,
+   0
+  ],
+  "avatar": "crew_portraits_cm_proton_avatar_sm.webp",
+  "fleet": "HUN TREK"
+ },
+ {
   "name": "Han Sulu",
   "ranks": [
    0,
@@ -22396,17 +22451,6 @@
   "fleet": ""
  },
  {
-  "name": "Hoshi (Suncoast)",
-  "ranks": [
-   0,
-   0,
-   1,
-   0
-  ],
-  "avatar": "crew_portraits_cm_leland_control_sm.webp",
-  "fleet": "SSR The New Obsidian Order"
- },
- {
   "name": "I'm Big Bear!",
   "ranks": [
    0,
@@ -22438,6 +22482,17 @@
   ],
   "avatar": "crew_portraits_cm_damar_sm.webp",
   "fleet": "NORSE VIKING FLEET"
+ },
+ {
+  "name": "JTB",
+  "ranks": [
+   0,
+   0,
+   1,
+   0
+  ],
+  "avatar": "crew_portraits_avatar_grudge_sm.webp",
+  "fleet": ""
  },
  {
   "name": "Jackson’s Tower",
@@ -22781,6 +22836,17 @@
   "fleet": ""
  },
  {
+  "name": "M'rahl (retired)",
+  "ranks": [
+   0,
+   0,
+   1,
+   0
+  ],
+  "avatar": "crew_portraits_cm_crusher_captain_sm.webp",
+  "fleet": ""
+ },
+ {
   "name": "MHJ",
   "ranks": [
    0,
@@ -22823,17 +22889,6 @@
   ],
   "avatar": "crew_portraits_cm_obrien_prisoner_sm.webp",
   "fleet": ""
- },
- {
-  "name": "Miles Prower",
-  "ranks": [
-   0,
-   0,
-   1,
-   0
-  ],
-  "avatar": "crew_portraits_cm_colonel_q_sm.webp",
-  "fleet": "Rise of the Phoenix"
  },
  {
   "name": "Milord O'Brien",
@@ -22946,7 +23001,7 @@
   "fleet": ""
  },
  {
-  "name": "Nexzew [TTA]",
+  "name": "Nexzew",
   "ranks": [
    0,
    0,
@@ -23032,6 +23087,17 @@
   ],
   "avatar": "crew_portraits_cm_odo_chaplain_sm.webp",
   "fleet": "*SGC* Academy"
+ },
+ {
+  "name": "PHOTONIC PAUL =BSR=",
+  "ranks": [
+   0,
+   0,
+   1,
+   0
+  ],
+  "avatar": "crew_portraits_cm_bashir_bellriots_sm.webp",
+  "fleet": "BLUE SKIES RISING"
  },
  {
   "name": "Pavel",
@@ -23197,17 +23263,6 @@
   ],
   "avatar": "crew_portraits_cm_lucien_sm.webp",
   "fleet": ""
- },
- {
-  "name": "Riker’s islan{DD}",
-  "ranks": [
-   0,
-   0,
-   1,
-   0
-  ],
-  "avatar": "crew_portraits_cm_riker_littlejohn_sm.webp",
-  "fleet": "WarDOG5 {DD}"
  },
  {
   "name": "Rish",
@@ -23496,28 +23551,6 @@
   "fleet": ""
  },
  {
-  "name": "Starfleet Command",
-  "ranks": [
-   0,
-   0,
-   1,
-   0
-  ],
-  "avatar": "crew_portraits_cm_riker_zhenghe_sm.webp",
-  "fleet": "TASK FORCE B5"
- },
- {
-  "name": "Synan",
-  "ranks": [
-   0,
-   0,
-   1,
-   0
-  ],
-  "avatar": "crew_portraits_avatar_grudge_sm.webp",
-  "fleet": ""
- },
- {
   "name": "Synn Solace",
   "ranks": [
    0,
@@ -23549,17 +23582,6 @@
   ],
   "avatar": "crew_portraits_cm_datacowboy_sm.webp",
   "fleet": ""
- },
- {
-  "name": "The Cuban Missile [USS NO]",
-  "ranks": [
-   0,
-   0,
-   1,
-   0
-  ],
-  "avatar": "crew_portraits_cm_spot_avatar_sm.webp",
-  "fleet": "\u003ci\u003e\u003cu\u003e\u003c#FFA500\u003ePHU-TANG-CLAN 2"
  },
  {
   "name": "The Gabe",
@@ -23727,7 +23749,7 @@
   "fleet": "The Temporal Agents [TTA@DTI]"
  },
  {
-  "name": "Yoda {(TLL)}",
+  "name": "Yoda {(AA)}",
   "ranks": [
    0,
    0,
@@ -23736,17 +23758,6 @@
   ],
   "avatar": "crew_portraits_cm_gorncaptain_sm.webp",
   "fleet": "ANCIENT ALIENS"
- },
- {
-  "name": "YouDon'tDeserveToWearThatUniform",
-  "ranks": [
-   0,
-   0,
-   1,
-   0
-  ],
-  "avatar": "crew_portraits_cm_proton_avatar_sm.webp",
-  "fleet": "HUN TREK"
  },
  {
   "name": "ZEU5",
@@ -23771,7 +23782,7 @@
   "fleet": "10 FORWARD LOUNGERS"
  },
  {
-  "name": "[7TW] Captain_Romo83",
+  "name": "[7RW] Captain Romo83",
   "ranks": [
    0,
    0,
@@ -23782,7 +23793,7 @@
   "fleet": "7th Renegade Wing"
  },
  {
-  "name": "[BAD]Viperch",
+  "name": "[BAD]Viperch25",
   "ranks": [
    0,
    0,
@@ -24200,17 +24211,6 @@
   "fleet": "CFOH4 Geriatrics"
  },
  {
-  "name": "[IPA] CPT InSaNO",
-  "ranks": [
-   0,
-   0,
-   1,
-   0
-  ],
-  "avatar": "crew_portraits_cm_targ_sm.webp",
-  "fleet": "STARFLEET CANADA"
- },
- {
   "name": "[IPA] LaBamba",
   "ranks": [
    0,
@@ -24420,17 +24420,6 @@
   "fleet": ""
  },
  {
-  "name": "[RR] Photonic Paul",
-  "ranks": [
-   0,
-   0,
-   1,
-   0
-  ],
-  "avatar": "crew_portraits_cm_bashir_bellriots_sm.webp",
-  "fleet": "BLUE SKIES RISING"
- },
- {
   "name": "[RS] Shaari",
   "ranks": [
    0,
@@ -24451,6 +24440,17 @@
   ],
   "avatar": "crew_portraits_cm_picardtommygun_sm.webp",
   "fleet": "THE REDDIT SHIRTS"
+ },
+ {
+  "name": "[Retired] Pert",
+  "ranks": [
+   0,
+   0,
+   1,
+   0
+  ],
+  "avatar": "crew_portraits_avatar_grudge_sm.webp",
+  "fleet": ""
  },
  {
   "name": "[S47] Mork",
@@ -24538,17 +24538,6 @@
    0
   ],
   "avatar": "crew_portraits_cm_garakobsidian_sm.webp",
-  "fleet": ""
- },
- {
-  "name": "[SSR-DF] M'rahl",
-  "ranks": [
-   0,
-   0,
-   1,
-   0
-  ],
-  "avatar": "crew_portraits_cm_crusher_captain_sm.webp",
   "fleet": ""
  },
  {
@@ -24772,17 +24761,6 @@
   "fleet": "THE LIBERAL ALLIANCE (TLA)"
  },
  {
-  "name": "[TLA] Pert",
-  "ranks": [
-   0,
-   0,
-   1,
-   0
-  ],
-  "avatar": "crew_portraits_avatar_grudge_sm.webp",
-  "fleet": ""
- },
- {
   "name": "[TLA] Starkjudo",
   "ranks": [
    0,
@@ -24937,17 +24915,6 @@
   "fleet": ""
  },
  {
-  "name": "[XA] stratege286",
-  "ranks": [
-   0,
-   0,
-   1,
-   0
-  ],
-  "avatar": "crew_portraits_cm_moriarty_sm.webp",
-  "fleet": ""
- },
- {
   "name": "[XA]Raymster",
   "ranks": [
    0,
@@ -24981,7 +24948,7 @@
   "fleet": "NEWBLACKVIPERS"
  },
  {
-  "name": "endthyme [SWO]",
+  "name": "endthyme",
   "ranks": [
    0,
    0,
@@ -25080,6 +25047,17 @@
   "fleet": ""
  },
  {
+  "name": "stratege286",
+  "ranks": [
+   0,
+   0,
+   1,
+   0
+  ],
+  "avatar": "crew_portraits_cm_moriarty_sm.webp",
+  "fleet": ""
+ },
+ {
   "name": "s~it lord darth kukulaka",
   "ranks": [
    0,
@@ -25102,26 +25080,15 @@
   "fleet": "Starfleet 31st Fleet"
  },
  {
-  "name": "uHu",
+  "name": "{DDM} Aoki23",
   "ranks": [
    0,
    0,
    1,
    0
   ],
-  "avatar": "crew_portraits_cm_niners_avatar_sm.webp",
-  "fleet": ""
- },
- {
-  "name": "{DD} Firebrick°°°°",
-  "ranks": [
-   0,
-   0,
-   1,
-   0
-  ],
-  "avatar": "crew_portraits_cm_booker_grudge_sm.webp",
-  "fleet": "H3LLHOUND5"
+  "avatar": "crew_portraits_cm_robinson_bg_sm.webp",
+  "fleet": "Drunken Dahar Masters"
  },
  {
   "name": "{DD} Schnils",
@@ -25133,6 +25100,17 @@
   ],
   "avatar": "crew_portraits_cm_seven_borg_queen_sm.webp",
   "fleet": "D3VIL D0G5"
+ },
+ {
+  "name": "{DD}Firebrick••••",
+  "ranks": [
+   0,
+   0,
+   1,
+   0
+  ],
+  "avatar": "crew_portraits_cm_booker_grudge_sm.webp",
+  "fleet": "H3LLHOUND5"
  },
  {
   "name": "{DD}Nogbad the Bad",
@@ -25157,7 +25135,29 @@
   "fleet": "DANGEROUS SAVAGE CHILD RACE"
  },
  {
-  "name": "{NoT}GENERAL COBALT BLUE",
+  "name": "{DSCR} UhU",
+  "ranks": [
+   0,
+   0,
+   1,
+   0
+  ],
+  "avatar": "crew_portraits_cm_niners_avatar_sm.webp",
+  "fleet": ""
+ },
+ {
+  "name": "{MK} Riker's islan{DD}",
+  "ranks": [
+   0,
+   0,
+   1,
+   0
+  ],
+  "avatar": "crew_portraits_cm_riker_littlejohn_sm.webp",
+  "fleet": "WarDOG5 {DD}"
+ },
+ {
+  "name": "{NoT} GENERAL COBALT BLUE",
   "ranks": [
    0,
    0,
@@ -25166,6 +25166,17 @@
   ],
   "avatar": "crew_portraits_cm_guinan_mixologist_sm.webp",
   "fleet": "NEW OLD TIMERS"
+ },
+ {
+  "name": "{PTC} The Cuban Missile",
+  "ranks": [
+   0,
+   0,
+   1,
+   0
+  ],
+  "avatar": "crew_portraits_cm_spot_avatar_sm.webp",
+  "fleet": "\u003ci\u003e\u003cu\u003e\u003c#FFA500\u003ePHU-TANG-CLAN 2"
  },
  {
   "name": "{PTC} Worf",
@@ -25177,17 +25188,6 @@
   ],
   "avatar": "crew_portraits_cm_worfkdf_sm.webp",
   "fleet": "\u003ci\u003e\u003cu\u003e\u003c#FF0000\u003ePhu-Tang-Clan Boundless"
- },
- {
-  "name": "{PTC} XO Aoki23",
-  "ranks": [
-   0,
-   0,
-   1,
-   0
-  ],
-  "avatar": "crew_portraits_cm_robinson_bg_sm.webp",
-  "fleet": "Drunken Dahar Masters"
  },
  {
   "name": "{•••} Buju95 {CSF}",
@@ -25223,7 +25223,7 @@
   "fleet": ""
  },
  {
-  "name": "÷ fishPips",
+  "name": "÷ Tribbles \u0026 Pips",
   "ranks": [
    0,
    0,
@@ -34397,6 +34397,17 @@
   "fleet": "BART'S MID IOWA FLEET"
  },
  {
+  "name": "(BSR) Wendall Z",
+  "ranks": [
+   0,
+   0,
+   0,
+   1
+  ],
+  "avatar": "crew_portraits_cm_vash_profiteer_sm.webp",
+  "fleet": "BLUE SKIES RISING"
+ },
+ {
   "name": "(CFOH) Chaos ensues",
   "ranks": [
    0,
@@ -34441,6 +34452,17 @@
   "fleet": "Delta House"
  },
  {
+  "name": "(DL) Chief Engineer Cousins",
+  "ranks": [
+   0,
+   0,
+   0,
+   1
+  ],
+  "avatar": "crew_portraits_cm_data_carlos_sm.webp",
+  "fleet": "\u003c#00ff00\u003eDragons Landing"
+ },
+ {
   "name": "(DOTL) Argyll",
   "ranks": [
    0,
@@ -34450,17 +34472,6 @@
   ],
   "avatar": "crew_portraits_cm_locutus_sm.webp",
   "fleet": "DISCIPLES OF THE LORD"
- },
- {
-  "name": "(DR)Samppa676",
-  "ranks": [
-   0,
-   0,
-   0,
-   1
-  ],
-  "avatar": "crew_portraits_cm_wyatt_earp_sm.webp",
-  "fleet": "Dragons Reach"
  },
  {
   "name": "(DSD)Der Eine",
@@ -34505,6 +34516,17 @@
   ],
   "avatar": "crew_portraits_cm_seven_annika_sm.webp",
   "fleet": "GERMAN MASTERFLEET"
+ },
+ {
+  "name": "(GSA) DAari",
+  "ranks": [
+   0,
+   0,
+   0,
+   1
+  ],
+  "avatar": "crew_portraits_cm_seven_borg_queen_sm.webp",
+  "fleet": "[GSA] GERMAN SPACE AGENCY"
  },
  {
   "name": "(H31)☺for Sarge☺",
@@ -34617,17 +34639,6 @@
   "fleet": ""
  },
  {
-  "name": "(S14) Sisko",
-  "ranks": [
-   0,
-   0,
-   0,
-   1
-  ],
-  "avatar": "crew_portraits_cm_siskoeyepiece_sm.webp",
-  "fleet": "SSR The New Obsidian Order"
- },
- {
   "name": "(SBGO) Vader",
   "ranks": [
    0,
@@ -34637,6 +34648,17 @@
   ],
   "avatar": "crew_portraits_cm_proton_avatar_sm.webp",
   "fleet": "STARFLEET BATTLE GROUP OMEGA"
+ },
+ {
+  "name": "(SFW) Mike Jakson",
+  "ranks": [
+   0,
+   0,
+   0,
+   1
+  ],
+  "avatar": "crew_portraits_cm_uhurawrathofkhan_sm.webp",
+  "fleet": "STARFLEET WISCONSIN"
  },
  {
   "name": "(SNS)Commodore Decker",
@@ -34650,15 +34672,15 @@
   "fleet": ""
  },
  {
-  "name": "(SST) Commodore Ulic Qel Droma",
+  "name": "(SOS)BorgKing",
   "ranks": [
    0,
    0,
    0,
    1
   ],
-  "avatar": "crew_portraits_cm_seven_borg_queen_sm.webp",
-  "fleet": "US COLORADO"
+  "avatar": "crew_portraits_cm_seven_tsunkatse_sm.webp",
+  "fleet": ""
  },
  {
   "name": "(STE) Captain DAF",
@@ -34848,17 +34870,6 @@
   "fleet": ""
  },
  {
-  "name": "*ST* Cpt. Hawkeye",
-  "ranks": [
-   0,
-   0,
-   0,
-   1
-  ],
-  "avatar": "crew_portraits_cm_siskoeyepiece_sm.webp",
-  "fleet": "*ST* STARS TRILL"
- },
- {
   "name": "*ST* Dastard",
   "ranks": [
    0,
@@ -34903,15 +34914,15 @@
   "fleet": "*ST* STARS TRILL"
  },
  {
-  "name": "*ST* The Mandalorian {EU}",
+  "name": "*ST* Svenson",
   "ranks": [
    0,
    0,
    0,
    1
   ],
-  "avatar": "crew_portraits_cm_voq_as_ash_sm.webp",
-  "fleet": "*ST* STARS TRILL"
+  "avatar": "crew_portraits_cm_rikeradmiral_sm.webp",
+  "fleet": "*ST* STARS RISA"
  },
  {
   "name": "*ST* Tom",
@@ -34925,6 +34936,17 @@
   "fleet": "*ST* STARS RISA"
  },
  {
+  "name": "*ST* USS Rocinante",
+  "ranks": [
+   0,
+   0,
+   0,
+   1
+  ],
+  "avatar": "crew_portraits_cm_voq_as_ash_sm.webp",
+  "fleet": "*ST* STARS TRILL"
+ },
+ {
   "name": "*ST* onrail",
   "ranks": [
    0,
@@ -34934,6 +34956,17 @@
   ],
   "avatar": "crew_portraits_cm_silik_sm.webp",
   "fleet": ""
+ },
+ {
+  "name": "*ST*Cpt. Hawkeye",
+  "ranks": [
+   0,
+   0,
+   0,
+   1
+  ],
+  "avatar": "crew_portraits_cm_siskoeyepiece_sm.webp",
+  "fleet": "*ST* STARS TRILL"
  },
  {
   "name": "*ST*Rawuzi",
@@ -34988,6 +35021,17 @@
    1
   ],
   "avatar": "crew_portraits_cm_rikeradmiral_sm.webp",
+  "fleet": "• Fair Haven •"
+ },
+ {
+  "name": "+FH+ dext74",
+  "ranks": [
+   0,
+   0,
+   0,
+   1
+  ],
+  "avatar": "crew_portraits_cm_reedsection31_sm.webp",
   "fleet": "• Fair Haven •"
  },
  {
@@ -35068,6 +35112,17 @@
   "fleet": ".|.ISS Kongo"
  },
  {
+  "name": ".|.BillyBones",
+  "ranks": [
+   0,
+   0,
+   0,
+   1
+  ],
+  "avatar": "crew_portraits_cm_rikeradmiral_sm.webp",
+  "fleet": ""
+ },
+ {
   "name": ".|.Harold Finch",
   "ranks": [
    0,
@@ -35132,6 +35187,17 @@
   ],
   "avatar": "crew_portraits_cm_spock_captain_sm.webp",
   "fleet": ""
+ },
+ {
+  "name": "1213",
+  "ranks": [
+   0,
+   0,
+   0,
+   1
+  ],
+  "avatar": "crew_portraits_cm_tmir_sm.webp",
+  "fleet": "USMC SPACE MARINES"
  },
  {
   "name": "1234",
@@ -35211,7 +35277,7 @@
   "fleet": "GROUND-BIRDS OF PREY"
  },
  {
-  "name": "=GBP= Plain Simple Garak Jr",
+  "name": "=GBP= Plain Simple Garak",
   "ranks": [
    0,
    0,
@@ -35230,6 +35296,17 @@
    1
   ],
   "avatar": "crew_portraits_cm_locutus_sm.webp",
+  "fleet": "\u003ccolor=green\u003e•VDF• Akademie"
+ },
+ {
+  "name": "=VF= Hugyn",
+  "ranks": [
+   0,
+   0,
+   0,
+   1
+  ],
+  "avatar": "crew_portraits_cm_silik_sm.webp",
   "fleet": "\u003ccolor=green\u003e•VDF• Akademie"
  },
  {
@@ -35321,6 +35398,17 @@
   "fleet": "=j= space junkies germany"
  },
  {
+  "name": "=j= Capitano",
+  "ranks": [
+   0,
+   0,
+   0,
+   1
+  ],
+  "avatar": "crew_portraits_cm_spot_avatar_sm.webp",
+  "fleet": "=j= mirror space junkies"
+ },
+ {
   "name": "=j= Captain Napier",
   "ranks": [
    0,
@@ -35330,17 +35418,6 @@
   ],
   "avatar": "crew_portraits_cm_keiko_bride_sm.webp",
   "fleet": "=j= subspace junkies"
- },
- {
-  "name": "=j= Captain Pete (BLM)",
-  "ranks": [
-   0,
-   0,
-   0,
-   1
-  ],
-  "avatar": "crew_portraits_cm_burnham_resistance_sm.webp",
-  "fleet": "\u003cb\u003e \u003c#008000\u003e Independent Rebels"
  },
  {
   "name": "=j= Dr. D",
@@ -35409,6 +35486,17 @@
   "fleet": "=j= space junkies akademie"
  },
  {
+  "name": "=j= MrTroi",
+  "ranks": [
+   0,
+   0,
+   0,
+   1
+  ],
+  "avatar": "crew_portraits_cm_rikerpoker_sm.webp",
+  "fleet": "=j= Deep Space Junkies"
+ },
+ {
   "name": "=j= Napus",
   "ranks": [
    0,
@@ -35417,6 +35505,17 @@
    1
   ],
   "avatar": "crew_portraits_cm_reedsection31_sm.webp",
+  "fleet": "=j= subspace junkies"
+ },
+ {
+  "name": "=j= Orneryboy",
+  "ranks": [
+   0,
+   0,
+   0,
+   1
+  ],
+  "avatar": "crew_portraits_cm_jhetleya_sm.webp",
   "fleet": "=j= subspace junkies"
  },
  {
@@ -35453,6 +35552,17 @@
   "fleet": "=j= mirror space junkies"
  },
  {
+  "name": "=j= The Doctor",
+  "ranks": [
+   0,
+   0,
+   0,
+   1
+  ],
+  "avatar": "crew_portraits_cm_spot_avatar_sm.webp",
+  "fleet": "=j= mirror space junkies"
+ },
+ {
   "name": "=j= Vulcan Changeup",
   "ranks": [
    0,
@@ -35462,17 +35572,6 @@
   ],
   "avatar": "crew_portraits_cm_sisko_niners_sm.webp",
   "fleet": "=j= german space junkies"
- },
- {
-  "name": "=j= michlang",
-  "ranks": [
-   0,
-   0,
-   0,
-   1
-  ],
-  "avatar": "crew_portraits_cm_siskotos_sm.webp",
-  "fleet": "SUNCOAST"
  },
  {
   "name": "=j=#RocketTom7 ",
@@ -35486,15 +35585,15 @@
   "fleet": "=j= space junkies germany"
  },
  {
-  "name": "=j=GwynLynx",
+  "name": "=j=Gus",
   "ranks": [
    0,
    0,
    0,
    1
   ],
-  "avatar": "crew_portraits_cm_janewayarachnia_sm.webp",
-  "fleet": "Starfleet Los Angeles (Active)"
+  "avatar": "crew_portraits_cm_kirktosyellow_sm.webp",
+  "fleet": "=j= mirror space junkies"
  },
  {
   "name": "={DF}=Jon Snow",
@@ -35541,7 +35640,7 @@
   "fleet": "ORCAS"
  },
  {
-  "name": "ARES",
+  "name": "ARES 1701-DS",
   "ranks": [
    0,
    0,
@@ -35706,18 +35805,7 @@
   "fleet": ""
  },
  {
-  "name": "Admiral Q Baker",
-  "ranks": [
-   0,
-   0,
-   0,
-   1
-  ],
-  "avatar": "crew_portraits_cm_qstarfleet_sm.webp",
-  "fleet": "Nimitz the Space Flattop"
- },
- {
-  "name": "Admiral Rimmer Sir!(RM)",
+  "name": "Admiral Rimmer Sir!",
   "ranks": [
    0,
    0,
@@ -35792,6 +35880,17 @@
   ],
   "avatar": "crew_portraits_cm_idrin_sm.webp",
   "fleet": "CANADA'S STARFLEET"
+ },
+ {
+  "name": "Ahhhh SCI (SWO)",
+  "ranks": [
+   0,
+   0,
+   0,
+   1
+  ],
+  "avatar": "crew_portraits_cm_matt_decker_sm.webp",
+  "fleet": "SPOCKWORK ORANGE"
  },
  {
   "name": "Alabaster D.",
@@ -36003,7 +36102,7 @@
   "fleet": "SVERIGE"
  },
  {
-  "name": "Artim of Christmas Past",
+  "name": "Artim",
   "ranks": [
    0,
    0,
@@ -36102,6 +36201,17 @@
   "fleet": "Bajor Defence"
  },
  {
+  "name": "B'Ananna Torres (Injured)",
+  "ranks": [
+   0,
+   0,
+   0,
+   1
+  ],
+  "avatar": "crew_portraits_cm_torre_injured_sm.webp",
+  "fleet": ""
+ },
+ {
   "name": "B'Etor Dye (SB1)",
   "ranks": [
    0,
@@ -36122,6 +36232,17 @@
   ],
   "avatar": "crew_portraits_cm_tuvok_assimilated_sm.webp",
   "fleet": "THE INACTIVE"
+ },
+ {
+  "name": "Badgerbot",
+  "ranks": [
+   0,
+   0,
+   0,
+   1
+  ],
+  "avatar": "crew_portraits_cm_spot_avatar_sm.webp",
+  "fleet": "TARDIS of WHO"
  },
  {
   "name": "Bael (NDQ)",
@@ -36542,17 +36663,6 @@
   "fleet": "SPEZIES8472"
  },
  {
-  "name": "Buck Rogers",
-  "ranks": [
-   0,
-   0,
-   0,
-   1
-  ],
-  "avatar": "crew_portraits_cm_obrien_falcon_sm.webp",
-  "fleet": "9 INCH SPOCK"
- },
- {
   "name": "Buckaroo",
   "ranks": [
    0,
@@ -36685,7 +36795,7 @@
   "fleet": "OMEGA CODE 47"
  },
  {
-  "name": "Caitlin(KSS)",
+  "name": "Caitlin KSS Recruiting",
   "ranks": [
    0,
    0,
@@ -36806,17 +36916,6 @@
   "fleet": "URUGUAY FLEET"
  },
  {
-  "name": "Capn Dam",
-  "ranks": [
-   0,
-   0,
-   0,
-   1
-  ],
-  "avatar": "crew_portraits_cm_emh_android_sm.webp",
-  "fleet": "The Umbrella Acadamy"
- },
- {
   "name": "Capt Blitzenburger",
   "ranks": [
    0,
@@ -36861,6 +36960,28 @@
   "fleet": "\u003cu\u003e \u003c#00FFFF\u003e Misfits In Action"
  },
  {
+  "name": "Capt J T Aylor - On Vacay",
+  "ranks": [
+   0,
+   0,
+   0,
+   1
+  ],
+  "avatar": "crew_portraits_cm_phlox_nanoprobe_sm.webp",
+  "fleet": "Feds Retired 2 Risa"
+ },
+ {
+  "name": "Capt J T Kirk - On Vacay",
+  "ranks": [
+   0,
+   0,
+   0,
+   1
+  ],
+  "avatar": "crew_portraits_avatar_grudge_sm.webp",
+  "fleet": "Feds Retired 2 Risa"
+ },
+ {
   "name": "Capt Nuttybus",
   "ranks": [
    0,
@@ -36883,7 +37004,7 @@
   "fleet": "OBSIDIAN ORDER SEC 31"
  },
  {
-  "name": "Capt. Barbossa [KSS]",
+  "name": "Capt. Barbossa",
   "ranks": [
    0,
    0,
@@ -36938,7 +37059,7 @@
   "fleet": "PATRIOTS"
  },
  {
-  "name": "Capt. SpYDeR",
+  "name": "Capt. SpYDeR [OBS 31]",
   "ranks": [
    0,
    0,
@@ -36978,17 +37099,6 @@
    0,
    1
   ],
-  "avatar": "crew_portraits_cm_khan_sm.webp",
-  "fleet": "Rogue Fleet UK"
- },
- {
-  "name": "Captain",
-  "ranks": [
-   0,
-   0,
-   0,
-   1
-  ],
   "avatar": "crew_portraits_cm_laforgecaptain_sm.webp",
   "fleet": ""
  },
@@ -37000,19 +37110,8 @@
    0,
    1
   ],
-  "avatar": "crew_portraits_cm_unicorndog_sm.webp",
-  "fleet": ""
- },
- {
-  "name": "Captain",
-  "ranks": [
-   0,
-   0,
-   0,
-   1
-  ],
-  "avatar": "crew_portraits_cm_locutus_sm.webp",
-  "fleet": "ZOGZOG (FR)"
+  "avatar": "crew_portraits_cm_rikeradmiral_sm.webp",
+  "fleet": "BOW - STT"
  },
  {
   "name": "Captain",
@@ -37044,7 +37143,7 @@
    0,
    1
   ],
-  "avatar": "crew_portraits_cm_rikeradmiral_sm.webp",
+  "avatar": "crew_portraits_cm_uhurared_sm.webp",
   "fleet": ""
  },
  {
@@ -37055,8 +37154,19 @@
    0,
    1
   ],
-  "avatar": "crew_portraits_cm_uhurared_sm.webp",
-  "fleet": ""
+  "avatar": "crew_portraits_cm_locutus_sm.webp",
+  "fleet": "ZOGZOG (FR)"
+ },
+ {
+  "name": "Captain",
+  "ranks": [
+   0,
+   0,
+   0,
+   1
+  ],
+  "avatar": "crew_portraits_cm_remanviceroy_sm.webp",
+  "fleet": "FÖDERATION STERNENFLOTTE"
  },
  {
   "name": "Captain",
@@ -37077,7 +37187,29 @@
    0,
    1
   ],
-  "avatar": "crew_portraits_cm_kirkromulan_sm.webp",
+  "avatar": "crew_portraits_cm_rikeradmiral_sm.webp",
+  "fleet": ""
+ },
+ {
+  "name": "Captain",
+  "ranks": [
+   0,
+   0,
+   0,
+   1
+  ],
+  "avatar": "crew_portraits_cm_unicorndog_sm.webp",
+  "fleet": ""
+ },
+ {
+  "name": "Captain",
+  "ranks": [
+   0,
+   0,
+   0,
+   1
+  ],
+  "avatar": "fleet_battle_scenarios_practice_space_bg.webp",
   "fleet": ""
  },
  {
@@ -37099,30 +37231,19 @@
    0,
    1
   ],
-  "avatar": "crew_portraits_cm_rikeradmiral_sm.webp",
-  "fleet": "BOW - STT"
- },
- {
-  "name": "Captain",
-  "ranks": [
-   0,
-   0,
-   0,
-   1
-  ],
-  "avatar": "fleet_battle_scenarios_practice_space_bg.webp",
+  "avatar": "crew_portraits_cm_kirkromulan_sm.webp",
   "fleet": ""
  },
  {
-  "name": "Captain",
+  "name": "Captain  Cheng",
   "ranks": [
    0,
    0,
    0,
    1
   ],
-  "avatar": "crew_portraits_cm_remanviceroy_sm.webp",
-  "fleet": "FÖDERATION STERNENFLOTTE"
+  "avatar": "crew_portraits_cm_talosian_keeper_sm.webp",
+  "fleet": "Fédération Starfleet"
  },
  {
   "name": "Captain  Dain Bramage",
@@ -37242,7 +37363,7 @@
    0,
    1
   ],
-  "avatar": "crew_portraits_cm_uhurared_sm.webp",
+  "avatar": "crew_portraits_cm_tucker_sm.webp",
   "fleet": ""
  },
  {
@@ -37253,19 +37374,8 @@
    0,
    1
   ],
-  "avatar": "crew_portraits_cm_tucker_sm.webp",
+  "avatar": "crew_portraits_cm_uhurared_sm.webp",
   "fleet": ""
- },
- {
-  "name": "Captain Cheng",
-  "ranks": [
-   0,
-   0,
-   0,
-   1
-  ],
-  "avatar": "crew_portraits_cm_talosian_keeper_sm.webp",
-  "fleet": "Fédération Starfleet"
  },
  {
   "name": "Captain Cone",
@@ -37631,6 +37741,17 @@
   "fleet": "MakeItSo42"
  },
  {
+  "name": "Captain Magnum",
+  "ranks": [
+   0,
+   0,
+   0,
+   1
+  ],
+  "avatar": "crew_portraits_cm_picardfirstcontact_sm.webp",
+  "fleet": ""
+ },
+ {
   "name": "Captain Mathias",
   "ranks": [
    0,
@@ -37640,6 +37761,17 @@
   ],
   "avatar": "crew_portraits_cm_tucker_sm.webp",
   "fleet": "TUFG] THE UNITED FEDERATION OF GAYS"
+ },
+ {
+  "name": "Captain Mellow",
+  "ranks": [
+   0,
+   0,
+   0,
+   1
+  ],
+  "avatar": "crew_portraits_cm_spock_kolinahr_sm.webp",
+  "fleet": ""
  },
  {
   "name": "Captain Mitz [SJ]",
@@ -37706,6 +37838,17 @@
   ],
   "avatar": "crew_portraits_avatar_grudge_sm.webp",
   "fleet": "TREK LIVES MATTER"
+ },
+ {
+  "name": "Captain Pete [BLM] [IR]",
+  "ranks": [
+   0,
+   0,
+   0,
+   1
+  ],
+  "avatar": "crew_portraits_cm_burnham_resistance_sm.webp",
+  "fleet": "\u003cb\u003e \u003c#008000\u003e Independent Rebels"
  },
  {
   "name": "Captain Pizzard",
@@ -37862,17 +38005,6 @@
   "fleet": "FURYON WAKE"
  },
  {
-  "name": "Captain Tiefgang",
-  "ranks": [
-   0,
-   0,
-   0,
-   1
-  ],
-  "avatar": "crew_portraits_cm_spock_kolinahr_sm.webp",
-  "fleet": ""
- },
- {
   "name": "Captain Tootles",
   "ranks": [
    0,
@@ -37947,6 +38079,17 @@
    1
   ],
   "avatar": "crew_portraits_cm_datacowboy_sm.webp",
+  "fleet": ""
+ },
+ {
+  "name": "Captian Woods",
+  "ranks": [
+   0,
+   0,
+   0,
+   1
+  ],
+  "avatar": "crew_portraits_cm_janeway_viceadmiral_sm.webp",
   "fleet": ""
  },
  {
@@ -38445,6 +38588,17 @@
   "fleet": ""
  },
  {
+  "name": "Commodore Ulic QelDroma",
+  "ranks": [
+   0,
+   0,
+   0,
+   1
+  ],
+  "avatar": "crew_portraits_cm_seven_borg_queen_sm.webp",
+  "fleet": "US COLORADO"
+ },
+ {
   "name": "Coop",
   "ranks": [
    0,
@@ -38709,6 +38863,17 @@
   "fleet": "FOR CARDASSIA!!!!!"
  },
  {
+  "name": "DAM",
+  "ranks": [
+   0,
+   0,
+   0,
+   1
+  ],
+  "avatar": "crew_portraits_cm_emh_android_sm.webp",
+  "fleet": "The Umbrella Acadamy"
+ },
+ {
   "name": "DWC",
   "ranks": [
    0,
@@ -38859,8 +39024,8 @@
    0,
    1
   ],
-  "avatar": "crew_portraits_cm_rikeradmiral_sm.webp",
-  "fleet": "DCC"
+  "avatar": "crew_portraits_cm_mirroruhura_sm.webp",
+  "fleet": "SHEILA'S STARFLEET"
  },
  {
   "name": "David",
@@ -38870,8 +39035,8 @@
    0,
    1
   ],
-  "avatar": "crew_portraits_cm_mirroruhura_sm.webp",
-  "fleet": "SHEILA'S STARFLEET"
+  "avatar": "crew_portraits_cm_rikeradmiral_sm.webp",
+  "fleet": "DCC"
  },
  {
   "name": "DavidEBooks",
@@ -39061,17 +39226,6 @@
   "fleet": "FLEET ADMIRAL SHANTI "
  },
  {
-  "name": "Disco Divine",
-  "ranks": [
-   0,
-   0,
-   0,
-   1
-  ],
-  "avatar": "crew_portraits_cm_kira_anastasia_sm.webp",
-  "fleet": "HAUS OF GAGHGAGH"
- },
- {
   "name": "Dishonest Abe",
   "ranks": [
    0,
@@ -39160,17 +39314,6 @@
   "fleet": "STAR-LORD"
  },
  {
-  "name": "Dougie Jones •4LB•",
-  "ranks": [
-   0,
-   0,
-   0,
-   1
-  ],
-  "avatar": "crew_portraits_cm_humanoid_figure_sm.webp",
-  "fleet": "The Four Light Brigade"
- },
- {
   "name": "Dr. Payne",
   "ranks": [
    0,
@@ -39180,17 +39323,6 @@
   ],
   "avatar": "crew_portraits_cm_kolos_sm.webp",
   "fleet": ""
- },
- {
-  "name": "Dr. Strange",
-  "ranks": [
-   0,
-   0,
-   0,
-   1
-  ],
-  "avatar": "crew_portraits_cm_reedsection31_sm.webp",
-  "fleet": "TREKKIS DEUTSCHLAND"
  },
  {
   "name": "Dr. T",
@@ -39246,17 +39378,6 @@
   ],
   "avatar": "crew_portraits_cm_damarrevolution_sm.webp",
   "fleet": ""
- },
- {
-  "name": "Drk Doctor SCI (swo)",
-  "ranks": [
-   0,
-   0,
-   0,
-   1
-  ],
-  "avatar": "crew_portraits_cm_matt_decker_sm.webp",
-  "fleet": "SPOCKWORK ORANGE"
  },
  {
   "name": "Drunkhead",
@@ -39655,28 +39776,6 @@
   "fleet": ""
  },
  {
-  "name": "Feds Capt J T Aylor Recruiting",
-  "ranks": [
-   0,
-   0,
-   0,
-   1
-  ],
-  "avatar": "crew_portraits_cm_phlox_nanoprobe_sm.webp",
-  "fleet": "Feds Retired 2 Risa"
- },
- {
-  "name": "Feds Capt J Tiberius Kirk",
-  "ranks": [
-   0,
-   0,
-   0,
-   1
-  ],
-  "avatar": "crew_portraits_avatar_grudge_sm.webp",
-  "fleet": "Feds Retired 2 Risa"
- },
- {
   "name": "Feeling constipated",
   "ranks": [
    0,
@@ -39776,6 +39875,17 @@
   "fleet": "BOSTON EXPLORERS"
  },
  {
+  "name": "Fleets are Targ Manure!",
+  "ranks": [
+   0,
+   0,
+   0,
+   1
+  ],
+  "avatar": "crew_portraits_cm_boothby_replicant_sm.webp",
+  "fleet": ""
+ },
+ {
   "name": "Flek, 1st Son of Leck",
   "ranks": [
    0,
@@ -39829,6 +39939,17 @@
   ],
   "avatar": "crew_portraits_cm_rikeradmiral_sm.webp",
   "fleet": "Cake Fleet"
+ },
+ {
+  "name": "For Dax Sake {Retired}",
+  "ranks": [
+   0,
+   0,
+   0,
+   1
+  ],
+  "avatar": "crew_portraits_cm_jadzia_dax_bride_sm.webp",
+  "fleet": "Obsidian Order of Garak"
  },
  {
   "name": "Franch of Five [DTI]",
@@ -40124,8 +40245,8 @@
    0,
    1
   ],
-  "avatar": "crew_portraits_cm_garakobsidian_sm.webp",
-  "fleet": "JOLLY ROGER SQUADRON"
+  "avatar": "crew_portraits_cm_proton_avatar_sm.webp",
+  "fleet": "ROMANIA - DACIA FLEET"
  },
  {
   "name": "Garek",
@@ -40135,8 +40256,8 @@
    0,
    1
   ],
-  "avatar": "crew_portraits_cm_proton_avatar_sm.webp",
-  "fleet": "ROMANIA - DACIA FLEET"
+  "avatar": "crew_portraits_cm_garakobsidian_sm.webp",
+  "fleet": "JOLLY ROGER SQUADRON"
  },
  {
   "name": "Gattalla",
@@ -40260,17 +40381,6 @@
   "fleet": "RUSSIAN FLEET"
  },
  {
-  "name": "Glory to God in the Highest",
-  "ranks": [
-   0,
-   0,
-   0,
-   1
-  ],
-  "avatar": "crew_portraits_cm_boothby_replicant_sm.webp",
-  "fleet": ""
- },
- {
   "name": "Goburou",
   "ranks": [
    0,
@@ -40346,6 +40456,17 @@
   ],
   "avatar": "crew_portraits_cm_picardstargazer_sm.webp",
   "fleet": "SAALEKREIS "
+ },
+ {
+  "name": "Graham",
+  "ranks": [
+   0,
+   0,
+   0,
+   1
+  ],
+  "avatar": "crew_portraits_avatar_grudge_sm.webp",
+  "fleet": "DABO ADDICTS ANONYMOUS"
  },
  {
   "name": "Grand Admiral Thrawn",
@@ -40447,26 +40568,15 @@
   "fleet": "COLOGNE AKTIVE"
  },
  {
-  "name": "Gus",
+  "name": "GwynLynx",
   "ranks": [
    0,
    0,
    0,
    1
   ],
-  "avatar": "crew_portraits_cm_kirktosyellow_sm.webp",
-  "fleet": "=j= mirror space junkies"
- },
- {
-  "name": "Gus TiGer@Wien",
-  "ranks": [
-   0,
-   0,
-   0,
-   1
-  ],
-  "avatar": "crew_portraits_cm_archer_cowboy_sm.webp",
-  "fleet": "PON FARR VULCANS"
+  "avatar": "crew_portraits_cm_janewayarachnia_sm.webp",
+  "fleet": "Starfleet Los Angeles (Active)"
  },
  {
   "name": "H o c k e y S p o c k (SPAM)",
@@ -40480,17 +40590,6 @@
   "fleet": ""
  },
  {
-  "name": "HAWKINS [OBS31]",
-  "ranks": [
-   0,
-   0,
-   0,
-   1
-  ],
-  "avatar": "crew_portraits_cm_obrien_scapegoat_sm.webp",
-  "fleet": "THE GUARDIANS OF TOMORROW"
- },
- {
   "name": "Habermas",
   "ranks": [
    0,
@@ -40502,7 +40601,7 @@
   "fleet": "ATTACK OF THE CROHN'S"
  },
  {
-  "name": "Haere Lintesereg",
+  "name": "Haere [STARPORT]",
   "ranks": [
    0,
    0,
@@ -40678,7 +40777,7 @@
   "fleet": ""
  },
  {
-  "name": "Hogi B",
+  "name": "Hogi B [GER-SF]",
   "ranks": [
    0,
    0,
@@ -40766,17 +40865,6 @@
   "fleet": "TG"
  },
  {
-  "name": "Hugyn",
-  "ranks": [
-   0,
-   0,
-   0,
-   1
-  ],
-  "avatar": "crew_portraits_cm_silik_sm.webp",
-  "fleet": "\u003ccolor=green\u003e•VDF• Akademie"
- },
- {
   "name": "Hurley",
   "ranks": [
    0,
@@ -40788,15 +40876,15 @@
   "fleet": ""
  },
  {
-  "name": "I'm a DR Jim....",
+  "name": "I'm a Doctor, Not a...",
   "ranks": [
    0,
    0,
    0,
    1
   ],
-  "avatar": "crew_portraits_cm_worf_future_sm.webp",
-  "fleet": "\u003cB\u003e \u003c#6CDA89\u003e Prometheus Free \u003c#BAADFF\u003e C"
+  "avatar": "crew_portraits_cm_bashir_prisoner_sm.webp",
+  "fleet": "Federation TDD"
  },
  {
   "name": "I've quit! [IAP]",
@@ -40942,7 +41030,7 @@
   "fleet": "ALL PLAYERS WELCOME!"
  },
  {
-  "name": "Intrepid Gherkin ",
+  "name": "Intrepid Gherkin {$o$3}",
   "ranks": [
    0,
    0,
@@ -41028,17 +41116,6 @@
   ],
   "avatar": "crew_portraits_cm_kehleyrmirror_sm.webp",
   "fleet": "DIGNITY AND AN EMPTY SACK"
- },
- {
-  "name": "JCS10538",
-  "ranks": [
-   0,
-   0,
-   0,
-   1
-  ],
-  "avatar": "crew_portraits_cm_kirk_wrathful_sm.webp",
-  "fleet": "CYMRU AM BYTH"
  },
  {
   "name": "JR Sherlock",
@@ -41268,8 +41345,8 @@
    0,
    1
   ],
-  "avatar": "crew_portraits_cm_picardcaptain_sm.webp",
-  "fleet": ""
+  "avatar": "crew_portraits_cm_picardstargazer_sm.webp",
+  "fleet": "Star Fleet Farm Command"
  },
  {
   "name": "Jean Luc Picard",
@@ -41279,19 +41356,8 @@
    0,
    1
   ],
-  "avatar": "crew_portraits_cm_picardstargazer_sm.webp",
-  "fleet": "Star Fleet Farm Command"
- },
- {
-  "name": "Jens Maul",
-  "ranks": [
-   0,
-   0,
-   0,
-   1
-  ],
-  "avatar": "crew_portraits_cm_mress_sm.webp",
-  "fleet": "TEAM DEUTSCHLAND"
+  "avatar": "crew_portraits_cm_picardcaptain_sm.webp",
+  "fleet": ""
  },
  {
   "name": "Jepi",
@@ -41426,7 +41492,7 @@
   "fleet": ""
  },
  {
-  "name": "Johan Silvereyes",
+  "name": "Johan Silvereyes [TRCM]",
   "ranks": [
    0,
    0,
@@ -41624,7 +41690,7 @@
   "fleet": ""
  },
  {
-  "name": "Ka-nuk (T.Prime)",
+  "name": "Ka-nuk(T.Prime)Recruiting",
   "ranks": [
    0,
    0,
@@ -41701,6 +41767,17 @@
   "fleet": "INDEPENDENT SPACE ARMADA"
  },
  {
+  "name": "Kathryn Chakotay [TDI]",
+  "ranks": [
+   0,
+   0,
+   0,
+   1
+  ],
+  "avatar": "crew_portraits_cm_janeway_polaric_sm.webp",
+  "fleet": "The Devore Imperium"
+ },
+ {
   "name": "Keep yer pimp hand strong (ST)",
   "ranks": [
    0,
@@ -41754,6 +41831,17 @@
   ],
   "avatar": "crew_portraits_cm_mirroruhura_sm.webp",
   "fleet": ""
+ },
+ {
+  "name": "Kenny [STA]",
+  "ranks": [
+   0,
+   0,
+   0,
+   1
+  ],
+  "avatar": "crew_portraits_cm_picard_stranded_sm.webp",
+  "fleet": "Startrek Timelines Academy"
  },
  {
   "name": "KettleKorn",
@@ -41822,6 +41910,17 @@
   "fleet": ""
  },
  {
+  "name": "Khan",
+  "ranks": [
+   0,
+   0,
+   0,
+   1
+  ],
+  "avatar": "crew_portraits_cm_khan_sm.webp",
+  "fleet": "Rogue Fleet UK"
+ },
+ {
   "name": "Khel Geitzer",
   "ranks": [
    0,
@@ -41853,17 +41952,6 @@
   ],
   "avatar": "crew_portraits_cm_sevenwwii_sm.webp",
   "fleet": "DIE BEKLOPPTEN "
- },
- {
-  "name": "Kilnspur",
-  "ranks": [
-   0,
-   0,
-   0,
-   1
-  ],
-  "avatar": "crew_portraits_cm_bashir_prisoner_sm.webp",
-  "fleet": "Federation TDD"
  },
  {
   "name": "Kim Cardassian",
@@ -42229,7 +42317,7 @@
   "fleet": ""
  },
  {
-  "name": "Leorome {DD}",
+  "name": "Leorome {DD} {MK}",
   "ranks": [
    0,
    0,
@@ -42249,17 +42337,6 @@
   ],
   "avatar": "crew_portraits_cm_parisproton_sm.webp",
   "fleet": "SECRET SQUADRON"
- },
- {
-  "name": "Lily",
-  "ranks": [
-   0,
-   0,
-   0,
-   1
-  ],
-  "avatar": "crew_portraits_cm_baul_sm.webp",
-  "fleet": ""
  },
  {
   "name": "Liquid Glass",
@@ -42282,6 +42359,17 @@
   ],
   "avatar": "crew_portraits_cm_guinan_fierce_sm.webp",
   "fleet": ""
+ },
+ {
+  "name": "Live Long n Prosper",
+  "ranks": [
+   0,
+   0,
+   0,
+   1
+  ],
+  "avatar": "crew_portraits_cm_spot_avatar_sm.webp",
+  "fleet": "|!¡!| FREE FEDERATION"
  },
  {
   "name": "Lo2cutus",
@@ -42317,17 +42405,6 @@
   "fleet": "KOBAYASHI MARU"
  },
  {
-  "name": "Lone Wolfgang",
-  "ranks": [
-   0,
-   0,
-   0,
-   1
-  ],
-  "avatar": "crew_portraits_cm_datacowboy_sm.webp",
-  "fleet": "\"THE NAKED SULU'S\""
- },
- {
   "name": "Lord Garth",
   "ranks": [
    0,
@@ -42359,17 +42436,6 @@
   ],
   "avatar": "crew_portraits_cm_livingston_sm.webp",
   "fleet": "THE CONTINUUM "
- },
- {
-  "name": "Lord Ribbed for your pleasure",
-  "ranks": [
-   0,
-   0,
-   0,
-   1
-  ],
-  "avatar": "crew_portraits_cm_worf_tourist_sm.webp",
-  "fleet": ""
  },
  {
   "name": "Lorka",
@@ -42592,17 +42658,6 @@
   "fleet": "ARIZONA FLEET"
  },
  {
-  "name": "Magnum PoF",
-  "ranks": [
-   0,
-   0,
-   0,
-   1
-  ],
-  "avatar": "crew_portraits_cm_picardfirstcontact_sm.webp",
-  "fleet": ""
- },
- {
   "name": "Mahric",
   "ranks": [
    0,
@@ -42689,6 +42744,28 @@
   ],
   "avatar": "crew_portraits_cm_spot_avatar_sm.webp",
   "fleet": ""
+ },
+ {
+  "name": "Matt Decker [SST]",
+  "ranks": [
+   0,
+   0,
+   0,
+   1
+  ],
+  "avatar": "crew_portraits_cm_matt_decker_sm.webp",
+  "fleet": "STARSHIP TRISTA"
+ },
+ {
+  "name": "MattBussell",
+  "ranks": [
+   0,
+   0,
+   0,
+   1
+  ],
+  "avatar": "crew_portraits_cm_jadzias1_sm.webp",
+  "fleet": "Elevate the Chat"
  },
  {
   "name": "Mauro",
@@ -42779,17 +42856,6 @@
   "fleet": "9 INCH SPOCK"
  },
  {
-  "name": "Meatlightning",
-  "ranks": [
-   0,
-   0,
-   0,
-   1
-  ],
-  "avatar": "crew_portraits_cm_sevenwwii_sm.webp",
-  "fleet": "SSR The New Obsidian Order"
- },
- {
   "name": "Medina",
   "ranks": [
    0,
@@ -42821,17 +42887,6 @@
   ],
   "avatar": "crew_portraits_cm_unicorndog_sm.webp",
   "fleet": "STATE OF KANSAS"
- },
- {
-  "name": "Memeliu",
-  "ranks": [
-   0,
-   0,
-   0,
-   1
-  ],
-  "avatar": "crew_portraits_cm_xindi_insectoid_sm.webp",
-  "fleet": ""
  },
  {
   "name": "Memorare",
@@ -43098,17 +43153,6 @@
   "fleet": "JADZIA DAX'S"
  },
  {
-  "name": "MrTroi",
-  "ranks": [
-   0,
-   0,
-   0,
-   1
-  ],
-  "avatar": "crew_portraits_cm_rikerpoker_sm.webp",
-  "fleet": "=j= Deep Space Junkies"
- },
- {
   "name": "Mx Avery",
   "ranks": [
    0,
@@ -43118,17 +43162,6 @@
   ],
   "avatar": "crew_portraits_cm_keevan_sm.webp",
   "fleet": "THE DEFECTIVE"
- },
- {
-  "name": "MyNewYearsRes Is...",
-  "ranks": [
-   0,
-   0,
-   0,
-   1
-  ],
-  "avatar": "crew_portraits_cm_jadzias1_sm.webp",
-  "fleet": "Elevate the Chat"
  },
  {
   "name": "Myra Nova",
@@ -43395,6 +43428,17 @@
   "fleet": ""
  },
  {
+  "name": "Nox",
+  "ranks": [
+   0,
+   0,
+   0,
+   1
+  ],
+  "avatar": "crew_portraits_cm_baul_sm.webp",
+  "fleet": ""
+ },
+ {
   "name": "NtoxEK8n",
   "ranks": [
    0,
@@ -43483,6 +43527,17 @@
   "fleet": "[GER] STAR FLEET"
  },
  {
+  "name": "Oh captain, my captain",
+  "ranks": [
+   0,
+   0,
+   0,
+   1
+  ],
+  "avatar": "crew_portraits_cm_picardcaptain_sm.webp",
+  "fleet": "OMEGA CODE 47"
+ },
+ {
   "name": "Oldone",
   "ranks": [
    0,
@@ -43538,18 +43593,7 @@
   "fleet": ""
  },
  {
-  "name": "Orneryboy",
-  "ranks": [
-   0,
-   0,
-   0,
-   1
-  ],
-  "avatar": "crew_portraits_cm_jhetleya_sm.webp",
-  "fleet": "=j= subspace junkies"
- },
- {
-  "name": "Oscar The Grouch IR",
+  "name": "OscarTheGrouchToBAD",
   "ranks": [
    0,
    0,
@@ -43569,6 +43613,17 @@
   ],
   "avatar": "crew_portraits_cm_boothby_sm.webp",
   "fleet": "\u003cb\u003e \u003c#ccff00\u003e Assignment \u003c#18ffff\u003e Earth"
+ },
+ {
+  "name": "Osiris",
+  "ranks": [
+   0,
+   0,
+   0,
+   1
+  ],
+  "avatar": "crew_portraits_cm_seven_borg_queen_sm.webp",
+  "fleet": "BETA NOVA SQUADRON"
  },
  {
   "name": "OuchMaker",
@@ -43604,17 +43659,6 @@
   "fleet": ""
  },
  {
-  "name": "PF- Bismarck the Dawg Prince",
-  "ranks": [
-   0,
-   0,
-   0,
-   1
-  ],
-  "avatar": "crew_portraits_cm_kor_daharmaster_sm.webp",
-  "fleet": "\u003cB\u003e \u003c#6DCA89\u003e Prometheus Free"
- },
- {
   "name": "Palewolf ",
   "ranks": [
    0,
@@ -43635,17 +43679,6 @@
   ],
   "avatar": "crew_portraits_cm_locutus_sm.webp",
   "fleet": "RED SQUAD [GER]"
- },
- {
-  "name": "Pavel [ENT-TNG-DS9-VOY]",
-  "ranks": [
-   0,
-   0,
-   0,
-   1
-  ],
-  "avatar": "crew_portraits_cm_picard_day_sm.webp",
-  "fleet": "SSR The New Obsidian Order"
  },
  {
   "name": "Peppe",
@@ -43798,8 +43831,8 @@
    0,
    1
   ],
-  "avatar": "crew_portraits_cm_picardcaptain_sm.webp",
-  "fleet": ""
+  "avatar": "crew_portraits_cm_picard_numberone_sm.webp",
+  "fleet": "MARINERS"
  },
  {
   "name": "Picard",
@@ -43809,8 +43842,8 @@
    0,
    1
   ],
-  "avatar": "crew_portraits_cm_picard_numberone_sm.webp",
-  "fleet": "MARINERS"
+  "avatar": "crew_portraits_cm_picardcaptain_sm.webp",
+  "fleet": ""
  },
  {
   "name": "Pierce",
@@ -43956,7 +43989,29 @@
   "fleet": ""
  },
  {
-  "name": "Quake [Suncoast]",
+  "name": "Pullermann",
+  "ranks": [
+   0,
+   0,
+   0,
+   1
+  ],
+  "avatar": "crew_portraits_cm_picard_smitten_sm.webp",
+  "fleet": ""
+ },
+ {
+  "name": "P’Tina Twin",
+  "ranks": [
+   0,
+   0,
+   0,
+   1
+  ],
+  "avatar": "crew_portraits_cm_tarah_lieutenant_sm.webp",
+  "fleet": ""
+ },
+ {
+  "name": "Quake",
   "ranks": [
    0,
    0,
@@ -43989,17 +44044,6 @@
   "fleet": ""
  },
  {
-  "name": "RA | Colvin",
-  "ranks": [
-   0,
-   0,
-   0,
-   1
-  ],
-  "avatar": "crew_portraits_cm_culber_mycelial_sm.webp",
-  "fleet": "Raktajino Alliance"
- },
- {
   "name": "RA | Dr. Pepper",
   "ranks": [
    0,
@@ -44022,15 +44066,15 @@
   "fleet": "Raktajino Alliance"
  },
  {
-  "name": "RECRUITING USMC SPACE MARINES",
+  "name": "RA| Admiral Colvin",
   "ranks": [
    0,
    0,
    0,
    1
   ],
-  "avatar": "crew_portraits_cm_tmir_sm.webp",
-  "fleet": "USMC SPACE MARINES"
+  "avatar": "crew_portraits_cm_culber_mycelial_sm.webp",
+  "fleet": "Raktajino Alliance"
  },
  {
   "name": "RSM",
@@ -44077,6 +44121,17 @@
   "fleet": ""
  },
  {
+  "name": "Ramming Speed",
+  "ranks": [
+   0,
+   0,
+   0,
+   1
+  ],
+  "avatar": "crew_portraits_cm_worf_tourist_sm.webp",
+  "fleet": ""
+ },
+ {
   "name": "Ramona [ Queer]",
   "ranks": [
    0,
@@ -44088,15 +44143,15 @@
   "fleet": "GAYS IN SPACE"
  },
  {
-  "name": "Raven",
+  "name": "Rear Admiral Unidog {¥SA}",
   "ranks": [
    0,
    0,
    0,
    1
   ],
-  "avatar": "crew_portraits_cm_locutus_sm.webp",
-  "fleet": ""
+  "avatar": "crew_portraits_cm_unicorndog_sm.webp",
+  "fleet": "¥ulcan Science Academy "
  },
  {
   "name": "Red Prowler (AA2)",
@@ -44341,7 +44396,7 @@
   "fleet": "MSOH"
  },
  {
-  "name": "Rothchild",
+  "name": "Rothchild [[IND]]",
   "ranks": [
    0,
    0,
@@ -44360,6 +44415,17 @@
    1
   ],
   "avatar": "crew_portraits_cm_morn_sm.webp",
+  "fleet": ""
+ },
+ {
+  "name": "Rufus",
+  "ranks": [
+   0,
+   0,
+   0,
+   1
+  ],
+  "avatar": "crew_portraits_cm_abrahamlincoln_sm.webp",
   "fleet": ""
  },
  {
@@ -44462,17 +44528,6 @@
   "fleet": ""
  },
  {
-  "name": "SPOCK",
-  "ranks": [
-   0,
-   0,
-   0,
-   1
-  ],
-  "avatar": "crew_portraits_cm_spockambassador_sm.webp",
-  "fleet": "CRY  HA\\/OC"
- },
- {
   "name": "ST FUP EVIL MY DOG",
   "ranks": [
    0,
@@ -44484,15 +44539,15 @@
   "fleet": ""
  },
  {
-  "name": "STJ - Sophie Viardat Moreau",
+  "name": "STRLGHT",
   "ranks": [
    0,
    0,
    0,
    1
   ],
-  "avatar": "crew_portraits_cm_seven_borg_queen_sm.webp",
-  "fleet": "BETA NOVA SQUADRON"
+  "avatar": "crew_portraits_cm_kira_anastasia_sm.webp",
+  "fleet": "HAUS OF GAGHGAGH"
  },
  {
   "name": "Sabresky  (Uss Prometheus)",
@@ -44548,6 +44603,17 @@
   ],
   "avatar": "crew_portraits_cm_voq_as_ash_sm.webp",
   "fleet": "REED ALERT"
+ },
+ {
+  "name": "Samuel Stonebreaker",
+  "ranks": [
+   0,
+   0,
+   0,
+   1
+  ],
+  "avatar": "crew_portraits_cm_archer_cowboy_sm.webp",
+  "fleet": ""
  },
  {
   "name": "Sancho (OBS 31)",
@@ -44614,17 +44680,6 @@
   ],
   "avatar": "crew_portraits_cm_scott_dress_uniform_sm.webp",
   "fleet": "CALIFORNIA'S FLEET"
- },
- {
-  "name": "Scoundrel Matt Decker SST",
-  "ranks": [
-   0,
-   0,
-   0,
-   1
-  ],
-  "avatar": "crew_portraits_cm_matt_decker_sm.webp",
-  "fleet": "STARSHIP TRISTA"
  },
  {
   "name": "Sean Thayer",
@@ -44792,6 +44847,17 @@
   "fleet": ""
  },
  {
+  "name": "Siggles",
+  "ranks": [
+   0,
+   0,
+   0,
+   1
+  ],
+  "avatar": "crew_portraits_cm_reno_medic_sm.webp",
+  "fleet": ""
+ },
+ {
   "name": "Sigilstar",
   "ranks": [
    0,
@@ -44913,6 +44979,17 @@
   "fleet": "B€RT R¤©K$"
  },
  {
+  "name": "Snake Plissken",
+  "ranks": [
+   0,
+   0,
+   0,
+   1
+  ],
+  "avatar": "crew_portraits_cm_obrien_falcon_sm.webp",
+  "fleet": "9 INCH SPOCK"
+ },
+ {
   "name": "Snowflake xx",
   "ranks": [
    0,
@@ -44966,6 +45043,17 @@
   ],
   "avatar": "crew_portraits_cm_jadziadaxtos_sm.webp",
   "fleet": "F3MINIST WAR CULT"
+ },
+ {
+  "name": "Space*Ninja",
+  "ranks": [
+   0,
+   0,
+   0,
+   1
+  ],
+  "avatar": "crew_portraits_cm_po_runaway_sm.webp",
+  "fleet": ""
  },
  {
   "name": "Speaker To Animals",
@@ -45221,17 +45309,6 @@
   "fleet": ""
  },
  {
-  "name": "Sven Matthies",
-  "ranks": [
-   0,
-   0,
-   0,
-   1
-  ],
-  "avatar": "crew_portraits_cm_rikeradmiral_sm.webp",
-  "fleet": "*ST* STARS RISA"
- },
- {
   "name": "Sweetpea",
   "ranks": [
    0,
@@ -45263,17 +45340,6 @@
   ],
   "avatar": "crew_portraits_cm_garak_saboteur_sm.webp",
   "fleet": ""
- },
- {
-  "name": "T'pau [RR]",
-  "ranks": [
-   0,
-   0,
-   0,
-   1
-  ],
-  "avatar": "crew_portraits_cm_georgiou_rifle_sm.webp",
-  "fleet": "7th Renegade Wing"
  },
  {
   "name": "TAT",
@@ -45450,17 +45516,6 @@
   ],
   "avatar": "crew_portraits_cm_emh_gogh_sm.webp",
   "fleet": ""
- },
- {
-  "name": "The Doctor [TRCM]",
-  "ranks": [
-   0,
-   0,
-   0,
-   1
-  ],
-  "avatar": "crew_portraits_cm_spot_avatar_sm.webp",
-  "fleet": "=j= mirror space junkies"
  },
  {
   "name": "The Dread Pirate Wesley",
@@ -45756,8 +45811,8 @@
    0,
    1
   ],
-  "avatar": "crew_portraits_cm_chekovbillyclairborne_sm.webp",
-  "fleet": ""
+  "avatar": "crew_portraits_cm_sybok_sm.webp",
+  "fleet": "German Star Trek Command"
  },
  {
   "name": "Tom",
@@ -45767,8 +45822,8 @@
    0,
    1
   ],
-  "avatar": "crew_portraits_cm_sybok_sm.webp",
-  "fleet": "German Star Trek Command"
+  "avatar": "crew_portraits_cm_chekovbillyclairborne_sm.webp",
+  "fleet": ""
  },
  {
   "name": "TomServo",
@@ -45892,6 +45947,17 @@
   "fleet": ""
  },
  {
+  "name": "Trippo Marx",
+  "ranks": [
+   0,
+   0,
+   0,
+   1
+  ],
+  "avatar": "crew_portraits_cm_humanoid_figure_sm.webp",
+  "fleet": "The Four Light Brigade"
+ },
+ {
   "name": "Truthaxe",
   "ranks": [
    0,
@@ -45925,7 +45991,7 @@
   "fleet": "1ST RECON FLEET - DISCOVERY"
  },
  {
-  "name": "Tumak (Suncoast)",
+  "name": "Tumak",
   "ranks": [
    0,
    0,
@@ -45980,7 +46046,7 @@
   "fleet": "DA"
  },
  {
-  "name": "Tzarina of ~W~",
+  "name": "Tzarina of WHIF",
   "ranks": [
    0,
    0,
@@ -46011,17 +46077,6 @@
   ],
   "avatar": "crew_portraits_cm_tuckercowboy_sm.webp",
   "fleet": ""
- },
- {
-  "name": "Unidog RADM {¥SA}",
-  "ranks": [
-   0,
-   0,
-   0,
-   1
-  ],
-  "avatar": "crew_portraits_cm_unicorndog_sm.webp",
-  "fleet": "¥ulcan Science Academy "
  },
  {
   "name": "UniformWinter [Borg Pi]",
@@ -46121,17 +46176,6 @@
   ],
   "avatar": "crew_portraits_cm_b4_sm.webp",
   "fleet": "ISTARI"
- },
- {
-  "name": "Vec {DD} °°",
-  "ranks": [
-   0,
-   0,
-   0,
-   1
-  ],
-  "avatar": "crew_portraits_cm_pike_captain_sm.webp",
-  "fleet": "RAGNA{DD}OG5"
  },
  {
   "name": "Velma Smitten (TLA)",
@@ -46263,6 +46307,17 @@
    1
   ],
   "avatar": "crew_portraits_cm_tuckercowboy_sm.webp",
+  "fleet": ""
+ },
+ {
+  "name": "WRG TP eat my ash whole [BAN]",
+  "ranks": [
+   0,
+   0,
+   0,
+   1
+  ],
+  "avatar": "crew_portraits_cm_kolos_sm.webp",
   "fleet": ""
  },
  {
@@ -46420,6 +46475,17 @@
   "fleet": ""
  },
  {
+  "name": "Wishwise",
+  "ranks": [
+   0,
+   0,
+   0,
+   1
+  ],
+  "avatar": "crew_portraits_cm_doctorchaotica_sm.webp",
+  "fleet": ""
+ },
+ {
   "name": "Wizzard (MIS42)",
   "ranks": [
    0,
@@ -46541,17 +46607,6 @@
   "fleet": "ATTACK OF THE CROHN'S"
  },
  {
-  "name": "YapzZ",
-  "ranks": [
-   0,
-   0,
-   0,
-   1
-  ],
-  "avatar": "crew_portraits_cm_proton_avatar_sm.webp",
-  "fleet": ""
- },
- {
   "name": "Yazzypoo",
   "ranks": [
    0,
@@ -46574,17 +46629,6 @@
   "fleet": ""
  },
  {
-  "name": "ZRO B'Anana Torres, DGM",
-  "ranks": [
-   0,
-   0,
-   0,
-   1
-  ],
-  "avatar": "crew_portraits_cm_torre_injured_sm.webp",
-  "fleet": ""
- },
- {
   "name": "ZannDV17",
   "ranks": [
    0,
@@ -46603,8 +46647,8 @@
    0,
    1
   ],
-  "avatar": "crew_portraits_cm_kirk_platonian_sm.webp",
-  "fleet": "WEYOUN'S OPEN FLEET"
+  "avatar": "crew_portraits_cm_sisko_conflicted_sm.webp",
+  "fleet": ""
  },
  {
   "name": "Zapp Brannigan",
@@ -46614,8 +46658,8 @@
    0,
    1
   ],
-  "avatar": "crew_portraits_cm_sisko_conflicted_sm.webp",
-  "fleet": ""
+  "avatar": "crew_portraits_cm_kirk_platonian_sm.webp",
+  "fleet": "WEYOUN'S OPEN FLEET"
  },
  {
   "name": "Zenobia",
@@ -46638,6 +46682,17 @@
   ],
   "avatar": "crew_portraits_cm_crusher_merrymen_sm.webp",
   "fleet": ""
+ },
+ {
+  "name": "Zombie Squirrel",
+  "ranks": [
+   0,
+   0,
+   0,
+   1
+  ],
+  "avatar": "crew_portraits_cm_lorca_prisoner_sm.webp",
+  "fleet": "Oinkla"
  },
  {
   "name": "Zoridium",
@@ -46704,17 +46759,6 @@
   ],
   "avatar": "crew_portraits_cm_spot_avatar_sm.webp",
   "fleet": "10 FORWARD LOUNGERS"
- },
- {
-  "name": "[10F] Comicon",
-  "ranks": [
-   0,
-   0,
-   0,
-   1
-  ],
-  "avatar": "crew_portraits_cm_gary_seven_sm.webp",
-  "fleet": ""
  },
  {
   "name": "[10F] Darkrider",
@@ -46805,6 +46849,39 @@
   "fleet": "10 FORWARD LOUNGERS"
  },
  {
+  "name": "[10F] a.i. IBOL",
+  "ranks": [
+   0,
+   0,
+   0,
+   1
+  ],
+  "avatar": "crew_portraits_cm_emh_android_sm.webp",
+  "fleet": "10 FORWARD LOUNGERS"
+ },
+ {
+  "name": "[7RW] Attack Eyebrows",
+  "ranks": [
+   0,
+   0,
+   0,
+   1
+  ],
+  "avatar": "crew_portraits_cm_yelgrun_sm.webp",
+  "fleet": "7th Renegade Wing"
+ },
+ {
+  "name": "[7RW]Kanamurai",
+  "ranks": [
+   0,
+   0,
+   0,
+   1
+  ],
+  "avatar": "crew_portraits_cm_georgiou_rifle_sm.webp",
+  "fleet": "7th Renegade Wing"
+ },
+ {
   "name": "[7RW]William T. Riker",
   "ranks": [
    0,
@@ -46813,17 +46890,6 @@
    1
   ],
   "avatar": "crew_portraits_cm_livingston_sm.webp",
-  "fleet": "7th Renegade Wing"
- },
- {
-  "name": "[7TW] Attack Eyebrows",
-  "ranks": [
-   0,
-   0,
-   0,
-   1
-  ],
-  "avatar": "crew_portraits_cm_yelgrun_sm.webp",
   "fleet": "7th Renegade Wing"
  },
  {
@@ -46893,17 +46959,6 @@
   "fleet": "9RS"
  },
  {
-  "name": "[AR] Mike Jakson",
-  "ranks": [
-   0,
-   0,
-   0,
-   1
-  ],
-  "avatar": "crew_portraits_cm_uhurawrathofkhan_sm.webp",
-  "fleet": "STARFLEET WISCONSIN"
- },
- {
   "name": "[AR] ShortProf",
   "ranks": [
    0,
@@ -46913,17 +46968,6 @@
   ],
   "avatar": "crew_portraits_cm_ezrimirror_sm.webp",
   "fleet": "Anonymous Redshirts"
- },
- {
-  "name": "[BAD] *Space•Ninja*",
-  "ranks": [
-   0,
-   0,
-   0,
-   1
-  ],
-  "avatar": "crew_portraits_cm_po_runaway_sm.webp",
-  "fleet": ""
  },
  {
   "name": "[BAD] Behavior",
@@ -46946,17 +46990,6 @@
   ],
   "avatar": "crew_portraits_cm_spock_kirk_reunion_sm.webp",
   "fleet": "BORG ASSIMILATION DRONES"
- },
- {
-  "name": "[BAD] CONTROL",
-  "ranks": [
-   0,
-   0,
-   0,
-   1
-  ],
-  "avatar": "crew_portraits_cm_lorca_prisoner_sm.webp",
-  "fleet": "Oinkla"
  },
  {
   "name": "[BART'S] Razzun",
@@ -47058,17 +47091,6 @@
   "fleet": ""
  },
  {
-  "name": "[BL] Oh Captain, my Captain",
-  "ranks": [
-   0,
-   0,
-   0,
-   1
-  ],
-  "avatar": "crew_portraits_cm_picardcaptain_sm.webp",
-  "fleet": "OMEGA CODE 47"
- },
- {
   "name": "[BL] Scofield",
   "ranks": [
    0,
@@ -47089,17 +47111,6 @@
   ],
   "avatar": "crew_portraits_cm_phlox_natural_sm.webp",
   "fleet": "BROFLEET "
- },
- {
-  "name": "[BSR] Comm. Wendall",
-  "ranks": [
-   0,
-   0,
-   0,
-   1
-  ],
-  "avatar": "crew_portraits_cm_vash_profiteer_sm.webp",
-  "fleet": "BLUE SKIES RISING"
  },
  {
   "name": "[CAB] Dokken",
@@ -47143,6 +47154,17 @@
    1
   ],
   "avatar": "crew_portraits_cm_captain_burnham_sm.webp",
+  "fleet": ""
+ },
+ {
+  "name": "[CFOH2] Raven",
+  "ranks": [
+   0,
+   0,
+   0,
+   1
+  ],
+  "avatar": "crew_portraits_cm_locutus_sm.webp",
   "fleet": ""
  },
  {
@@ -47267,6 +47289,17 @@
   "fleet": "CRY  HA\\/OC"
  },
  {
+  "name": "[CH] SPOCK",
+  "ranks": [
+   0,
+   0,
+   0,
+   1
+  ],
+  "avatar": "crew_portraits_cm_spockambassador_sm.webp",
+  "fleet": "CRY  HA\\/OC"
+ },
+ {
   "name": "[CSF] Whit [••]",
   "ranks": [
    0,
@@ -47297,17 +47330,6 @@
    1
   ],
   "avatar": "crew_portraits_cm_watsonlaforge_sm.webp",
-  "fleet": ""
- },
- {
-  "name": "[DCC] Captain Woods",
-  "ranks": [
-   0,
-   0,
-   0,
-   1
-  ],
-  "avatar": "crew_portraits_cm_janeway_viceadmiral_sm.webp",
   "fleet": ""
  },
  {
@@ -47487,6 +47509,17 @@
   "fleet": ""
  },
  {
+  "name": "[DIS] jai",
+  "ranks": [
+   0,
+   0,
+   0,
+   1
+  ],
+  "avatar": "crew_portraits_cm_sisko_conflicted_sm.webp",
+  "fleet": ""
+ },
+ {
   "name": "[DIS] • NICOLA STURGEON",
   "ranks": [
    0,
@@ -47564,17 +47597,6 @@
   "fleet": "Dragons Reach"
  },
  {
-  "name": "[DR] Chief Engineer Cousins",
-  "ranks": [
-   0,
-   0,
-   0,
-   1
-  ],
-  "avatar": "crew_portraits_cm_data_carlos_sm.webp",
-  "fleet": "\u003c#00ff00\u003eDragons Landing"
- },
- {
   "name": "[DR] drusilla_93",
   "ranks": [
    0,
@@ -47583,6 +47605,17 @@
    1
   ],
   "avatar": "crew_portraits_cm_sevencheesecake_sm.webp",
+  "fleet": "Dragons Reach"
+ },
+ {
+  "name": "[DR]Samppa",
+  "ranks": [
+   0,
+   0,
+   0,
+   1
+  ],
+  "avatar": "crew_portraits_cm_wyatt_earp_sm.webp",
   "fleet": "Dragons Reach"
  },
  {
@@ -47782,17 +47815,6 @@
   ],
   "avatar": "crew_portraits_cm_caretaker_sm.webp",
   "fleet": ""
- },
- {
-  "name": "[FF] Approaching Infinity",
-  "ranks": [
-   0,
-   0,
-   0,
-   1
-  ],
-  "avatar": "crew_portraits_cm_emh_android_sm.webp",
-  "fleet": "10 FORWARD LOUNGERS"
  },
  {
   "name": "[FF] Azrael",
@@ -48070,6 +48092,17 @@
   "fleet": ""
  },
  {
+  "name": "[GOT] Angry Warbird",
+  "ranks": [
+   0,
+   0,
+   0,
+   1
+  ],
+  "avatar": "crew_portraits_cm_spock_pilot_sm.webp",
+  "fleet": "THE GUARDIANS OF TOMORROW"
+ },
+ {
   "name": "[GSA] Cpt Käsefuß",
   "ranks": [
    0,
@@ -48111,17 +48144,6 @@
    1
   ],
   "avatar": "crew_portraits_cm_one_sm.webp",
-  "fleet": "[GSA] GERMAN SPACE AGENCY"
- },
- {
-  "name": "[GSA] rekrutiert",
-  "ranks": [
-   0,
-   0,
-   0,
-   1
-  ],
-  "avatar": "crew_portraits_cm_seven_borg_queen_sm.webp",
   "fleet": "[GSA] GERMAN SPACE AGENCY"
  },
  {
@@ -48202,6 +48224,17 @@
   "fleet": "THE GUARDIANS OF TOMORROW"
  },
  {
+  "name": "[GoT] POKERBRAT85",
+  "ranks": [
+   0,
+   0,
+   0,
+   1
+  ],
+  "avatar": "crew_portraits_cm_obrien_scapegoat_sm.webp",
+  "fleet": "THE GUARDIANS OF TOMORROW"
+ },
+ {
   "name": "[GoT] RikerStance",
   "ranks": [
    0,
@@ -48224,17 +48257,6 @@
   "fleet": ""
  },
  {
-  "name": "[GoT] Siggles",
-  "ranks": [
-   0,
-   0,
-   0,
-   1
-  ],
-  "avatar": "crew_portraits_cm_reno_medic_sm.webp",
-  "fleet": ""
- },
- {
   "name": "[GoT] Zadok",
   "ranks": [
    0,
@@ -48254,17 +48276,6 @@
    1
   ],
   "avatar": "crew_portraits_cm_white_rabbit_sm.webp",
-  "fleet": "THE GUARDIANS OF TOMORROW"
- },
- {
-  "name": "[GoT]Angry Warbird",
-  "ranks": [
-   0,
-   0,
-   0,
-   1
-  ],
-  "avatar": "crew_portraits_cm_spock_pilot_sm.webp",
   "fleet": "THE GUARDIANS OF TOMORROW"
  },
  {
@@ -48367,6 +48378,17 @@
   "fleet": "Inner Planets Alliance"
  },
  {
+  "name": "[IPA] Markas Aswell",
+  "ranks": [
+   0,
+   0,
+   0,
+   1
+  ],
+  "avatar": "crew_portraits_cm_livingston_sm.webp",
+  "fleet": "[IPA2] Inner Planets Retirees"
+ },
+ {
   "name": "[IPA] Melusine",
   "ranks": [
    0,
@@ -48387,28 +48409,6 @@
   ],
   "avatar": "crew_portraits_avatar_grudge_sm.webp",
   "fleet": "Inner Planets Alliance"
- },
- {
-  "name": "[IPA] colonel Dunsel Green",
-  "ranks": [
-   0,
-   0,
-   0,
-   1
-  ],
-  "avatar": "crew_portraits_cm_livingston_sm.webp",
-  "fleet": "[IPA2] Inner Planets Retirees"
- },
- {
-  "name": "[ISA] Live Long n Prosper",
-  "ranks": [
-   0,
-   0,
-   0,
-   1
-  ],
-  "avatar": "crew_portraits_cm_spot_avatar_sm.webp",
-  "fleet": "|!¡!| FREE FEDERATION"
  },
  {
   "name": "[ISA] Raven",
@@ -48763,6 +48763,17 @@
   "fleet": ""
  },
  {
+  "name": "[NDQ]sstelmaschuk",
+  "ranks": [
+   0,
+   0,
+   0,
+   1
+  ],
+  "avatar": "crew_portraits_cm_culber_mycelial_sm.webp",
+  "fleet": ""
+ },
+ {
   "name": "[NoT] Captain Clueless",
   "ranks": [
    0,
@@ -48818,17 +48829,6 @@
   "fleet": "FUP STARFLEET FRANCE"
  },
  {
-  "name": "[PEG] Isidor",
-  "ranks": [
-   0,
-   0,
-   0,
-   1
-  ],
-  "avatar": "crew_portraits_cm_patrick_admiral_sm.webp",
-  "fleet": "Rise of the Phoenix"
- },
- {
   "name": "[PEG] Soviyet Wookie [MOO]",
   "ranks": [
    0,
@@ -48840,6 +48840,17 @@
   "fleet": "-PEGASUS-"
  },
  {
+  "name": "[PFV] Gus",
+  "ranks": [
+   0,
+   0,
+   0,
+   1
+  ],
+  "avatar": "crew_portraits_cm_archer_cowboy_sm.webp",
+  "fleet": "PON FARR VULCANS"
+ },
+ {
   "name": "[PFV] Hape",
   "ranks": [
    0,
@@ -48849,6 +48860,17 @@
   ],
   "avatar": "crew_portraits_cm_riker_age_of_sail_sm.webp",
   "fleet": ""
+ },
+ {
+  "name": "[PF] Bismarck",
+  "ranks": [
+   0,
+   0,
+   0,
+   1
+  ],
+  "avatar": "crew_portraits_cm_kor_daharmaster_sm.webp",
+  "fleet": "\u003cB\u003e \u003c#6DCA89\u003e Prometheus Free"
  },
  {
   "name": "[Pr1mo]  Losco1",
@@ -48893,17 +48915,6 @@
   ],
   "avatar": "crew_portraits_cm_spot_avatar_sm.webp",
   "fleet": "QUARKS HOLOSUITE"
- },
- {
-  "name": "[QH] Commander Shepard",
-  "ranks": [
-   0,
-   0,
-   0,
-   1
-  ],
-  "avatar": "crew_portraits_cm_apollo_sm.webp",
-  "fleet": "Subspace Eddies"
  },
  {
   "name": "[QH] Dar",
@@ -49049,18 +49060,7 @@
   "fleet": ""
  },
  {
-  "name": "[RR] Badgerbot",
-  "ranks": [
-   0,
-   0,
-   0,
-   1
-  ],
-  "avatar": "crew_portraits_cm_spot_avatar_sm.webp",
-  "fleet": "TARDIS of WHO"
- },
- {
-  "name": "[RR] Chris",
+  "name": "[RR] Gradian",
   "ranks": [
    0,
    0,
@@ -49069,17 +49069,6 @@
   ],
   "avatar": "crew_portraits_cm_shrandueling_sm.webp",
   "fleet": "RUFFRIDERS"
- },
- {
-  "name": "[RR] Drago Museveni",
-  "ranks": [
-   0,
-   0,
-   0,
-   1
-  ],
-  "avatar": "crew_portraits_cm_kolos_sm.webp",
-  "fleet": ""
  },
  {
   "name": "[RR] Kermernder Werf",
@@ -49148,6 +49137,17 @@
   "fleet": ""
  },
  {
+  "name": "[RotP] Isidor",
+  "ranks": [
+   0,
+   0,
+   0,
+   1
+  ],
+  "avatar": "crew_portraits_cm_patrick_admiral_sm.webp",
+  "fleet": "Rise of the Phoenix"
+ },
+ {
   "name": "[S-A-C] Irmel",
   "ranks": [
    0,
@@ -49157,17 +49157,6 @@
   ],
   "avatar": "crew_portraits_cm_sevencheesecake_sm.webp",
   "fleet": "Starfleet-Alpha-Command"
- },
- {
-  "name": "[S14] Captain Blonde Beard",
-  "ranks": [
-   0,
-   0,
-   0,
-   1
-  ],
-  "avatar": "crew_portraits_cm_picard_numberone_sm.webp",
-  "fleet": "SSR - Unimatrix One"
  },
  {
   "name": "[S14] Nate",
@@ -49234,6 +49223,17 @@
   ],
   "avatar": "crew_portraits_ageofsail_avatar_sm.webp",
   "fleet": "STARFLEET CIS"
+ },
+ {
+  "name": "[SE] Commander Shepard",
+  "ranks": [
+   0,
+   0,
+   0,
+   1
+  ],
+  "avatar": "crew_portraits_cm_apollo_sm.webp",
+  "fleet": "Subspace Eddies"
  },
  {
   "name": "[SFC] Captain Q",
@@ -49412,6 +49412,17 @@
   "fleet": "SSR Delta Flyers"
  },
  {
+  "name": "[SSR-TOO] Ranger",
+  "ranks": [
+   0,
+   0,
+   0,
+   1
+  ],
+  "avatar": "crew_portraits_cm_picard_day_sm.webp",
+  "fleet": "SSR The New Obsidian Order"
+ },
+ {
   "name": "[SSR] Centaurus",
   "ranks": [
    0,
@@ -49533,6 +49544,17 @@
   "fleet": ""
  },
  {
+  "name": "[SSR]Porcella Passerine",
+  "ranks": [
+   0,
+   0,
+   0,
+   1
+  ],
+  "avatar": "crew_portraits_cm_seven_fenris_sm.webp",
+  "fleet": "SSR The New Obsidian Order"
+ },
+ {
   "name": "[SST] Anithralia",
   "ranks": [
    0,
@@ -49542,17 +49564,6 @@
   ],
   "avatar": "crew_portraits_cm_sutra_sm.webp",
   "fleet": "STARSHIP TRISTA"
- },
- {
-  "name": "[SST] Capitano",
-  "ranks": [
-   0,
-   0,
-   0,
-   1
-  ],
-  "avatar": "crew_portraits_cm_spot_avatar_sm.webp",
-  "fleet": "=j= mirror space junkies"
  },
  {
   "name": "[SST] Lt. Spikearton",
@@ -49608,17 +49619,6 @@
   ],
   "avatar": "crew_portraits_cm_data_henry_sm.webp",
   "fleet": ""
- },
- {
-  "name": "[STE] Porcella Passerine",
-  "ranks": [
-   0,
-   0,
-   0,
-   1
-  ],
-  "avatar": "crew_portraits_cm_seven_fenris_sm.webp",
-  "fleet": "SSR The New Obsidian Order"
  },
  {
   "name": "[STFL] Alissa Donnikova",
@@ -49808,17 +49808,6 @@
   "fleet": ""
  },
  {
-  "name": "[SoCo] Pullermann",
-  "ranks": [
-   0,
-   0,
-   0,
-   1
-  ],
-  "avatar": "crew_portraits_cm_picard_smitten_sm.webp",
-  "fleet": ""
- },
- {
   "name": "[SoS] LocoGato",
   "ranks": [
    0,
@@ -49940,6 +49929,17 @@
   "fleet": "TEAM DEUTSCHLAND"
  },
  {
+  "name": "[TDE] Jens Maul",
+  "ranks": [
+   0,
+   0,
+   0,
+   1
+  ],
+  "avatar": "crew_portraits_cm_mress_sm.webp",
+  "fleet": "TEAM DEUTSCHLAND"
+ },
+ {
   "name": "[TDF] Commander Doctor",
   "ranks": [
    0,
@@ -49949,6 +49949,17 @@
   ],
   "avatar": "crew_portraits_cm_ech_sm.webp",
   "fleet": ""
+ },
+ {
+  "name": "[TD] Dr. Strange",
+  "ranks": [
+   0,
+   0,
+   0,
+   1
+  ],
+  "avatar": "crew_portraits_cm_reedsection31_sm.webp",
+  "fleet": "TREKKIS DEUTSCHLAND"
  },
  {
   "name": "[TD] Meridiv",
@@ -49984,17 +49995,6 @@
   "fleet": "TASK FORCE APRIL"
  },
  {
-  "name": "[TFA] Dex",
-  "ranks": [
-   0,
-   0,
-   0,
-   1
-  ],
-  "avatar": "crew_portraits_cm_reedsection31_sm.webp",
-  "fleet": "• Fair Haven •"
- },
- {
   "name": "[TFC] Baeyoun",
   "ranks": [
    0,
@@ -50015,17 +50015,6 @@
   ],
   "avatar": "crew_portraits_avatar_grudge_sm.webp",
   "fleet": "The .Fifth. Column"
- },
- {
-  "name": "[TGE] Admiral Kenny",
-  "ranks": [
-   0,
-   0,
-   0,
-   1
-  ],
-  "avatar": "crew_portraits_cm_picard_stranded_sm.webp",
-  "fleet": "Startrek Timelines Academy"
  },
  {
   "name": "[TGE] Brauggi",
@@ -50059,6 +50048,17 @@
   ],
   "avatar": "crew_portraits_cm_locutus_sm.webp",
   "fleet": "TGE 2: Glutenous Boogaloo"
+ },
+ {
+  "name": "[TGE] Memeliu",
+  "ranks": [
+   0,
+   0,
+   0,
+   1
+  ],
+  "avatar": "crew_portraits_cm_xindi_insectoid_sm.webp",
+  "fleet": ""
  },
  {
   "name": "[TGE] Number One",
@@ -50190,17 +50190,6 @@
    1
   ],
   "avatar": "crew_portraits_cm_ariksoong_sm.webp",
-  "fleet": ""
- },
- {
-  "name": "[TLA] Captain P’Tina",
-  "ranks": [
-   0,
-   0,
-   0,
-   1
-  ],
-  "avatar": "crew_portraits_cm_tarah_lieutenant_sm.webp",
   "fleet": ""
  },
  {
@@ -50336,6 +50325,17 @@
   "fleet": "\"THE NAKED SULU'S\""
  },
  {
+  "name": "[TNS] Lone Wolfgang",
+  "ranks": [
+   0,
+   0,
+   0,
+   1
+  ],
+  "avatar": "crew_portraits_cm_datacowboy_sm.webp",
+  "fleet": "\"THE NAKED SULU'S\""
+ },
+ {
   "name": "[TNS] Macho B.S",
   "ranks": [
    0,
@@ -50358,6 +50358,17 @@
   "fleet": "SSR The New Obsidian Order"
  },
  {
+  "name": "[TOO] Captain Blonde Beard",
+  "ranks": [
+   0,
+   0,
+   0,
+   1
+  ],
+  "avatar": "crew_portraits_cm_picard_numberone_sm.webp",
+  "fleet": "SSR - Unimatrix One"
+ },
+ {
   "name": "[TOO] Crusher Kai",
   "ranks": [
    0,
@@ -50378,6 +50389,28 @@
   ],
   "avatar": "crew_portraits_cm_icheb_sm.webp",
   "fleet": "SSR - Unimatrix One"
+ },
+ {
+  "name": "[TOO] MeatLightning",
+  "ranks": [
+   0,
+   0,
+   0,
+   1
+  ],
+  "avatar": "crew_portraits_cm_sevenwwii_sm.webp",
+  "fleet": "SSR The New Obsidian Order"
+ },
+ {
+  "name": "[TOO] Sisko",
+  "ranks": [
+   0,
+   0,
+   0,
+   1
+  ],
+  "avatar": "crew_portraits_cm_siskoeyepiece_sm.webp",
+  "fleet": "SSR The New Obsidian Order"
  },
  {
   "name": "[TOTN] Amt",
@@ -50699,17 +50732,6 @@
   "fleet": "VIP 0 HEROES"
  },
  {
-  "name": "[Wolf 359] Wishwise",
-  "ranks": [
-   0,
-   0,
-   0,
-   1
-  ],
-  "avatar": "crew_portraits_cm_doctorchaotica_sm.webp",
-  "fleet": ""
- },
- {
   "name": "[Wolf359] Eamz",
   "ranks": [
    0,
@@ -50842,7 +50864,18 @@
   "fleet": ""
  },
  {
-  "name": "]-o-[ Blazin' Bev Vice Adm",
+  "name": "]-o-[  Admiral Q Baker",
+  "ranks": [
+   0,
+   0,
+   0,
+   1
+  ],
+  "avatar": "crew_portraits_cm_qstarfleet_sm.webp",
+  "fleet": "Nimitz the Space Flattop"
+ },
+ {
+  "name": "]-o-[ Blazin' Bev",
   "ranks": [
    0,
    0,
@@ -50853,7 +50886,7 @@
   "fleet": "Nimitz the Space Flattop"
  },
  {
-  "name": "]-o-[ Phlox, Dr. Phlox",
+  "name": "]-o-[ Hollander, Frank Holla…",
   "ranks": [
    0,
    0,
@@ -50872,17 +50905,6 @@
    1
   ],
   "avatar": "crew_portraits_cm_automatedunit3947_sm.webp",
-  "fleet": "Nimitz the Space Flattop"
- },
- {
-  "name": "]-o-[ Unicorn Sparkle OPS",
-  "ranks": [
-   0,
-   0,
-   0,
-   1
-  ],
-  "avatar": "crew_portraits_cm_morn_sm.webp",
   "fleet": "Nimitz the Space Flattop"
  },
  {
@@ -51062,17 +51084,6 @@
   "fleet": ""
  },
  {
-  "name": "chuck norris",
-  "ranks": [
-   0,
-   0,
-   0,
-   1
-  ],
-  "avatar": "crew_portraits_cm_bashirwwii_sm.webp",
-  "fleet": "Battleship Yamato"
- },
- {
   "name": "ciccio trek",
   "ranks": [
    0,
@@ -51092,6 +51103,17 @@
    1
   ],
   "avatar": "crew_portraits_cm_spocktommygun_sm.webp",
+  "fleet": ""
+ },
+ {
+  "name": "comicon quit",
+  "ranks": [
+   0,
+   0,
+   0,
+   1
+  ],
+  "avatar": "crew_portraits_cm_gary_seven_sm.webp",
   "fleet": ""
  },
  {
@@ -51458,6 +51480,17 @@
   "fleet": ""
  },
  {
+  "name": "michlang [Suncoast]",
+  "ranks": [
+   0,
+   0,
+   0,
+   1
+  ],
+  "avatar": "crew_portraits_cm_siskotos_sm.webp",
+  "fleet": "SUNCOAST"
+ },
+ {
   "name": "moak",
   "ranks": [
    0,
@@ -51667,17 +51700,6 @@
   "fleet": ""
  },
  {
-  "name": "sstelmaschuk",
-  "ranks": [
-   0,
-   0,
-   0,
-   1
-  ],
-  "avatar": "crew_portraits_cm_culber_mycelial_sm.webp",
-  "fleet": ""
- },
- {
   "name": "suri",
   "ranks": [
    0,
@@ -51709,17 +51731,6 @@
   ],
   "avatar": "crew_portraits_cm_sevenbluegreyshoulders_sm.webp",
   "fleet": "CRIME MOB DEFAMILA"
- },
- {
-  "name": "te’fil  •¥SA•",
-  "ranks": [
-   0,
-   0,
-   0,
-   1
-  ],
-  "avatar": "crew_portraits_cm_tpol_captain_sm.webp",
-  "fleet": "¥ulcan Science Academy "
  },
  {
   "name": "the1_2_beat",
@@ -51785,6 +51796,17 @@
    1
   ],
   "avatar": "crew_portraits_cm_antaakent_sm.webp",
+  "fleet": "¥ulcan Science Academy "
+ },
+ {
+  "name": "t’fil   •¥SA•",
+  "ranks": [
+   0,
+   0,
+   0,
+   1
+  ],
+  "avatar": "crew_portraits_cm_tpol_captain_sm.webp",
   "fleet": "¥ulcan Science Academy "
  },
  {
@@ -51887,7 +51909,7 @@
   "fleet": "CASTLE FAMILY MAFIA"
  },
  {
-  "name": "zampano",
+  "name": "zonk-o-mat",
   "ranks": [
    0,
    0,
@@ -51909,7 +51931,7 @@
   "fleet": ""
  },
  {
-  "name": "{ACE} LtCmd-Viney",
+  "name": "{ACE} Capt. Viney",
   "ranks": [
    0,
    0,
@@ -51973,6 +51995,17 @@
   ],
   "avatar": "crew_portraits_cm_kira_anastasia_sm.webp",
   "fleet": "ASSIMILATED FEDERATION"
+ },
+ {
+  "name": "{CAB}Geaux4tigers",
+  "ranks": [
+   0,
+   0,
+   0,
+   1
+  ],
+  "avatar": "crew_portraits_cm_kirk_wrathful_sm.webp",
+  "fleet": "CYMRU AM BYTH"
  },
  {
   "name": "{DDM} Corran Horn",
@@ -52063,17 +52096,6 @@
   "fleet": "D3VIL D0G5"
  },
  {
-  "name": "{DD} Saltlake",
-  "ranks": [
-   0,
-   0,
-   0,
-   1
-  ],
-  "avatar": "crew_portraits_cm_grathon_tolar_sm.webp",
-  "fleet": "WarDOG5 {DD}"
- },
- {
   "name": "{DD} T05K",
   "ranks": [
    0,
@@ -52083,6 +52105,17 @@
   ],
   "avatar": "crew_portraits_cm_tosk_sm.webp",
   "fleet": ""
+ },
+ {
+  "name": "{DD} Vec°°",
+  "ranks": [
+   0,
+   0,
+   0,
+   1
+  ],
+  "avatar": "crew_portraits_cm_pike_captain_sm.webp",
+  "fleet": "RAGNA{DD}OG5"
  },
  {
   "name": "{DD} two of twelve",
@@ -52160,6 +52193,17 @@
   ],
   "avatar": "crew_portraits_cm_janeway_evolved_sm.webp",
   "fleet": "D3VIL CURS: The R \u0026 R Fleet"
+ },
+ {
+  "name": "{DIS} YapzZ",
+  "ranks": [
+   0,
+   0,
+   0,
+   1
+  ],
+  "avatar": "crew_portraits_cm_proton_avatar_sm.webp",
+  "fleet": ""
  },
  {
   "name": "{DIS} • Cpt. Killerant",
@@ -52259,6 +52303,28 @@
   ],
   "avatar": "crew_portraits_cm_torchbearer_sm.webp",
   "fleet": ""
+ },
+ {
+  "name": "{MK} {DD} Saltlake",
+  "ranks": [
+   0,
+   0,
+   0,
+   1
+  ],
+  "avatar": "crew_portraits_cm_grathon_tolar_sm.webp",
+  "fleet": "WarDOG5 {DD}"
+ },
+ {
+  "name": "{PF} Mackdaddy",
+  "ranks": [
+   0,
+   0,
+   0,
+   1
+  ],
+  "avatar": "crew_portraits_cm_worf_future_sm.webp",
+  "fleet": "\u003cB\u003e \u003c#6CDA89\u003e Prometheus Free \u003c#BAADFF\u003e C"
  },
  {
   "name": "{PTC} Biologytrek",
@@ -52371,17 +52437,6 @@
   "fleet": ""
  },
  {
-  "name": "{RWO} For Dax Sake",
-  "ranks": [
-   0,
-   0,
-   0,
-   1
-  ],
-  "avatar": "crew_portraits_cm_jadzia_dax_bride_sm.webp",
-  "fleet": "Obsidian Order of Garak"
- },
- {
   "name": "{Rainbow} Cinda",
   "ranks": [
    0,
@@ -52412,28 +52467,6 @@
    1
   ],
   "avatar": "crew_portraits_cm_spocktommygun_sm.webp",
-  "fleet": ""
- },
- {
-  "name": "{SOS} ~KathrynChakotay~",
-  "ranks": [
-   0,
-   0,
-   0,
-   1
-  ],
-  "avatar": "crew_portraits_cm_janeway_polaric_sm.webp",
-  "fleet": "The Devore Imperium"
- },
- {
-  "name": "{SØS²}BørgKingReturns",
-  "ranks": [
-   0,
-   0,
-   0,
-   1
-  ],
-  "avatar": "crew_portraits_cm_seven_tsunkatse_sm.webp",
   "fleet": ""
  },
  {
@@ -52503,6 +52536,17 @@
   "fleet": "|!¡!| FREE FEDERATION"
  },
  {
+  "name": "|-o-| Unicorn Sparkle OPS",
+  "ranks": [
+   0,
+   0,
+   0,
+   1
+  ],
+  "avatar": "crew_portraits_cm_morn_sm.webp",
+  "fleet": "Nimitz the Space Flattop"
+ },
+ {
   "name": "|RO| KTz",
   "ranks": [
    0,
@@ -52512,17 +52556,6 @@
   ],
   "avatar": "crew_portraits_cm_data_carlos_sm.webp",
   "fleet": "ROMANIA - DACIA FLEET"
- },
- {
-  "name": "¥SA RADM S Stonebreaker",
-  "ranks": [
-   0,
-   0,
-   0,
-   1
-  ],
-  "avatar": "crew_portraits_cm_archer_cowboy_sm.webp",
-  "fleet": ""
  },
  {
   "name": "«TGE» zmaya",
@@ -52556,6 +52589,17 @@
   ],
   "avatar": "crew_portraits_cm_picard_day_sm.webp",
   "fleet": "Battleship Musashi"
+ },
+ {
+  "name": "÷ Chuck Norris",
+  "ranks": [
+   0,
+   0,
+   0,
+   1
+  ],
+  "avatar": "crew_portraits_cm_bashirwwii_sm.webp",
+  "fleet": "Battleship Yamato"
  },
  {
   "name": "÷ D'Vid",
@@ -52602,6 +52646,17 @@
   "fleet": "Battleship Yamato"
  },
  {
+  "name": "÷ Lt. Dan",
+  "ranks": [
+   0,
+   0,
+   0,
+   1
+  ],
+  "avatar": "crew_portraits_cm_ephraim_dot_sm.webp",
+  "fleet": "Battleship Musashi"
+ },
+ {
   "name": "÷ Lucifer Black",
   "ranks": [
    0,
@@ -52646,17 +52701,6 @@
   "fleet": ""
  },
  {
-  "name": "÷ jairrobali",
-  "ranks": [
-   0,
-   0,
-   0,
-   1
-  ],
-  "avatar": "crew_portraits_cm_sisko_conflicted_sm.webp",
-  "fleet": ""
- },
- {
   "name": "÷ ÷ö÷ Swally",
   "ranks": [
    0,
@@ -52666,17 +52710,6 @@
   ],
   "avatar": "crew_portraits_cm_morn_sm.webp",
   "fleet": "Battleship Musashi"
- },
- {
-  "name": "÷BillyBones",
-  "ranks": [
-   0,
-   0,
-   0,
-   1
-  ],
-  "avatar": "crew_portraits_cm_rikeradmiral_sm.webp",
-  "fleet": ""
  },
  {
   "name": "÷ChrisJay",
@@ -52690,17 +52723,6 @@
   "fleet": "Battleship Musashi"
  },
  {
-  "name": "÷Dan",
-  "ranks": [
-   0,
-   0,
-   0,
-   1
-  ],
-  "avatar": "crew_portraits_cm_ephraim_dot_sm.webp",
-  "fleet": "Battleship Musashi"
- },
- {
   "name": "÷Johny",
   "ranks": [
    0,
@@ -52709,17 +52731,6 @@
    1
   ],
   "avatar": "crew_portraits_cm_hugh_sm.webp",
-  "fleet": ""
- },
- {
-  "name": "÷Rufus",
-  "ranks": [
-   0,
-   0,
-   0,
-   1
-  ],
-  "avatar": "crew_portraits_cm_abrahamlincoln_sm.webp",
   "fleet": ""
  },
  {
@@ -52776,17 +52787,6 @@
   ],
   "avatar": "crew_portraits_cm_bashir_prince_sm.webp",
   "fleet": ""
- },
- {
-  "name": "•KDF• Graham",
-  "ranks": [
-   0,
-   0,
-   0,
-   1
-  ],
-  "avatar": "crew_portraits_avatar_grudge_sm.webp",
-  "fleet": "DABO ADDICTS ANONYMOUS"
  },
  {
   "name": "•§ë• Gomtuu",
